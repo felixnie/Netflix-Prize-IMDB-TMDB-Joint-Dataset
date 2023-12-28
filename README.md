@@ -20,7 +20,11 @@ Your (all-in-one) Netflix Prize dataset, augmented and calibrated with IMDB and 
 
 # What's included?
 
-### 1. Netflix Prize - IMDB joint dataset
+## 1. Netflix Prize - IMDB joint dataset
+
+### Contents
+
+Netflix Prize dataset with IMDB ids, titles and release years. Each movie or TV show may have multiple matching results. The results are ranked by the confidence scores.
 
 ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-06.png)
 
@@ -35,28 +39,32 @@ Your (all-in-one) Netflix Prize dataset, augmented and calibrated with IMDB and 
 | imdb_scores | similarity between results from IMDB and the item from Netflix | 
 | tmdb_ids | corresponding TMDB ids of the IMDB ids, if they have |
 
+### Confidence scores
+
 The `imdb_scores` models the similarity between a record from IMDB and one from Netflix, based on the gap of release years and the similarity of title strings.
 
 $$\frac{similarity(title_{0}, title_{1})}{1.2^{(year_{0} - year_{1})}}$$
 
 Movies with scores lower than 0.3 are dropped.
 
-### 2. Netflix Prize - TMDB joint dataset
-
-Similar to the above.
+### Completeness
 
 | Netflix Prize - IMDB | Netflix Prize - TMDB |
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-02.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-04.png) |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-03.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-05.png) |
 
-### 3. Netflix Prize - IMDB genres
+## 2. Netflix Prize - TMDB joint dataset
 
-### 4. Netflix Prize - TMDB genres
+Similar to the above.
 
-### 5. Netflix Prize - IMDB credits
+## 3. Netflix Prize - IMDB genres
 
-### 6. Netflix Prize - TMDB credits
+## 4. Netflix Prize - TMDB genres
+
+## 5. Netflix Prize - IMDB credits
+
+## 6. Netflix Prize - TMDB credits
 
 # Other datasets
 
