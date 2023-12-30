@@ -49,14 +49,21 @@ Movies with scores lower than 0.3 are dropped.
 
 ### Completeness
 
-| Netflix Prize - IMDB | Netflix Prize - TMDB |
+| distribution | completeness |
 | :------------------: | :------------------: |
-| ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-02.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-04.png) |
-| ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-03.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-05.png) |
+| ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-02.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-03.png) |
 
 ## 2. Netflix Prize - TMDB joint dataset
 
+### Contents
+
 Similar to the above.
+
+### Completeness
+
+| distribution | completeness |
+| :------------------: | :------------------: |
+| ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-04.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-05.png) |
 
 ## 3. Netflix Prize - IMDB genres
 
