@@ -71,15 +71,15 @@ Similar to the [above](#1-netflix-prize---imdb-joint-dataset).
 
 Merged and calibrated by IMDB and TMDB datasets. The calibration rules are:
 
-1. conservative: only movies with scores `> 0.8` are accepted.
+1. only movies with scores `> 0.8` are accepted.
 
-2. ambiguous: it's skipped if there are multiple movies with the same highest score.
+2. it's skipped if there exist multiple movies with the same highest score, `1.0`.
 
 ### Completeness
 
 | distribution | completeness |
 | :------------------: | :------------------: |
-| ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-06.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-07.png) |
+| ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-07.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-08.png) |
 
 ## 4. Netflix Prize - IMDB genres
 
