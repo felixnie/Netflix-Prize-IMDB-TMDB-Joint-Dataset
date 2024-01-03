@@ -45,7 +45,7 @@ The `imdb_scores` models the similarity between a record from IMDB and one from 
 
 $$\frac{similarity(title_{0}, title_{1})}{1.2^{(year_{0} - year_{1})}}$$
 
-Movies with scores lower than 0.3 are dropped.
+Movies with scores `< 0.3` are dropped.
 
 ### Completeness
 
@@ -57,7 +57,7 @@ Movies with scores lower than 0.3 are dropped.
 
 ### Contents
 
-Similar to the above.
+Similar to the [above](#1-netflix-prize---imdb-joint-dataset).
 
 ### Completeness
 
@@ -65,13 +65,29 @@ Similar to the above.
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-04.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-05.png) |
 
-## 3. Netflix Prize - IMDB genres
+## 3. Netflix Prize - IMDB - TMDB calibrated dataset
 
-## 4. Netflix Prize - TMDB genres
+### Contents
+
+Merged and calibrated by IMDB and TMDB datasets. The calibration rules are:
+
+1. conservative: only movies with scores `> 0.8` are accepted.
+
+2. ambiguous: it's skipped if there are multiple movies with the same highest score.
+
+### Completeness
+
+| distribution | completeness |
+| :------------------: | :------------------: |
+| ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-06.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-07.png) |
+
+## 4. Netflix Prize - IMDB genres
+
+## 5. Netflix Prize - TMDB genres
 
 ## 5. Netflix Prize - IMDB credits
 
-## 6. Netflix Prize - TMDB credits
+## 7. Netflix Prize - TMDB credits
 
 # Other datasets
 
