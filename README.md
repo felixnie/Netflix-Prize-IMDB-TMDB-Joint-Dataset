@@ -16,7 +16,7 @@ While aligning movies and TV shows in the Netflix Prize dataset, it's impractica
 
 # What's included?
 
-## 1. Netflix Prize - IMDB dataset
+## 1. `netflix_imdb` Netflix Prize-IMDB dataset
 
 ### Contents
 
@@ -49,7 +49,7 @@ Movies with scores `< 0.3` are dropped.
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-02.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-03.png) |
 
-## 2. Netflix Prize - TMDB dataset
+## 2. `netflix_tmdb` Netflix Prize-TMDB dataset
 
 ### Contents
 
@@ -61,7 +61,7 @@ Similar to the [above](#1-netflix-prize---imdb-joint-dataset).
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-04.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-05.png) |
 
-## 3. Netflix Prize - IMDB - TMDB joint dataset
+## 3. `netflix_imdb_tmdb` Netflix Prize-IMDB-TMDB joint dataset
 
 ### Contents
 
@@ -77,7 +77,7 @@ Merged with IMDB and TMDB datasets. The merging rules are:
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-07.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-08.png) |
 
-## 4. Netflix Prize - IMDB - TMDB joint dataset with genres and cast
+## 4. `netflix_all` Netflix Prize-IMDB-TMDB joint dataset with genres and cast
 
 ### Contents
 
