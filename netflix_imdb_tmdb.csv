@@ -113,7 +113,7 @@
 111,112,tt0107727,185191,The Eye of Vichy,The Eye of Vichy,The Eye of Vichy,1993,1993,1993,1.0,1.0,1.0
 112,113,tt0297814,37588,Bruce Lee: A Warrior's Journey,Bruce Lee: A Warrior's Journey,Bruce Lee: A Warrior's Journey,2000,2000,2000,1.0,1.0,1.0
 113,114,,,Dominion Tank Police Part 1 & 2,,,1989,,,,,
-114,115,None,308332,Lord Peter Wimsey: Murder Must Advertise,,Lord Peter Wimsey Mysteries: Murder Must Advertise,1973,,1973,,0.8888888888888888,0.8888888888888888
+114,115,,308332,Lord Peter Wimsey: Murder Must Advertise,,Lord Peter Wimsey Mysteries: Murder Must Advertise,1973,,1973,,0.8888888888888888,0.8888888888888888
 115,116,tt0359045,47549,Bear Cub,,Bear Cub,2004,,2004,,1.0,1.0
 116,117,tt0050972,43239,Silk Stockings,Silk Stockings,Silk Stockings,1957,1957,1957,1.0,1.0,1.0
 117,118,,,Rambo: First Blood Part II,,,1985,,,,,
@@ -151,7 +151,7 @@
 149,150,tt0243907,,Firetrap,Firetrap,,2001,2001,,1.0,,1.0
 150,151,tt0448123,13568,Sleepover Nightmare,Sleepover Nightmare,Sleepover Nightmare,2005,2005,2005,1.0,1.0,1.0
 151,152,tt0113670,,A Little Princess,A Little Princess,,1995,1995,,1.0,,1.0
-152,153,None None,494457,MTV Yoga,,MTV Yoga,2002,,2002,,1.0,1.0
+152,153,,494457,MTV Yoga,,MTV Yoga,2002,,2002,,1.0,1.0
 153,154,tt0422081,846013,Demon Warrior Koji,,Demon Warrior Koji,2000,,1999,,0.8333333333333334,0.8333333333333334
 154,155,tt0073760,31654,The Strongest Man in the World,The Strongest Man in the World,The Strongest Man in the World,1975,1975,1975,1.0,1.0,1.0
 155,156,tt0104466,28384,Husbands and Wives,Husbands and Wives,Husbands and Wives,1992,1992,1992,1.0,1.0,1.0
@@ -170,7 +170,7 @@
 168,169,,,Cartoon Network Halloween: 9 Creepy Cartoon Capers,,,2004,,,,,
 169,170,tt0069393,83135,Tomorrow,Tomorrow,Tomorrow,1972,1972,1972,1.0,1.0,1.0
 170,171,tt0050419,13320,Funny Face,Funny Face,Funny Face,1957,1957,1957,1.0,1.0,1.0
-171,172,tt0388141' None None,182858,Jack,,Jack,2003,,2004,,0.83333333,0.83333333
+171,172,tt0388141,182858,Jack,,Jack,2003,,2004,,0.83333333,0.83333333
 172,173,tt0062886,31938,The Devil's Brigade,The Devil's Brigade,The Devil's Brigade,1968,1968,1968,1.0,1.0,1.0
 173,174,,,Adam-12: Season 1,,,1968,,,,,
 174,175,tt0105236,500,Reservoir Dogs,Reservoir Dogs,Reservoir Dogs,1992,1992,1992,1.0,1.0,1.0
@@ -182,7 +182,7 @@
 180,181,tt0357054,26486,The Last Shot,The Last Shot,The Last Shot,2004,2004,2004,1.0,1.0,1.0
 181,182,,,Moby: Play,,,2001,,,,,
 182,183,,,IFilm: Deranged,,,2005,,,,,
-183,184,None,642777,Billy Blanks: Tae Bo: Cardio Circuit 1,,Billy Blanks' Tae Bo Cardio Circuit 1,2004,,2004,,0.96,0.96
+183,184,,642777,Billy Blanks: Tae Bo: Cardio Circuit 1,,Billy Blanks' Tae Bo Cardio Circuit 1,2004,,2004,,0.96,0.96
 184,185,,,Missing in Action 2: The Beginning / Missing in Action 3: Braddock,,,1985,,,,,
 185,186,tt0042832,32078,Panic in the Streets,Panic in the Streets,Panic in the Streets,1950,1950,1950,1.0,1.0,1.0
 186,187,,,Death to Smoochy,,,2002,,,,,
@@ -296,7 +296,7 @@
 294,295,tt0112281,9273,Ace Ventura: When Nature Calls,Ace Ventura: When Nature Calls,Ace Ventura: When Nature Calls,1995,1995,1995,1.0,1.0,1.0
 295,296,tt0270430,92874,In His Life: The John Lennon Story,In His Life: The John Lennon Story,In His Life: The John Lennon Story,2000,2000,2000,1.0,1.0,1.0
 296,297,tt0317640,19187,The Hebrew Hammer,The Hebrew Hammer,The Hebrew Hammer,2003,2003,2003,1.0,1.0,1.0
-297,298,None,603291,Crunch: Pick Your Spot Pilates,,Crunch: Pick Your Spot Pilates,2002,,2002,,1.0,1.0
+297,298,,603291,Crunch: Pick Your Spot Pilates,,Crunch: Pick Your Spot Pilates,2002,,2002,,1.0,1.0
 298,299,tt0243155,634,Bridget Jones's Diary,Bridget Jones's Diary,Bridget Jones's Diary,2001,2001,2001,1.0,1.0,1.0
 299,300,tt0206990,68422,Option Zero,,Option Zero,1997,,1997,,1.0,1.0
 300,301,tt0349529,,Hard Ground,Hard Ground,,2003,2003,,1.0,,1.0
@@ -308,7 +308,7 @@
 306,307,tt0888498,,Godsmack: Smack This!,Godsmack: Smack This!,,2002,2002,,1.0,,1.0
 307,308,,,The Legend of the 7 Golden Vampires/7 Brothers of Dracula,,,1974,,,,,
 308,309,tt0072848,5122,The Day of the Locust,The Day of the Locust,The Day of the Locust,1975,1975,1975,1.0,1.0,1.0
-309,310,tt0116851' None 'tt0289990,45899,Leila,,Leila,2000,,1999,,0.83333333,0.83333333
+309,310,tt0116851,45899,Leila,Leila,Leila,2000,1997,1999,0.5787037,0.83333333,0.83333333
 310,311,tt0109707,,Ed Wood,Ed Wood,,1994,1994,,1.0,,1.0
 311,312,tt0146882,243,High Fidelity,High Fidelity,High Fidelity,2000,2000,2000,1.0,1.0,1.0
 312,313,tt0223897,10647,Pay It Forward,Pay It Forward,Pay It Forward,2000,2000,2000,1.0,1.0,1.0
@@ -365,7 +365,7 @@
 363,364,,,Billy Blanks: Tae Bo: Contact 2,,,2004,,,,,
 364,365,tt0163349,70715,R.E.M.: Tourfilm,Tourfilm: R.E.M.,R.E.M. Tourfilm,1989,1990,1990,0.4166666666666667,0.8064516129032259,0.8064516129032259
 365,366,tt0403893,46974,"Still, We Believe: The Boston Red Sox Movie",Still We Believe: The Boston Red Sox Movie,Still We Believe: The Boston Red Sox Movie,2004,2004,2004,0.9882352941176471,0.9882352941176471,0.9882352941176471
-366,367,tt0283003' ,12079,Spun,,Spun,2003,,2003,,1.0,1.0
+366,367,tt0283003,12079,Spun,Spun,Spun,2003,2002,2003,0.83333333,1.0,1.0
 367,368,,,The Best of Designing Women,,,1986,,,,,
 368,369,tt0187559,88634,Playing Mona Lisa,Playing Mona Lisa,Playing Mona Lisa,2000,2000,2000,1.0,1.0,1.0
 369,370,,,Chaplin,,,1918,,,,,
@@ -429,7 +429,7 @@
 427,428,tt0466688,,Barney: Barney's Colorful World: Live,"Barney's Colorful World, Live!",,2004,2004,,0.835820895522388,,0.835820895522388
 428,429,tt0120550,,Zeus and Roxanne,Zeus and Roxanne,,1997,1997,,1.0,,1.0
 429,430,tt0326672,,Chobits,Chobits,,2002,2002,,1.0,,1.0
-430,431,tt0291350' None None,33320,Millennium Actress,,Millennium Actress,2002,,2002,,1.0,1.0
+430,431,tt0291350,33320,Millennium Actress,Millennium Actress,Millennium Actress,2002,2001,2002,0.8333333333333334,1.0,1.0
 431,432,,,Les Miserables in Concert,,,1996,,,,,
 432,433,tt0108451,26333,Untamed Heart,Untamed Heart,Untamed Heart,1993,1993,1993,1.0,1.0,1.0
 433,434,,,Extreme Engineering: Tokyo's Sky City,,,2004,,,,,
@@ -446,7 +446,7 @@
 444,445,,,Michael Collins,,,1996,,,,,
 445,446,tt0114788,36141,The Underneath,The Underneath,The Underneath,1995,1995,1995,1.0,1.0,1.0
 446,447,,,The Making of Fanny and Alexander,,,1986,,,,,
-447,448,None,310059,Oswald: Welcome to the Big City!,,Oswald: Welcome to the Big City!,2001,,2001,,1.0,1.0
+447,448,,310059,Oswald: Welcome to the Big City!,,Oswald: Welcome to the Big City!,2001,,2001,,1.0,1.0
 448,449,tt1186655,,Jimmy Buffett: MiniMatinee #1,Jimmy Buffett: Mini Matinee #1,,2003,2003,,0.9830508474576272,,0.9830508474576272
 449,450,tt0297980,38224,Isaac Stern: Life's Virtuoso,Isaac Stern: Life's Virtuoso,Isaac Stern:  Life's Virtuoso,2000,2000,2000,1.0,0.9824561403508771,1.0
 450,451,,,Batman the Animated Series: Vol. 3,,,1993,,,,,
@@ -460,7 +460,7 @@
 458,459,tt0115632,549,Basquiat,Basquiat,Basquiat,1996,1996,1996,1.0,1.0,1.0
 459,460,tt0067580,42497,Pink Narcissus,Pink Narcissus,Pink Narcissus,1971,1971,1971,1.0,1.0,1.0
 460,461,,,Nightwalker #1: Midnight Detective,,,2000,,,,,
-461,462,None,328811,Classic Cartoon Favorites: Starring Donald,,"Classic Cartoon Favorites, Vol. 2 - Starring Donald",2005,,2005,,0.8817204301075269,0.8817204301075269
+461,462,,328811,Classic Cartoon Favorites: Starring Donald,,"Classic Cartoon Favorites, Vol. 2 - Starring Donald",2005,,2005,,0.8817204301075269,0.8817204301075269
 462,463,,,The Twilight Zone: Vol. 12,,,1962,,,,,
 463,464,,,The Return of Ruben Blades,,,1987,,,,,
 464,465,tt0101616,63345,Coolie No.1,Coolie No. 1,Coolie No. 1,1995,1995,1995,0.95652174,0.95652174,0.95652174
@@ -603,7 +603,7 @@
 601,602,tt0233600,45438,Tokyo Raiders,Tokyo Raiders,Tokyo Raiders,2000,2000,2000,1.0,1.0,1.0
 602,603,,,Burn Up Excess: Vol. 1: To Serve and Protect,,,1997,,,,,
 603,604,,,Walt Disney's Timeless Tales: Vol. 2,,,2005,,,,,
-604,605,None,319402,The Secrets of the Dead Sea Scrolls,,The Secrets of the Dead Sea Scrolls,2000,,1999,,0.8333333333333334,0.8333333333333334
+604,605,,319402,The Secrets of the Dead Sea Scrolls,,The Secrets of the Dead Sea Scrolls,2000,,1999,,0.8333333333333334,0.8333333333333334
 605,606,tt0062168,26912,Quatermass and the Pit,Quatermass and the Pit,Quatermass and the Pit,1968,1967,1967,0.83333333,0.8333333333333334,0.8333333333333334
 606,607,tt0111257,1637,Speed,Speed,Speed,1994,1994,1994,1.0,1.0,1.0
 607,608,tt0065981,70422,The Lickerish Quartet,The Lickerish Quartet,The Lickerish Quartet,1970,1970,1970,1.0,1.0,1.0
@@ -754,12 +754,12 @@
 752,753,,,Mary Poppins: Bonus Material,,,1964,,,,,
 753,754,tt0087635,27171,The Lonely Guy,The Lonely Guy,The Lonely Guy,1984,1984,1984,1.0,1.0,1.0
 754,755,tt0100211,2263,Music Box,Music Box,Music Box,1989,1989,1989,1.0,1.0,1.0
-755,756,None,336418,The Best of MusikLaden: Classic Rock,,The Best of Musikladen Live Classic Rock,2000,,2000,,0.9210526315789473,0.9210526315789473
+755,756,,336418,The Best of MusikLaden: Classic Rock,,The Best of Musikladen Live Classic Rock,2000,,2000,,0.9210526315789473,0.9210526315789473
 756,757,tt0088109,,Sherlock Hound,Sherlock Hound,,1984,1984,,1.0,,1.0
 757,758,tt0377092,10625,Mean Girls,Mean Girls,Mean Girls,2004,2004,2004,1.0,1.0,1.0
 758,759,,,Fifteen Minutes,,,2001,,,,,
 759,760,tt0407121,13682,Pooh's Heffalump Movie,Pooh's Heffalump Movie,Pooh's Heffalump Movie,2005,2005,2005,1.0,1.0,1.0
-760,761,tt0239381' None 'tt0192612,27181,O Fantasma,,O Fantasma,2000,,2000,,1.0,1.0
+760,761,tt0239381,27181,O Fantasma,Phantom,O Fantasma,2000,2000,2000,0.47058824,1.0,1.0
 761,762,tt0368711,16301,End of the Century: The Story of the Ramones,End of the Century: The Story of the Ramones,End of the Century: The Story of the Ramones,2004,2003,2003,0.83333333,0.8333333333333334,0.8333333333333334
 762,763,tt0069113,551,The Poseidon Adventure,The Poseidon Adventure,The Poseidon Adventure,1972,1972,1972,1.0,1.0,1.0
 763,764,,,Scarface: 20th Anniversary Edition: Bonus Material,,,1983,,,,,
@@ -790,7 +790,7 @@
 788,789,tt0101507,650,Boyz N the Hood,Boyz n the Hood,Boyz n the Hood,1991,1991,1991,1.0,1.0,1.0
 789,790,,,A Single Girl,,,2000,,,,,
 790,791,tt0281818,49423,Don Henley: Live Inside Job,Don Henley: Live Inside Job,Don Henley - Live Inside Job,2000,2000,2000,1.0,0.9454545454545454,1.0
-791,792,None,319929,Unsolved History: Salem Witch Trials,,Unsolved History: Salem Witch Trials,2004,,2004,,1.0,1.0
+791,792,,319929,Unsolved History: Salem Witch Trials,,Unsolved History: Salem Witch Trials,2004,,2004,,1.0,1.0
 792,793,,,By Brakhage: An Anthology,,,2004,,,,,
 793,794,tt0105483,41670,A Stranger Among Us,A Stranger Among Us,A Stranger Among Us,1992,1992,1992,1.0,1.0,1.0
 794,795,tt3238758,330837,Landmarks of Early Film,Landmarks of Early Film,Landmarks of Early Film,1997,1997,1997,1.0,1.0,1.0
@@ -856,7 +856,7 @@
 854,855,tt0212830,29512,Bruiser,Bruiser,Bruiser,2001,2000,2000,0.83333333,0.8333333333333334,0.8333333333333334
 855,856,tt0217086,45511,Devil in the Flesh 2,Devil in the Flesh 2,Teacher's Pet,2000,2000,2000,1.0,0.30303030303030304,1.0
 856,857,tt0057580,100053,The Three Stooges Go Around the World in a Daze,The Three Stooges Go Around the World in a Daze,The Three Stooges Go Around the World in a Daze,1963,1963,1963,1.0,1.0,1.0
-857,858,None,311735,Sports Illustrated Swimsuit Edition: 2002,,Sports Illustrated Swimsuit Edition: 2002,2002,,2002,,1.0,1.0
+857,858,,311735,Sports Illustrated Swimsuit Edition: 2002,,Sports Illustrated Swimsuit Edition: 2002,2002,,2002,,1.0,1.0
 858,859,tt0083767,16281,Creepshow,Creepshow,Creepshow,1982,1982,1982,1.0,1.0,1.0
 859,860,,,Crime Partners,,,2001,,,,,
 860,861,tt0390441,30658,Rush: Rush in Rio,Rush in Rio,Rush - Rush in Rio,2003,2003,2003,0.7857142857142857,0.9142857142857143,0.9142857142857143
@@ -924,7 +924,7 @@
 922,923,,,Giant Robo,,,2004,,,,,
 923,924,tt0081606,35125,Taxi Zum Klo,Taxi zum Klo,Taxi zum Klo,1981,1980,1981,0.83333333,1.0,1.0
 924,925,tt0027532,31507,Dodsworth,Dodsworth,Dodsworth,1936,1936,1936,1.0,1.0,1.0
-925,926,None,275769,Fear Of A Punk Planet,,Fear of a Punk Planet,2002,,2002,,1.0,1.0
+925,926,,275769,Fear Of A Punk Planet,,Fear of a Punk Planet,2002,,2002,,1.0,1.0
 926,927,,,Danielle Steel's Changes,,,1991,,,,,
 927,928,tt0125950,363944,The Night That Never Happened,The Night That Never Happened,The Night That Never Happened,1997,1997,1997,1.0,1.0,1.0
 928,929,tt0312848,158413,Journeys with George,Journeys with George,Journeys with George,2002,2002,2002,1.0,1.0,1.0
@@ -1069,7 +1069,7 @@
 1067,1068,tt0178868,,Ringu,Ringu,,1998,1998,,1.0,,1.0
 1068,1069,,,The Inspector Lynley Mysteries: A Suitable Vengeance,,,2003,,,,,
 1069,1070,tt0263101,3173,Bangkok Dangerous,Bangkok Dangerous,Bangkok Dangerous,2000,2000,2000,1.0,1.0,1.0
-1070,1071,None,812321,The Ice Princess,,The Ice Princess,1995,,1995,,1.0,1.0
+1070,1071,,812321,The Ice Princess,,The Ice Princess,1995,,1995,,1.0,1.0
 1071,1072,,,As Time Goes By: Series 8,,,2000,,,,,
 1072,1073,tt0393162,7214,Coach Carter,Coach Carter,Coach Carter,2005,2005,2005,1.0,1.0,1.0
 1073,1074,tt0038854,25736,The Postman Always Rings Twice,The Postman Always Rings Twice,The Postman Always Rings Twice,1946,1946,1946,1.0,1.0,1.0
@@ -1105,7 +1105,7 @@
 1103,1104,,,Krull,,,1983,,,,,
 1104,1105,tt0107978,5550,RoboCop 3,RoboCop 3,RoboCop 3,1993,1993,1993,1.0,1.0,1.0
 1105,1106,tt0159099,123317,Virtual Girl,Virtual Girl,Virtual Girl,1998,1998,1998,1.0,1.0,1.0
-1106,1107,None,320823,NBA Street Series: Ankle Breakers: Vol. 2,,NBA Street Series: Ankle Breakers: Vol. 2,2004,,2005,,0.8333333333333334,0.8333333333333334
+1106,1107,,320823,NBA Street Series: Ankle Breakers: Vol. 2,,NBA Street Series: Ankle Breakers: Vol. 2,2004,,2005,,0.8333333333333334,0.8333333333333334
 1107,1108,,,Dr. Andrew Weil: 8 Weeks to Optimum Health & Spontaneous Healing,,,2000,,,,,
 1108,1109,,,My Fair Lady: Special Edition: Bonus Material,,,1964,,,,,
 1109,1110,tt0327137,13156,Secondhand Lions,Secondhand Lions,Secondhand Lions,2003,2003,2003,1.0,1.0,1.0
@@ -1240,7 +1240,7 @@
 1238,1239,tt0069729,29039,The Arena,The Arena,The Arena,1973,1974,1974,0.83333333,0.8333333333333334,0.8333333333333334
 1239,1240,,,Destination Moon,,,1950,,,,,
 1240,1241,tt0038120,46614,The Story of G.I. Joe,Story of G.I. Joe,Story of G.I. Joe,1945,1945,1945,0.8947368421052632,0.8947368421052632,0.8947368421052632
-1241,1242,None,496596,Billy Blanks: Tae Bo: Fat Blasting Cardio,,Billy Blanks' Tae Bo: Fat Blasting Cardio,2005,,2005,,0.975609756097561,0.975609756097561
+1241,1242,,496596,Billy Blanks: Tae Bo: Fat Blasting Cardio,,Billy Blanks' Tae Bo: Fat Blasting Cardio,2005,,2005,,0.975609756097561,0.975609756097561
 1242,1243,,,La Femme Nikita: Season 2,,,1998,,,,,
 1243,1244,tt0304692,102840,Sex with Strangers,Sex with Strangers,Sex with Strangers,2002,2002,2002,1.0,1.0,1.0
 1244,1245,tt0111418,10635,Threesome,Threesome,Threesome,1994,1994,1994,1.0,1.0,1.0
@@ -1266,7 +1266,7 @@
 1264,1265,tt0067995,,Women in Cages,Women in Cages,,1971,1971,,1.0,,1.0
 1265,1266,tt0297144,24982,Ghosts of the Abyss,Ghosts of the Abyss,Ghosts of the Abyss,2003,2003,2003,1.0,1.0,1.0
 1266,1267,tt0240462,10808,Dr. Dolittle 2,Dr. Dolittle 2,Dr. Dolittle 2,2001,2001,2001,1.0,1.0,1.0
-1267,1268,None,531701,Martha Stewart Holidays: Homemade Holidays,,Martha Stewart Holidays: Homemade Holidays,2005,,2005,,1.0,1.0
+1267,1268,,531701,Martha Stewart Holidays: Homemade Holidays,,Martha Stewart Holidays: Homemade Holidays,2005,,2005,,1.0,1.0
 1268,1269,tt0101252,43267,29th Street,29th Street,29th Street,1991,1991,1991,1.0,1.0,1.0
 1269,1270,tt0210719,34027,The Great Gatsby,The Great Gatsby,The Great Gatsby,2000,2000,2000,1.0,1.0,1.0
 1270,1271,tt0031252,73194,Drums Along the Mohawk,Drums Along the Mohawk,Drums Along the Mohawk,1939,1939,1939,1.0,1.0,1.0
@@ -1286,7 +1286,7 @@
 1284,1285,tt0289758,171382,Phase IV,Phase IV,Phase IV,2001,2002,2002,0.83333333,0.8333333333333334,0.8333333333333334
 1285,1286,tt0133170,102227,"Welcome Back, Mr. McDonald","Welcome Back, Mr. McDonald","Welcome Back, Mr. McDonald",1997,1997,1997,1.0,1.0,1.0
 1286,1287,tt0075783,19108,Breaker Breaker,Breaker! Breaker!,Breaker! Breaker!,1977,1977,1977,0.9375,0.9375,0.9375
-1287,1288, 'tt6974124,299320,10 Minute Solution: Pilates,,10-Minute Solution: Pilates,2004,,2004,,0.96296296,0.96296296
+1287,1288,,299320,10 Minute Solution: Pilates,,10-Minute Solution: Pilates,2004,,2004,,0.96296296,0.96296296
 1288,1289,tt0100050,9356,Look Who's Talking Too,Look Who's Talking Too,Look Who's Talking Too,1990,1990,1990,1.0,1.0,1.0
 1289,1290,tt0983614,,Hitler's Lost Sub: Nova,Hitler's Lost Sub,,2000,2000,,0.85,,0.85
 1290,1291,,,The Twilight Zone: Vol. 19,,,1960,,,,,
@@ -1377,7 +1377,7 @@
 1375,1376,,,The Vicar of Dibley: 10th Anniversary Specials,,,2004,,,,,
 1376,1377,,,The Bat / House on Haunted Hill,,,1958,,,,,
 1377,1378,,,Breakthru Pilates Sculpt,,,2003,,,,,
-1378,1379,None,536267,Dancing to New Orleans,,Dancing to New Orleans,2003,,2003,,1.0,1.0
+1378,1379,,536267,Dancing to New Orleans,,Dancing to New Orleans,2003,,2003,,1.0,1.0
 1379,1380,,,Mobile Suit Gundam: F91: The Motion Picture,,,1991,,,,,
 1380,1381,tt0112546,62364,Mouth to Mouth,Mouth to Mouth,Mouth to Mouth,1995,1995,1995,1.0,1.0,1.0
 1381,1382,,,Jet Li and the Legend of Wong Fei Hung: Unconquered / Tiger of Canton / Southern Fist Kung Fu,,,2005,,,,,
@@ -1395,7 +1395,7 @@
 1393,1394,tt0163988,8649,Bringing Out the Dead,Bringing Out the Dead,Bringing Out the Dead,1999,1999,1999,1.0,1.0,1.0
 1394,1395,tt0056923,4808,Charade,Charade,Charade,1963,1963,1963,1.0,1.0,1.0
 1395,1396,tt0444953,,Kaleido Star,Kaleido Star,,2004,2003,,0.83333333,,0.83333333
-1396,1397,None,323747,Beethoven: The Sound and the Fury,,Beethoven: The Sound and the Fury,2004,,2004,,1.0,1.0
+1396,1397,,323747,Beethoven: The Sound and the Fury,,Beethoven: The Sound and the Fury,2004,,2004,,1.0,1.0
 1397,1398,tt0172294,,Dangerous Evidence: The Lori Jackson Story,Dangerous Evidence: The Lori Jackson Story,,1999,1999,,1.0,,1.0
 1398,1399,tt0087803,9314,1984,1984,,1984,1984,,1.0,,1.0
 1399,1400,,,Britney Spears: Britney in Hawaii: Live and More,,,2000,,,,,
@@ -1472,7 +1472,7 @@
 1470,1471,tt0430745,66641,Voices of Iraq,Voices of Iraq,Voices of Iraq,2004,2004,2004,1.0,1.0,1.0
 1471,1472,tt0378808,40062,The Stink of Flesh,The Stink of Flesh,The Stink of Flesh,2004,2005,2005,0.83333333,0.8333333333333334,0.8333333333333334
 1472,1473,,,Sesame Street: Learning About Letters,,,2004,,,,,
-1473,1474,None,276283,Classic Country Comedy,,Classic Country Comedy,2003,,2003,,1.0,1.0
+1473,1474,,276283,Classic Country Comedy,,Classic Country Comedy,2003,,2003,,1.0,1.0
 1474,1475,tt0099173,5898,Brain Dead,Brain Dead,Brain Dead,1990,1990,1990,1.0,1.0,1.0
 1475,1476,,,Six Feet Under: Season 4,,,2004,,,,,
 1476,1477,tt0065416,96732,Aradhana,Aradhana,Aradhana,1969,1969,1969,1.0,1.0,1.0
@@ -1484,7 +1484,7 @@
 1482,1483,,,Interstella 5555 (Daft Punk),,,2003,,,,,
 1483,1484,tt0050393,29347,Fiend Without a Face,Fiend Without a Face,Fiend Without a Face,1958,1958,1958,1.0,1.0,1.0
 1484,1485,tt0295526,123864,Leaving Metropolis,Leaving Metropolis,Leaving Metropolis,2002,2002,2002,1.0,1.0,1.0
-1485,1486,None,651099,King Arthur: The Truth Behind the Legend,,King Arthur: The Truth Behind the Legend,2004,,2004,,1.0,1.0
+1485,1486,,651099,King Arthur: The Truth Behind the Legend,,King Arthur: The Truth Behind the Legend,2004,,2004,,1.0,1.0
 1486,1487,tt0374339,14310,Infernal Affairs III,Infernal Affairs III,Infernal Affairs III,2003,2003,2003,1.0,1.0,1.0
 1487,1488,,,King of the Hill: Season 4,,,1999,,,,,
 1488,1489,tt0294289,50819,American Adobo,American Adobo,American Adobo,2002,2001,2001,0.83333333,0.8333333333333334,0.8333333333333334
@@ -1715,7 +1715,7 @@
 1713,1714,tt0278522,46430,Jodi No. 1,Jodi No. 1,Jodi No. 1,2001,2001,2001,1.0,1.0,1.0
 1714,1715,tt0445945,,Confessions of an American Bride,Confessions of an American Bride,,2005,2005,,1.0,,1.0
 1715,1716,tt0085692,83579,The Hound of the Baskervilles,The Hound of the Baskervilles,The Hound of the Baskervilles,1983,1983,1983,1.0,1.0,1.0
-1716,1717,None,1141906,Bear in the Big Blue House: Heroes of Woodland Valley,,Bear in the Big Blue House Heroes of Woodland Valley,2002,,2001,,0.8253968253968255,0.8253968253968255
+1716,1717,,1141906,Bear in the Big Blue House: Heroes of Woodland Valley,,Bear in the Big Blue House Heroes of Woodland Valley,2002,,2001,,0.8253968253968255,0.8253968253968255
 1717,1718,tt0109447,2778,Clifford,Clifford,Clifford,1994,1994,1994,1.0,1.0,1.0
 1718,1719,tt0362270,421,The Life Aquatic with Steve Zissou,The Life Aquatic with Steve Zissou,The Life Aquatic with Steve Zissou,2004,2004,2004,1.0,1.0,1.0
 1719,1720,tt0348425,,Tony Bennett's Wonderful World: Live in San Francisco,Wonderful World: Live in San Francisco,,2002,2002,,0.8351648351648352,,0.8351648351648352
@@ -1757,7 +1757,7 @@
 1755,1756,tt0071877,4176,Murder on the Orient Express,Murder on the Orient Express,Murder on the Orient Express,1974,1974,1974,1.0,1.0,1.0
 1756,1757,tt0077869,123,The Lord of the Rings,The Lord of the Rings,The Lord of the Rings,1978,1978,1978,1.0,1.0,1.0
 1757,1758,tt2249698,,Thomas & Friends: Hooray for Thomas,Thomas & Friends: Hooray For Thomas,,2005,2005,,1.0,,1.0
-1758,1759,tt0099851' None,23378,Into the Woods,,Into the Woods,1990,,1991,,0.83333333,0.83333333
+1758,1759,tt0099851,23378,Into the Woods,,Into the Woods,1990,,1991,,0.83333333,0.83333333
 1759,1760,tt0103016,10261,Switch,Switch,Switch,1991,1991,1991,1.0,1.0,1.0
 1760,1761,tt0102258,64879,Lamhe,Lamhe,Lamhe,1991,1991,1991,1.0,1.0,1.0
 1761,1762,tt0790179,,Lazytown: New Superhero,LazyTown's New Superhero,,2005,2005,,0.9361702127659575,,0.9361702127659575
@@ -1845,7 +1845,7 @@
 1843,1844,tt0097027,10142,Casualties of War,Casualties of War,Casualties of War,1989,1989,1989,1.0,1.0,1.0
 1844,1845,tt0113199,47867,Gordy,Gordy,Gordy,1995,1994,1995,0.8333333333333334,1.0,1.0
 1845,1846,,,Mob Justice,,,1991,,,,,
-1846,1847,None,934821,Grand Canyon: The World's Great Natural Wonder,,Grand Canyon: the world's great natural wonder,2001,,2001,,1.0,1.0
+1846,1847,,934821,Grand Canyon: The World's Great Natural Wonder,,Grand Canyon: the world's great natural wonder,2001,,2001,,1.0,1.0
 1847,1848,tt0049710,,Samurai Trilogy 3: Duel at Ganryu Island,Samurai III: Duel at Ganryu Island,,1956,1956,,0.8648648648648649,,0.8648648648648649
 1848,1849,,,Michael Colyar: The Michael Colyar Project,,,2002,,,,,
 1849,1850,,,Promised Land,,,1974,,,,,
@@ -1901,7 +1901,7 @@
 1899,1900,tt0118868,223296,Club Vampire,Club Vampire,Club Vampire,1997,1998,1998,0.8333333333333334,0.8333333333333334,0.8333333333333334
 1900,1901,,,Cheech & Chong's Up in Smoke,,,1978,,,,,
 1901,1902,tt0079945,152,Star Trek: The Motion Picture,Star Trek: The Motion Picture,Star Trek: The Motion Picture,1979,1979,1979,1.0,1.0,1.0
-1902,1903,None,828474,Ozzy Osbourne: Crown Prince of Darkness,,Ozzy Osbourne - The Crown Prince Of Darkness,2002,,2002,,0.9156626506024096,0.9156626506024096
+1902,1903,,828474,Ozzy Osbourne: Crown Prince of Darkness,,Ozzy Osbourne - The Crown Prince Of Darkness,2002,,2002,,0.9156626506024096,0.9156626506024096
 1903,1904,tt0031235,,Dodge City,Dodge City,,1939,1939,,1.0,,1.0
 1904,1905,,,Pirates of the Caribbean: The Curse of the Black Pearl,,,2003,,,,,
 1905,1906,,,The Knights Templar,,,2001,,,,,
@@ -1940,7 +1940,7 @@
 1938,1939,tt0078767,11449,The Amityville Horror,The Amityville Horror,The Amityville Horror,1979,1979,1979,1.0,1.0,1.0
 1939,1940,tt0039661,19169,Nightmare Alley,Nightmare Alley,Nightmare Alley,1947,1947,1947,1.0,1.0,1.0
 1940,1941,tt0175394,,The Life of Birds,The Life of Birds,,1998,1998,,1.0,,1.0
-1941,1942,None,698578,REO Speedwagon: Live Plus,,Reo Speedwagon: Live Plus,2001,,2000,,0.8333333333333334,0.8333333333333334
+1941,1942,,698578,REO Speedwagon: Live Plus,,Reo Speedwagon: Live Plus,2001,,2000,,0.8333333333333334,0.8333333333333334
 1942,1943,tt0419280,40069,Premonition,,Premonition,2004,,2004,,1.0,1.0
 1943,1944,tt0158628,,Gall Force: Vol. 1: Eternal Story,Gall Force: Eternal Story,,1986,1986,,0.8620689655172413,,0.8620689655172413
 1944,1945,,,From Hell: Bonus Material,,,2001,,,,,
@@ -1982,7 +1982,7 @@
 1980,1981,tt0244092,45418,Needing You,Needing You...,Needing You...,2000,2000,2000,0.88,0.88,0.88
 1981,1982,,,Strange Frequency,,,2001,,,,,
 1982,1983,tt0173840,2114,Final Fantasy: The Spirits Within,Final Fantasy: The Spirits Within,Final Fantasy: The Spirits Within,2001,2001,2001,1.0,1.0,1.0
-1983,1984,None,690493,MTV Unplugged: Classic Moments,,MTV Unplugged: Classic Moments,1999,,2000,,0.8333333333333334,0.8333333333333334
+1983,1984,,690493,MTV Unplugged: Classic Moments,,MTV Unplugged: Classic Moments,1999,,2000,,0.8333333333333334,0.8333333333333334
 1984,1985,tt0107731,,Oh My Goddess!,Oh My Goddess!,,1993,1993,,1.0,,1.0
 1985,1986,tt0331851,73259,Armaan,Armaan,Armaan,2003,2003,2003,1.0,1.0,1.0
 1986,1987,tt0085461,42122,The Dresser,The Dresser,The Dresser,1983,1983,1983,1.0,1.0,1.0
@@ -2296,7 +2296,7 @@
 2294,2295,tt1489546,,Bill's Run: A Political Journey in Rural Kansas: POV,Bill's Run: A Political Journey in Rural Kansas,,2004,2004,,0.9494949494949495,,0.9494949494949495
 2295,2296,,,Ansel Adams: American Experience,,,2002,,,,,
 2296,2297,,,The Lower Depths (Les Bas-fonds),,,1936,,,,,
-2297,2298, None ,397309,Yngwie Malmsteen: Live!,,Yngwie Malmsteen: Live!!,2000,,2000,,0.9787234,0.9787234
+2297,2298,,397309,Yngwie Malmsteen: Live!,,Yngwie Malmsteen: Live!!,2000,,2000,,0.9787234,0.9787234
 2298,2299,tt0034172,14590,Shadow of the Thin Man,Shadow of the Thin Man,Shadow of the Thin Man,1941,1941,1941,1.0,1.0,1.0
 2299,2300,,,Little House on the Prairie: Season 2,,,1975,,,,,
 2300,2301,tt0094663,,Another Woman,Another Woman,,1988,1988,,1.0,,1.0
@@ -2485,7 +2485,7 @@
 2483,2484,tt0183423,170074,Love Beat the Hell Outta Me,Love Beat the Hell Outta Me,Love Beat the Hell Outta Me,2000,2000,2000,1.0,1.0,1.0
 2484,2485,tt0167360,61473,Race to Space,Race to Space,Race to Space,2002,2001,2001,0.83333333,0.8333333333333334,0.8333333333333334
 2485,2486,tt0403795,,Revelations,Revelations,,2005,2005,,1.0,,1.0
-2486,2487,None,313474,The Wonderful World of Louis Armstrong,,The Wonderful World of Louis Armstrong,2000,,1999,,0.8333333333333334,0.8333333333333334
+2486,2487,,313474,The Wonderful World of Louis Armstrong,,The Wonderful World of Louis Armstrong,2000,,1999,,0.8333333333333334,0.8333333333333334
 2487,2488,tt0102825,107745,Saajan,Saajan,Saajan,1991,1991,1991,1.0,1.0,1.0
 2488,2489,tt0094979,,The Deceivers,The Deceivers,,1988,1988,,1.0,,1.0
 2489,2490,tt0285237,158896,Jackson Pollock: Love and Death on Long Island,Jackson Pollock: Love and Death on Long Island,Jackson Pollock: Love and Death on Long Island,1999,1999,1999,1.0,1.0,1.0
@@ -2708,7 +2708,7 @@
 2706,2707,tt0073756,40810,The Street Fighter,The Street Fighter,The Street Fighter,1974,1974,1974,1.0,1.0,1.0
 2707,2708,tt0165662,12485,Candyman 3: Day of the Dead,Candyman: Day of the Dead,Candyman: Day of the Dead,1999,1999,1999,0.96153846,0.9615384615384616,0.9615384615384616
 2708,2709,tt0095334,38500,Howling IV: The Original Nightmare,Howling IV: The Original Nightmare,Howling IV: The Original Nightmare,1988,1988,1988,1.0,1.0,1.0
-2709,2710,None,319896,Secrets of the Dead: Amazon Warrior Women,,Secrets of the Dead: Amazon Warrior Women,2004,,2004,,1.0,1.0
+2709,2710,,319896,Secrets of the Dead: Amazon Warrior Women,,Secrets of the Dead: Amazon Warrior Women,2004,,2004,,1.0,1.0
 2710,2711,tt0120654,14577,Dirty Work,Dirty Work,Dirty Work,1998,1998,1998,1.0,1.0,1.0
 2711,2712,,,The Hitcher,,,1984,,,,,
 2712,2713,tt0045826,24018,Glen or Glenda,Glen or Glenda,Glen or Glenda,1953,1953,1953,1.0,1.0,1.0
@@ -2777,7 +2777,7 @@
 2775,2776,,,Unbreakable: Bonus Material,,,2000,,,,,
 2776,2777,tt0183700,292023,Restless,Restless,Restless,1998,1998,2001,1.0,0.5787037,1.0
 2777,2778,,,Pink Floyd: Live at Pompeii: Director's Cut,,,1974,,,,,
-2778,2779,None 'tt0312528,1102491,Dr. Seuss' The Cat in the Hat,,Dr. Seuss The Cat in the Hat,2003,,2002,,0.81871345,0.81871345
+2778,2779,,1102491,Dr. Seuss' The Cat in the Hat,,Dr. Seuss The Cat in the Hat,2003,,2002,,0.81871345,0.81871345
 2779,2780,tt0118929,,Dark City,Dark City,,1998,1998,,1.0,,1.0
 2780,2781,tt0382477,,SD Gundam Force,SD Gundam Force,,2003,2003,,1.0,,1.0
 2781,2782,tt0112573,197,Braveheart,Braveheart,Braveheart,1995,1995,1995,1.0,1.0,1.0
@@ -2857,7 +2857,7 @@
 2855,2856,tt0300270,44413,The Holy Girl,The Holy Girl,The Holy Girl,2004,2004,2004,1.0,1.0,1.0
 2856,2857,tt0059749,13580,The Spy Who Came In from the Cold,The Spy Who Came in from the Cold,The Spy Who Came in from the Cold,1965,1965,1965,1.0,1.0,1.0
 2857,2858,,,Bounce: Bonus Material,,,2000,,,,,
-2858,2859,None,276265,Flip Wilson,,Flip Wilson,1970,,1970,,1.0,1.0
+2858,2859,,276265,Flip Wilson,,Flip Wilson,1970,,1970,,1.0,1.0
 2859,2860,tt0190281,59709,Britannic,Britannic,Britannic,2000,2000,2000,1.0,1.0,1.0
 2860,2861,,,Babylon 5: Season 4,,,1996,,,,,
 2861,2862,tt0102926,,The Silence of the Lambs,The Silence of the Lambs,,1991,1991,,1.0,,1.0
@@ -2944,7 +2944,7 @@
 2942,2943,,,Battle Athletes Victory: Vol. 6: Willpower,,,1999,,,,,
 2943,2944,tt0110057,14275,Hoop Dreams,Hoop Dreams,Hoop Dreams,1994,1994,1994,1.0,1.0,1.0
 2944,2945,tt0078721,9051,10,10,10,1979,1979,1979,1.0,1.0,1.0
-2945,2946,None,320817,Mary Magdalene: The Hidden Apostle,,Mary Magdalene: The Hidden Apostle,2004,,2004,,1.0,1.0
+2945,2946,,320817,Mary Magdalene: The Hidden Apostle,,Mary Magdalene: The Hidden Apostle,2004,,2004,,1.0,1.0
 2946,2947,,,"Rugrats All Grown Up: Dude, Where's My Horse?",,,2005,,,,,
 2947,2948,tt0159693,28766,Razor Blade Smile,Razor Blade Smile,Razor Blade Smile,1998,1998,1998,1.0,1.0,1.0
 2948,2949,tt0119910,38509,Polish Wedding,Polish Wedding,Polish Wedding,1998,1998,1998,1.0,1.0,1.0
@@ -2957,7 +2957,7 @@
 2955,2956,tt0113650,40948,Lie Down with Dogs,Lie Down with Dogs,Lie Down With Dogs,1995,1995,1995,1.0,1.0,1.0
 2956,2957,,,City Hunter: Secret Service,,,2001,,,,,
 2957,2958,tt0316829,41453,The Sea is Watching,The Sea Is Watching,The Sea Is Watching,2002,2002,2002,1.0,1.0,1.0
-2958,2959,None,274631,Legend of the Dragon Kings: Iron Dragon,,Legend of the Dragon Kings: Iron Dragon,1991,,1991,,1.0,1.0
+2958,2959,,274631,Legend of the Dragon Kings: Iron Dragon,,Legend of the Dragon Kings: Iron Dragon,1991,,1991,,1.0,1.0
 2959,2960,tt0335245,,The Ladykillers,The Ladykillers,,2004,2004,,1.0,,1.0
 2960,2961,tt0139151,,Inferno,Inferno,,1999,1999,,1.0,,1.0
 2961,2962,tt0069897,22021,Coffy,Coffy,Coffy,1973,1973,1973,1.0,1.0,1.0
@@ -2981,7 +2981,7 @@
 2979,2980,,,The Desert Fox,,,1951,,,,,
 2980,2981,,,Saturday Night Live: The Best of Eddie Murphy,,,2000,,,,,
 2981,2982,tt0260746,75151,Big Bad Love,Big Bad Love,Big Bad Love,2002,2001,2001,0.83333333,0.8333333333333334,0.8333333333333334
-2982,2983,None None None,271183,Tornado,,Tornado,2004,,2004,,1.0,1.0
+2982,2983,,271183,Tornado,,Tornado,2004,,2004,,1.0,1.0
 2983,2984,,,Midsomer Murders: Murder on St. Malley's Day,,,2002,,,,,
 2984,2985,,,There's Something About Mary: Special Edition: Bonus Material,,,1998,,,,,
 2985,2986,tt0103905,10086,Man Bites Dog,Man Bites Dog,Man Bites Dog,1992,1992,1992,1.0,1.0,1.0
@@ -3108,7 +3108,7 @@
 3106,3107,,,Mulan,,,1999,,,,,
 3107,3108,tt0382114,25079,Junkers Come Here,Junkers Come Here,Junkers Come Here,1995,1995,1994,1.0,0.83333333,1.0
 3108,3109,tt0093608,11822,Nekromantik,Nekromantik,Nekromantik,1987,1988,1988,0.83333333,0.83333333,0.83333333
-3109,3110,tt0169557' None,368969,Anima,,Anima,1998,,1998,,1.0,1.0
+3109,3110,tt0169557,368969,Anima,,Anima,1998,,1998,,1.0,1.0
 3110,3111,tt0158033,41165,Nora,Nora,Nora,2000,2000,2000,1.0,1.0,1.0
 3111,3112,,,Liberty! The American Revolution,,,2004,,,,,
 3112,3113,,,Dante's Peak,,,1997,,,,,
@@ -3173,7 +3173,7 @@
 3171,3172,,,SCTV Network 90: Vol. 2,,,1982,,,,,
 3172,3173,tt0077060,,Pennies From Heaven,Pennies from Heaven,,1978,1978,,1.0,,1.0
 3173,3174,,,Stealing Harvard,,,2002,,,,,
-3174,3175,None,588572,ECW: Path of Destruction,,ECW Path of Destruction,2000,,2000,,0.9787234042553191,0.9787234042553191
+3174,3175,,588572,ECW: Path of Destruction,,ECW Path of Destruction,2000,,2000,,0.9787234042553191,0.9787234042553191
 3175,3176,tt0090985,18499,The Decline of the American Empire,The Decline of the American Empire,The Decline of the American Empire,1986,1986,1986,1.0,1.0,1.0
 3176,3177,,,Sister Wendy: The Complete Collection,,,1992,,,,,
 3177,3178,,,Pokemon Master Quest: Collector's Box: Quest 2,,,2003,,,,,
@@ -3322,7 +3322,7 @@
 3320,3321,tt0120710,28902,In Dreams,In Dreams,In Dreams,1999,1999,1999,1.0,1.0,1.0
 3321,3322,,,The Mysterians,,,1959,,,,,
 3322,3323,,,Family Business: Season 1,,,2003,,,,,
-3323,3324,None,571278,Scooby-Doo's Original Mysteries,,Scooby-Doo's Original Mysteries,2000,,2000,,1.0,1.0
+3323,3324,,571278,Scooby-Doo's Original Mysteries,,Scooby-Doo's Original Mysteries,2000,,2000,,1.0,1.0
 3324,3325,tt0143213,,Devil in the Flesh,Devil in the Flesh,,1998,1998,,1.0,,1.0
 3325,3326,tt0115857,12123,Chain Reaction,Chain Reaction,Chain Reaction,1996,1996,1996,1.0,1.0,1.0
 3326,3327,tt0275759,182978,The Unreal Story of Pro Wrestling,The Unreal Story of Professional Wrestling,The Unreal Story Of Pro Wrestling,1998,1999,1998,0.7333333333333334,1.0,1.0
@@ -3417,7 +3417,7 @@
 3415,3416,tt0093507,11649,Masters of the Universe,Masters of the Universe,Masters of the Universe,1987,1987,1987,1.0,1.0,1.0
 3416,3417,tt0071544,36665,General Idi Amin Dada,General Idi Amin Dada: A Self Portrait,General Idi Amin Dada,1974,1974,1974,0.711864406779661,1.0,1.0
 3417,3418,tt0108147,6279,Sister Act 2: Back in the Habit,Sister Act 2: Back in the Habit,Sister Act 2: Back in the Habit,1993,1993,1993,1.0,1.0,1.0
-3418,3419,None,320523,The Three Stooges: Three Stooges in History,,The Three Stooges: Three Stooges in History,1935,,1935,,1.0,1.0
+3418,3419,,320523,The Three Stooges: Three Stooges in History,,The Three Stooges: Three Stooges in History,1935,,1935,,1.0,1.0
 3419,3420,tt0105585,12395,Thunderheart,Thunderheart,Thunderheart,1992,1992,1992,1.0,1.0,1.0
 3420,3421,tt0084589,,The Return of Martin Guerre,The Return of Martin Guerre,,1982,1982,,1.0,,1.0
 3421,3422,,,Cinderella II,,,2001,,,,,
@@ -3452,7 +3452,7 @@
 3450,3451,tt0100685,1662,State of Grace,State of Grace,State of Grace,1990,1990,1990,1.0,1.0,1.0
 3451,3452,,,Goosebumps: The Haunted Mask II,,,2004,,,,,
 3452,3453,tt0025452,8208,The Man Who Knew Too Much,The Man Who Knew Too Much,The Man Who Knew Too Much,1934,1934,1934,1.0,1.0,1.0
-3453,3454,None,275886,Kenny Chesney: Greatest Hits,,Kenny Chesney: Greatest Hits,2004,,2004,,1.0,1.0
+3453,3454,,275886,Kenny Chesney: Greatest Hits,,Kenny Chesney: Greatest Hits,2004,,2004,,1.0,1.0
 3454,3455,tt0295725,45767,Time Changer,Time Changer,Time Changer,2002,2002,2003,1.0,0.8333333333333334,1.0
 3455,3456,,,Lost: Season 1,,,2004,,,,,
 3456,3457,,,Slapstick Symposium: The Harold Lloyd Collection,,,1920,,,,,
@@ -3683,7 +3683,7 @@
 3681,3682,tt0129868,45242,Dennis the Menace Strikes Again,Dennis the Menace Strikes Again!,Dennis the Menace Strikes Again!,1998,1998,1998,0.98412698,0.9841269841269841,0.9841269841269841
 3682,3683,tt0301327,144768,Gale Force,Gale Force,Gale Force,2001,2002,2002,0.8333333333333334,0.8333333333333334,0.8333333333333334
 3683,3684,tt0058150,658,Goldfinger,Goldfinger,Goldfinger,1964,1964,1964,1.0,1.0,1.0
-3684,3685,None ,774658,Scooby-Doo's Spookiest Tales,,Scooby-Doo's Spookiest Tales,2000,,2001,,0.83333333,0.83333333
+3684,3685,,774658,Scooby-Doo's Spookiest Tales,,Scooby-Doo's Spookiest Tales,2000,,2001,,0.83333333,0.83333333
 3685,3686,tt0243931,26014,Good Advice,Good Advice,Good Advice,2001,2001,2001,1.0,1.0,1.0
 3686,3687,,,Beautiful Boxer,,,2005,,,,,
 3687,3688,tt0304919,50240,WTC: The First 24 Hours,WTC the First 24 Hours,WTC the First 24 Hours,2001,2002,2002,0.8148148148148148,0.8148148148148148,0.8148148148148148
@@ -3876,7 +3876,7 @@
 3874,3875,tt0318462,1653,The Motorcycle Diaries,The Motorcycle Diaries,The Motorcycle Diaries,2004,2004,2004,1.0,1.0,1.0
 3875,3876,tt0449602,,Howard Hughes: The Real Aviator,Howard Hughes: The Real Aviator,,2004,2004,,1.0,,1.0
 3876,3877,tt0116924,104150,The Lottery,The Lottery,The Lottery,1996,1996,1996,1.0,1.0,1.0
-3877,3878,None,321886,Public Enemy: Live from the House of Blues,,Public Enemy: Live from the House of Blues,2001,,2001,,1.0,1.0
+3877,3878,,321886,Public Enemy: Live from the House of Blues,,Public Enemy: Live from the House of Blues,2001,,2001,,1.0,1.0
 3878,3879,tt0113568,,Ghost in the Shell,Ghost in the Shell,,1995,1995,,1.0,,1.0
 3879,3880,tt0060921,31918,"The Russians Are Coming, The Russians Are Coming",The Russians Are Coming the Russians Are Coming,The Russians Are Coming! The Russians Are Coming!,1966,1966,1966,0.9894736842105263,0.96907216,0.9894736842105263
 3880,3881,,,The Lost Skeleton of Cadavra,,,2004,,,,,
@@ -3931,7 +3931,7 @@
 3929,3930,tt0217654,30947,Militia,Militia,Militia,2000,2000,2000,1.0,1.0,1.0
 3930,3931,tt0099327,,A Cry in the Wild,A Cry in the Wild,,1990,1990,,1.0,,1.0
 3931,3932,tt0115952,13799,Cosmic Voyage: IMAX,Cosmic Voyage,Cosmic Voyage,1996,1996,1996,0.8125,0.8125,0.8125
-3932,3933,None,276027,"S.W.A.T.: L.A., Las Vegas, and Detroit",,"S.W.A.T.: L.A., Las Vegas and Detroit",2001,,2001,,0.9866666666666667,0.9866666666666667
+3932,3933,,276027,"S.W.A.T.: L.A., Las Vegas, and Detroit",,"S.W.A.T.: L.A., Las Vegas and Detroit",2001,,2001,,0.9866666666666667,0.9866666666666667
 3933,3934,tt0332720,34107,The Original Latin Kings of Comedy,The Original Latin Kings of Comedy,The Original Latin Kings of Comedy,2002,2002,2002,1.0,1.0,1.0
 3934,3935,tt0063823,12105,Yellow Submarine,Yellow Submarine,Yellow Submarine,1968,1968,1968,1.0,1.0,1.0
 3935,3936,tt0146675,9946,End of Days,End of Days,End of Days,1999,1999,1999,1.0,1.0,1.0
@@ -4173,7 +4173,7 @@
 4171,4172,tt0170634,320259,Code Name Jaguar,,Code Name: Jaguar,2000,,1999,,0.8080808080808082,0.8080808080808082
 4172,4173,tt0120860,12095,From Dusk Till Dawn 2: Texas Blood Money,From Dusk Till Dawn 2: Texas Blood Money,From Dusk Till Dawn 2: Texas Blood Money,1998,1999,1999,0.8333333333333334,0.8333333333333334,0.8333333333333334
 4173,4174,tt0109644,10462,Don't Drink the Water,Don't Drink the Water,Don't Drink the Water,1994,1994,1994,1.0,1.0,1.0
-4174,4175,None,274717,The 3 Tenors in Concert: 1998,,The 3 Tenors in Concert: 1998,1998,,1998,,1.0,1.0
+4174,4175,,274717,The 3 Tenors in Concert: 1998,,The 3 Tenors in Concert: 1998,1998,,1998,,1.0,1.0
 4175,4176,tt0277044,68494,Inugami,Inugami,Inugami,2001,2001,2001,1.0,1.0,1.0
 4176,4177,tt0096028,45129,Salaam Bombay!,Salaam Bombay!,Salaam Bombay!,1988,1988,1988,1.0,1.0,1.0
 4177,4178,,,Warren Miller's: The Power of Snow: Cold Fusion,,,2003,,,,,
@@ -4311,7 +4311,7 @@
 4309,4310,tt0144120,11932,Bride of Chucky,Bride of Chucky,Bride of Chucky,1998,1998,1998,1.0,1.0,1.0
 4310,4311,tt0249603,162892,A Girl Thing,A Girl Thing,A Girl Thing,2001,2001,2001,1.0,1.0,1.0
 4311,4312,tt0306761,168590,Eden's Curve,Eden's Curve,Eden's Curve,2003,2003,2003,1.0,1.0,1.0
-4312,4313,None ,357128,ECW: The Best of the Dudley Boyz,,ECW: The Best of the Dudley Boyz,2001,,2002,,0.83333333,0.83333333
+4312,4313,,357128,ECW: The Best of the Dudley Boyz,,ECW: The Best of the Dudley Boyz,2001,,2002,,0.83333333,0.83333333
 4313,4314,tt0303860,50635,Changing Hearts,Changing Hearts,Changing Hearts,2002,2002,2002,1.0,1.0,1.0
 4314,4315,tt0385267,1901,In Good Company,In Good Company,In Good Company,2004,2004,2004,1.0,1.0,1.0
 4315,4316,,,Shakespeare Tragedies: Hamlet,,,1980,,,,,
@@ -4587,7 +4587,7 @@
 4585,4586,tt0179116,20770,But I'm a Cheerleader,But I'm a Cheerleader,But I'm a Cheerleader,1999,1999,2000,1.0,0.8333333333333334,1.0
 4586,4587,tt0118665,22345,Baby Geniuses,Baby Geniuses,Baby Geniuses,1999,1999,1999,1.0,1.0,1.0
 4587,4588,tt0102721,14904,Proof,Proof,Proof,1991,1991,1991,1.0,1.0,1.0
-4588,4589,None,323805,The Jazz Channel: Jeffrey Osborne,,The Jazz Channel: Jeffrey Osborne,2000,,2000,,1.0,1.0
+4588,4589,,323805,The Jazz Channel: Jeffrey Osborne,,The Jazz Channel: Jeffrey Osborne,2000,,2000,,1.0,1.0
 4589,4590,tt0356618,10145,The Forgotten,The Forgotten,The Forgotten,2004,2004,2004,1.0,1.0,1.0
 4590,4591,tt0037884,28580,The Lost Weekend,The Lost Weekend,The Lost Weekend,1945,1945,1945,1.0,1.0,1.0
 4591,4592,,,UFC 47: Ultimate Fighting Championship: It's On!,,,2004,,,,,
@@ -4784,7 +4784,7 @@
 4782,4783,,,Felicity: Season 2,,,1999,,,,,
 4783,4784,,,Matchbox Twenty: Show,,,2004,,,,,
 4784,4785,tt0244504,82103,Me You Them,Me You Them,"Me, You, Them",2000,2000,2000,1.0,0.9166666666666666,1.0
-4785,4786,None,533185,SpongeBob SquarePants: Nautical Nonsense / Sponge Buddies,,SpongeBob SquarePants - Nautical Nonsense and Sponge Buddies,2002,,2002,,0.9401709401709402,0.9401709401709402
+4785,4786,,533185,SpongeBob SquarePants: Nautical Nonsense / Sponge Buddies,,SpongeBob SquarePants - Nautical Nonsense and Sponge Buddies,2002,,2002,,0.9401709401709402,0.9401709401709402
 4786,4787,tt0281238,151724,Styx / REO Speedwagon: Arch Allies: Live at Riverport,Styx and Reo Speedwagon: Arch Allies - Live at Riverport,"Styx and REO Speedwagon: Arch Allies, Live at Riverport",2000,2000,2000,0.9357798165137615,0.9444444444444444,0.9444444444444444
 4787,4788,tt0240380,89345,Bloody Murder,Bloody Murder,Bloody Murder,1999,2000,2000,0.83333333,0.83333333,0.83333333
 4788,4789,,,Stargate SG-1: Season 5,,,2001,,,,,
@@ -4794,7 +4794,7 @@
 4792,4793,tt0069822,40374,Breezy,Breezy,Breezy,1973,1973,1973,1.0,1.0,1.0
 4793,4794,,,Ancient Civilizations: Land of the Pharaohs,,,2002,,,,,
 4794,4795,tt0116454,190793,Sexy and Dangerous,Sexy and Dangerous,Sexy and Dangerous,1996,1996,1996,1.0,1.0,1.0
-4795,4796, None,303960,MTV Pilates,,MTV Pilates,2003,,2004,,0.83333333,0.83333333
+4795,4796,,303960,MTV Pilates,,MTV Pilates,2003,,2004,,0.83333333,0.83333333
 4796,4797,,,Gallagher: The Smashing Watermelon Collection,,,2005,,,,,
 4797,4798,,,Gundam Wing: The Movie: Endless Waltz,,,2000,,,,,
 4798,4799,tt0101453,12647,Billy Bathgate,Billy Bathgate,Billy Bathgate,1991,1991,1991,1.0,1.0,1.0
@@ -4875,7 +4875,7 @@
 4873,4874,tt0092699,12626,Broadcast News,Broadcast News,Broadcast News,1987,1987,1987,1.0,1.0,1.0
 4874,4875,tt0267490,71118,Felicidades,Felicidades,Felicidades,2000,2000,2000,1.0,1.0,1.0
 4875,4876,tt0120434,11419,Vegas Vacation,Vegas Vacation,Vegas Vacation,1997,1997,1997,1.0,1.0,1.0
-4876,4877,None,321888,Simpsons Gone Wild,,The Simpsons Gone Wild,2004,,2004,,0.9,0.9
+4876,4877,,321888,Simpsons Gone Wild,,The Simpsons Gone Wild,2004,,2004,,0.9,0.9
 4877,4878,tt0249677,18269,Lady and the Tramp II: Scamp's Adventure,Lady and the Tramp II: Scamp's Adventure,Lady and the Tramp II: Scamp's Adventure,2000,2001,2001,0.83333333,0.8333333333333334,0.8333333333333334
 4878,4879,tt0068866,53031,Living Free,Living Free,Living Free,1972,1972,1972,1.0,1.0,1.0
 4879,4880,,,Times of Terror,,,1999,,,,,
@@ -5000,7 +5000,7 @@
 4998,4999,tt0246134,35944,Lucky Break,Lucky Break,Lucky Break,2001,2001,2001,1.0,1.0,1.0
 4999,5000,tt0109891,41579,Getting Even with Dad,Getting Even with Dad,Getting Even with Dad,1994,1994,1994,1.0,1.0,1.0
 5000,5001,tt0125879,42848,Lulu on the Bridge,Lulu on the Bridge,Lulu on the Bridge,1998,1998,1998,1.0,1.0,1.0
-5001,5002,None,564013,MTV Power Yoga,,MTV Power Yoga,2003,,2003,,1.0,1.0
+5001,5002,,564013,MTV Power Yoga,,MTV Power Yoga,2003,,2003,,1.0,1.0
 5002,5003,tt2739130,,2003 World Series,2003 World Series,,2003,2003,,1.0,,1.0
 5003,5004,tt0161860,1591,Nowhere in Africa,Nowhere in Africa,Nowhere in Africa,2001,2001,2001,1.0,1.0,1.0
 5004,5005,tt0114825,12158,Vampire in Brooklyn,Vampire in Brooklyn,Vampire in Brooklyn,1995,1995,1995,1.0,1.0,1.0
@@ -5207,7 +5207,7 @@
 5205,5206,tt0285627,24232,Daria: Is it College Yet?,Daria in 'Is It College Yet?',Daria in 'Is It College Yet?',2002,2002,2002,0.88888889,0.8888888888888888,0.88888889
 5206,5207,tt0046213,26270,Project Moonbase,Project Moon Base,Project Moon Base,1953,1953,1953,0.9696969696969697,0.9696969696969697,0.9696969696969697
 5207,5208,,,Hard Core Logo,,,2000,,,,,
-5208,5209,None,321289,Dein Perry's: Tap Dogs,,Dein Perry's: Tap Dogs,1997,,1997,,1.0,1.0
+5208,5209,,321289,Dein Perry's: Tap Dogs,,Dein Perry's: Tap Dogs,1997,,1997,,1.0,1.0
 5209,5210,tt0015873,115132,Grass: A Nation's Battle for Life,Grass: A Nation's Battle for Life,Grass: A Nation's Battle for Life,1925,1925,1925,1.0,1.0,1.0
 5210,5211,tt0039655,91729,New Orleans,New Orleans,New Orleans,1947,1947,1947,1.0,1.0,1.0
 5211,5212,tt0534997,,Cadfael: The Sanctuary Sparrow,The Sanctuary Sparrow,,1994,1994,,0.8235294117647058,,0.8235294117647058
@@ -5305,7 +5305,7 @@
 5303,5304,tt0159090,,Vanity Fair,Vanity Fair,,1998,1998,,1.0,,1.0
 5304,5305,tt0107286,6,Judgment Night,Judgment Night,Judgment Night,1993,1993,1993,1.0,1.0,1.0
 5305,5306,tt2259302,316500,Thomas & Friends: Steamies vs. Diesels,Thomas & Friends: Steamies vs. Diesel and Other Thomas Adventures,Thomas & Friends: Steamies vs Diesels,2003,2004,2004,0.6148867313915858,0.8222222222222223,0.8222222222222223
-5306,5307,None,270605,Bear in the Big Blue House: Everybody's Special,,Bear in the Big Blue House: Everybody's Special,2002,,2002,,1.0,1.0
+5306,5307,,270605,Bear in the Big Blue House: Everybody's Special,,Bear in the Big Blue House: Everybody's Special,2002,,2002,,1.0,1.0
 5307,5308,tt0190861,7093,Vatel,Vatel,Vatel,2000,2000,2000,1.0,1.0,1.0
 5308,5309,,,Friends: Season 4,,,1997,,,,,
 5309,5310,tt1545455,,The Last Days of World War II,The Last Days of World War II,,2004,2005,,0.83333333,,0.83333333
@@ -5368,7 +5368,7 @@
 5366,5367,tt0116421,9625,The Glimmer Man,The Glimmer Man,The Glimmer Man,1996,1996,1996,1.0,1.0,1.0
 5367,5368,,,Dawson's Creek: Season 2,,,1998,,,,,
 5368,5369,,,Sanford and Son: Season 3,,,1972,,,,,
-5369,5370,None,410161,An Intimate Evening with Anne Murray,,An Intimate Evening with Anne Murray,1999,,1998,,0.8333333333333334,0.8333333333333334
+5369,5370,,410161,An Intimate Evening with Anne Murray,,An Intimate Evening with Anne Murray,1999,,1998,,0.8333333333333334,0.8333333333333334
 5370,5371,tt0074749,32040,The Killing of a Chinese Bookie,The Killing of a Chinese Bookie,The Killing of a Chinese Bookie,1976,1976,1976,1.0,1.0,1.0
 5371,5372,tt0372321,92501,Hell's Highway: The True Story of Highway Safety Films,Hell's Highway: The True Story of Highway Safety Films,Hell's Highway: The True Story of Highway Safety Films,2003,2003,2003,1.0,1.0,1.0
 5372,5373,tt0065744,29129,The Shiver of the Vampires,The Shiver of the Vampires,The Shiver of the Vampires,1970,1971,1971,0.8333333333333334,0.8333333333333334,0.8333333333333334
@@ -5695,7 +5695,7 @@
 5693,5694,tt0104503,52936,In the Soup,In the Soup,In the Soup,1992,1992,1992,1.0,1.0,1.0
 5694,5695,tt0307987,10147,Bad Santa,Bad Santa,Bad Santa,2003,2003,2003,1.0,1.0,1.0
 5695,5696,,,The X-Files: Season 7,,,1999,,,,,
-5696,5697,None,317537,The Big Black Comedy Show: Vol. 2,,The Big Black Comedy Show: Vol. 2,2005,,2005,,1.0,1.0
+5696,5697,,317537,The Big Black Comedy Show: Vol. 2,,The Big Black Comedy Show: Vol. 2,2005,,2005,,1.0,1.0
 5697,5698,tt0089160,71125,Fool for Love,Fool for Love,Fool for Love,1985,1985,1985,1.0,1.0,1.0
 5698,5699,tt0271582,,Joshua,Joshua,,2002,2002,,1.0,,1.0
 5699,5700,,,Law & Order: Season 14,,,2003,,,,,
@@ -5839,7 +5839,7 @@
 5837,5838,tt0313285,69217,Black Cadillac,Black Cadillac,Black Cadillac,2003,2003,2003,1.0,1.0,1.0
 5838,5839,tt0106600,63341,Confessions of Sorority Girls,Confessions of Sorority Girls,Confessions of a Sorority Girl,1993,1994,1995,0.83333333,0.6591337099811676,0.83333333
 5839,5840,tt0088484,,Black Adder II,Blackadder II,,1986,1986,,0.96296296,,0.96296296
-5840,5841,tt0284741' ,34469,Julius Caesar,,Julius Caesar,2002,,2002,,1.0,1.0
+5840,5841,tt0284741,34469,Julius Caesar,Caesar,Julius Caesar,2002,2002,2002,0.63157895,1.0,1.0
 5841,5842,tt0277895,54807,Mickey,Mickey,Mickey,2004,2004,2004,1.0,1.0,1.0
 5842,5843,,,Curb Your Enthusiasm: Season 1,,,2000,,,,,
 5843,5844,tt0224816,57686,Cupid & Cate,Cupid & Cate,Cupid & Cate,2000,2000,2000,1.0,1.0,1.0
@@ -5967,7 +5967,7 @@
 5965,5966,,,"Other Voices, Other Rooms",,,1997,,,,,
 5966,5967,tt0306841,18736,The Lizzie McGuire Movie,The Lizzie McGuire Movie,The Lizzie McGuire Movie,2003,2003,2003,1.0,1.0,1.0
 5967,5968,,293665,Dora the Explorer: Dora's Halloween,,Dora the Explorer: Dora's Halloween,2004,,2004,,1.0,1.0
-5968,5969,None,314398,Huey Lewis and the News: Rockpalast Live,,Huey Lewis and the News: Rockpalast Live,1984,,1984,,1.0,1.0
+5968,5969,,314398,Huey Lewis and the News: Rockpalast Live,,Huey Lewis and the News: Rockpalast Live,1984,,1984,,1.0,1.0
 5969,5970,tt0101669,11498,Dead Again,Dead Again,Dead Again,1991,1991,1991,1.0,1.0,1.0
 5970,5971,tt0106455,22213,Boiling Point,Boiling Point,Boiling Point,1993,1993,1993,1.0,1.0,1.0
 5971,5972,tt0352994,26,Walk on Water,Walk on Water,Walk on Water,2004,2004,2004,1.0,1.0,1.0
@@ -5988,7 +5988,7 @@
 5986,5987,tt0077598,24998,Gates of Heaven,Gates of Heaven,Gates of Heaven,1978,1978,1978,1.0,1.0,1.0
 5987,5988,tt0295260,188364,The First Year,The First Year,The First Year,2001,2001,2001,1.0,1.0,1.0
 5988,5989,tt0035753,29084,Le Corbeau,The Raven,Le Corbeau,1943,1943,1943,0.42105263,1.0,1.0
-5989,5990,None,320225,Sammy Hagar: The Long Road to Cabo,,Sammy Hagar: The Long Road to Cabo,2003,,2003,,1.0,1.0
+5989,5990,,320225,Sammy Hagar: The Long Road to Cabo,,Sammy Hagar: The Long Road to Cabo,2003,,2003,,1.0,1.0
 5990,5991,tt0401792,187,Sin City,Sin City,Sin City,2005,2005,2005,1.0,1.0,1.0
 5991,5992,,,La Strada: Special Edition,,,1954,,,,,
 5992,5993,tt0092085,35371,Thrashin',Thrashin',Thrashin',1986,1986,1986,1.0,1.0,1.0
@@ -6049,7 +6049,7 @@
 6047,6048,tt0943743,,Pregnancy for Dummies,Pregnancy for Dummies,,2002,2001,,0.8333333333333334,,0.8333333333333334
 6048,6049,,,Azumanga Daioh,,,2002,,,,,
 6049,6050,tt0090060,11557,St. Elmo's Fire,St. Elmo's Fire,St. Elmo's Fire,1985,1985,1985,1.0,1.0,1.0
-6050,6051,None 'tt0326430,1092064,X,,X,2001,,2001,,1.0,1.0
+6050,6051,,1092064,X,,X,2001,,2001,,1.0,1.0
 6051,6052,tt0063185,54575,The Killing of Sister George,The Killing of Sister George,The Killing of Sister George,1968,1968,1968,1.0,1.0,1.0
 6052,6053,tt0852880,,Samurai Deeper Kyo,Samurai Deeper Kyo,,2003,2002,,0.8333333333333334,,0.8333333333333334
 6053,6054,tt0047947,25952,Conquest of Space,Conquest of Space,Conquest of Space,1954,1955,1955,0.8333333333333334,0.8333333333333334,0.8333333333333334
@@ -6151,7 +6151,7 @@
 6149,6150,tt0114937,41650,Wigstock: The Movie,Wigstock: The Movie,Wigstock: The Movie,1995,1995,1995,1.0,1.0,1.0
 6150,6151,tt0098453,25199,Teen Witch,Teen Witch,Teen Witch,1989,1989,1989,1.0,1.0,1.0
 6151,6152,tt0205623,,Heritage: Civilization and the Jews,Heritage: Civilization and the Jews,,1984,1984,,1.0,,1.0
-6152,6153,None,371897,Bill Engvall: A Decade of Laughs,,Bill Engvall: A Decade of Laughs,2004,,2004,,1.0,1.0
+6152,6153,,371897,Bill Engvall: A Decade of Laughs,,Bill Engvall: A Decade of Laughs,2004,,2004,,1.0,1.0
 6153,6154,tt0765853,277246,Sesame Street: What's the Name of That Song,Sesame Street: What's the Name of That Song?,Sesame Street: What's the Name of That Song?,2004,2004,2004,0.9885057471264368,0.9885057471264368,0.9885057471264368
 6154,6155,tt0243220,45602,Disappearing Acts,Disappearing Acts,Disappearing Acts,2000,2000,2000,1.0,1.0,1.0
 6155,6156,tt2981630,20480,Toto: 25th Anniversary: Live in Amsterdam,Toto: Live in Amsterdam 2003 - 25th Anniversary,Toto: 25th Anniversary - Live in Amsterdam,2003,2003,2003,0.5227272727272727,0.963855421686747,0.963855421686747
@@ -6209,7 +6209,7 @@
 6207,6208,tt0273169,215620,Desecration,Desecration,Desecration,1999,1999,1999,1.0,1.0,1.0
 6208,6209,,,Gulda: Mozart Concertos,,,1999,,,,,
 6209,6210,tt0092880,,Veronico Cruz,Veronico Cruz,,1988,1988,,1.0,,1.0
-6210,6211,tt0102631' None,68430,Paradise,,Paradise,1991,,1991,,1.0,1.0
+6210,6211,tt0102631,68430,Paradise,,Paradise,1991,,1991,,1.0,1.0
 6211,6212,tt0079484,46124,Dragon Fist,Dragon Fist,Dragon Fist,1979,1979,1979,1.0,1.0,1.0
 6212,6213,tt0042171,,You Bet Your Life,You Bet Your Life,,1950,1950,,1.0,,1.0
 6213,6214,tt0081470,19664,Sea Wolves,The Sea Wolves,The Sea Wolves,1980,1980,1980,0.83333333,0.8333333333333334,0.8333333333333334
@@ -6277,7 +6277,7 @@
 6275,6276,tt0318025,80243,Unknown Pleasures,Unknown Pleasures,Unknown Pleasures,2003,2002,2002,0.8333333333333334,0.83333333,0.8333333333333334
 6276,6277,,,The Mafia: An Expose - Vegas and Hoffa,,,1998,,,,,
 6277,6278,tt0081738,21970,The Watcher in the Woods,The Watcher in the Woods,The Watcher in the Woods,1980,1980,1980,1.0,1.0,1.0
-6278,6279,None,801167,Crunch: The Perfect Yoga Workout,,Crunch: The Perfect Yoga Workout,2001,,2001,,1.0,1.0
+6278,6279,,801167,Crunch: The Perfect Yoga Workout,,Crunch: The Perfect Yoga Workout,2001,,2001,,1.0,1.0
 6279,6280,tt0414545,38128,"Sting: Inside the Songs of ""Sacred Love""",Sting: Inside - The Songs of Sacred Love,Sting: Inside - The Songs of Sacred Love,2003,2003,2003,0.95,0.95,0.95
 6280,6281,tt0109045,2759,"The Adventures of Priscilla, Queen of the Desert","The Adventures of Priscilla, Queen of the Desert","The Adventures of Priscilla, Queen of the Desert",1994,1994,1994,1.0,1.0,1.0
 6281,6282,tt0082696,,Madman,Madman,,1981,1981,,1.0,,1.0
@@ -6542,7 +6542,7 @@
 6540,6541,,,The Andy Griffith Show: Vol 2: The Big House / A Wife for Andy,,,1963,,,,,
 6541,6542,tt0119079,30237,Onegin,Onegin,Onegin,1999,1999,1999,1.0,1.0,1.0
 6542,6543,tt0049777,78331,The Solid Gold Cadillac,The Solid Gold Cadillac,The Solid Gold Cadillac,1956,1956,1956,1.0,1.0,1.0
-6543,6544,None,308542,French & Saunders: At the Movies,,French & Saunders: At the Movies,1993,,1993,,1.0,1.0
+6543,6544,,308542,French & Saunders: At the Movies,,French & Saunders: At the Movies,1993,,1993,,1.0,1.0
 6544,6545,,,Infernal Affairs,,,2004,,,,,
 6545,6546,,,Official 2002 Stanley Cup Championship: Detroit Red Wings,,,2002,,,,,
 6546,6547,tt0082910,31646,Piranha II: The Spawning,Piranha II: The Spawning,Piranha II: The Spawning,1981,1982,1982,0.8333333333333334,0.8333333333333334,0.8333333333333334
@@ -6575,7 +6575,7 @@
 6573,6574,,,Single White Female,,,1992,,,,,
 6574,6575,tt0095467,,A Short Film About Love,A Short Film About Love,,1988,1988,,1.0,,1.0
 6575,6576,,,Big Brother 3,,,2002,,,,,
-6576,6577,None,320751,Roaring Glory Warbirds: Vought F4U Corsair,,Roaring Glory Warbirds: Vought F4U Corsair,1998,,1998,,1.0,1.0
+6576,6577,,320751,Roaring Glory Warbirds: Vought F4U Corsair,,Roaring Glory Warbirds: Vought F4U Corsair,1998,,1998,,1.0,1.0
 6577,6578,,,Delta Force 2: Operation Stranglehold,,,1990,,,,,
 6578,6579,tt0053434,37412,Warlock,Warlock,Warlock,1959,1959,1959,1.0,1.0,1.0
 6579,6580,tt0097423,33787,"Get Smart, Again!","Get Smart, Again!","Get Smart, Again!",1989,1989,1989,1.0,1.0,1.0
@@ -6634,7 +6634,7 @@
 6632,6633,,,Foyle's War: Series 1,,,2003,,,,,
 6633,6634,tt0062824,26170,Coogan's Bluff,Coogan's Bluff,Coogan's Bluff,1968,1968,1968,1.0,1.0,1.0
 6634,6635,,,Eddie Izzard: Circle,,,2000,,,,,
-6635,6636,None,275741,Dog Training the John Fisher Way,,Dog Training the John Fisher Way,2004,,2004,,1.0,1.0
+6635,6636,,275741,Dog Training the John Fisher Way,,Dog Training the John Fisher Way,2004,,2004,,1.0,1.0
 6636,6637,tt0120834,10219,Snow Falling on Cedars,Snow Falling on Cedars,Snow Falling on Cedars,1999,1999,1999,1.0,1.0,1.0
 6637,6638,,,Just for You / Here Comes the Groom,,,1951,,,,,
 6638,6639,,,Airwolf: Season 1,,,1984,,,,,
@@ -6658,7 +6658,7 @@
 6656,6657,tt0042727,1882,The Men,The Men,The Men,1950,1950,1950,1.0,1.0,1.0
 6657,6658,tt4044952,,Children of a Metal God Trilogy,Children of a Metal God,,1998,1998,,0.85185185,,0.85185185
 6658,6659,tt0339209,84935,Issues 101,Issues 101,Issues 101,2003,2002,2002,0.8333333333333334,0.8333333333333334,0.8333333333333334
-6659,6660,None,603240,Crunch: Fat Burning Dance Party,,Crunch: Fat Burning Dance Party,2004,,2004,,1.0,1.0
+6659,6660,,603240,Crunch: Fat Burning Dance Party,,Crunch: Fat Burning Dance Party,2004,,2004,,1.0,1.0
 6660,6661,tt0117887,9591,That Thing You Do!,That Thing You Do!,That Thing You Do!,1996,1996,1996,1.0,1.0,1.0
 6661,6662,tt0272590,26551,Jacked Up,Jacked,Jacked Up,2000,2001,2001,0.6666666666666667,0.8333333333333334,0.8333333333333334
 6662,6663,,,Latin Kings: A Street Gang Story,,,2003,,,,,
@@ -6676,7 +6676,7 @@
 6674,6675,tt0246514,11063,Advertising Rules!,Advertising Rules!,Advertising Rules!,2001,2001,2001,1.0,1.0,1.0
 6675,6676,,,Classic Mystery Movies: And Then There Were None / Cry Panic / The Bat,,,1945,,,,,
 6676,6677,tt0118966,9458,Desperate Measures,Desperate Measures,Desperate Measures,1998,1998,1998,1.0,1.0,1.0
-6677,6678,None,812852,Spike & Mike's Cutting Edge Classics,,Spike and Mike's Cutting Edge Classics,2004,,2004,,0.9459459459459459,0.9459459459459459
+6677,6678,,812852,Spike & Mike's Cutting Edge Classics,,Spike and Mike's Cutting Edge Classics,2004,,2004,,0.9459459459459459,0.9459459459459459
 6678,6679,tt0026252,29877,Curly Top,Curly Top,Curly Top,1935,1935,1935,1.0,1.0,1.0
 6679,6680,,,Galaxy Angel,,,2004,,,,,
 6680,6681,,,Fraggle Rock: Where It All Began,,,1983,,,,,
@@ -6730,7 +6730,7 @@
 6728,6729,tt0108171,9545,Sniper,Sniper,Sniper,1993,1993,1993,1.0,1.0,1.0
 6729,6730,,,Prince Valiant,,,1954,,,,,
 6730,6731,tt0233687,15665,The Eyes of Tammy Faye,The Eyes of Tammy Faye,The Eyes of Tammy Faye,2000,2000,2000,1.0,1.0,1.0
-6731,6732,None,274342,National Lampoon's Mr. Wong,,National Lampoon's Mr. Wong,2004,,2004,,1.0,1.0
+6731,6732,,274342,National Lampoon's Mr. Wong,,National Lampoon's Mr. Wong,2004,,2004,,1.0,1.0
 6732,6733,,57872,Jojo's Circus: Animal a Go-Go,,JoJo's Circus: Animal a Go-Go,2005,,2005,,1.0,1.0
 6733,6734,tt0443708,20623,Page 3,Page 3,Page 3,2005,2005,2005,1.0,1.0,1.0
 6734,6735,tt0180734,20857,Hardball,Hardball,Hardball,2001,2001,2001,1.0,1.0,1.0
@@ -6745,7 +6745,7 @@
 6743,6744,tt0378244,32263,David Cross: Let America Laugh,David Cross: Let America Laugh,David Cross: Let America Laugh,2003,2003,2003,1.0,1.0,1.0
 6744,6745,tt0101244,55627,100 Days,100 Days,100 Days,1991,1991,1991,1.0,1.0,1.0
 6745,6746,,,Kavanagh Q.C.: Set 1,,,1995,,,,,
-6746,6747,tt0271061' None,22724,Metallica: With the San Francisco Symphony: S&M,,Metallica and the San Francisco Symphony: S&M,1999,,1999,,0.91304348,0.91304348
+6746,6747,tt0271061,22724,Metallica: With the San Francisco Symphony: S&M,,Metallica and the San Francisco Symphony: S&M,1999,,1999,,0.91304348,0.91304348
 6747,6748,tt0135706,13935,When Trumpets Fade,When Trumpets Fade,When Trumpets Fade,1998,1998,1998,1.0,1.0,1.0
 6748,6749,tt0069398,8071,Tout Va Bien,,Tout Va Bien,1973,,1972,,0.8333333333333334,0.8333333333333334
 6749,6750,tt0399663,31802,Slayer: War at the Warfield,Slayer: War at the Warfield,Slayer: War at the Warfield,2003,2003,2003,1.0,1.0,1.0
@@ -6793,7 +6793,7 @@
 6791,6792,,,Sonny & Cher: Ultimate Collection,,,2004,,,,,
 6792,6793,,,Dilbert: The Complete Series,,,1999,,,,,
 6793,6794,tt0075357,114255,Tunnel Vision,Tunnel Vision,Tunnel Vision,1976,1976,1976,1.0,1.0,1.0
-6794,6795,None,633887,Pilates Workout for Dummies,,Pilates Workout for Dummies,2001,,2001,,1.0,1.0
+6794,6795,,633887,Pilates Workout for Dummies,,Pilates Workout for Dummies,2001,,2001,,1.0,1.0
 6795,6796,tt0186253,25636,Jesus' Son,Jesus' Son,Jesus' Son,2000,1999,1999,0.83333333,0.8333333333333334,0.8333333333333334
 6796,6797,tt0088847,2108,The Breakfast Club,The Breakfast Club,The Breakfast Club,1985,1985,1985,1.0,1.0,1.0
 6797,6798,,,The Mummy an' the Armadillo,,,2005,,,,,
@@ -6962,7 +6962,7 @@
 6960,6961,tt0119190,10603,George of the Jungle,George of the Jungle,George of the Jungle,1997,1997,1997,1.0,1.0,1.0
 6961,6962,tt0112255,40508,3 Ninjas: Knuckle Up,3 Ninjas: Knuckle Up,3 Ninjas Knuckle Up,1995,1995,1995,1.0,0.9743589743589743,1.0
 6962,6963,tt0266703,125708,Jiang Hu: The Triad Zone,Jiang Hu: The Triad Zone,Jiang Hu: The Triad Zone,2000,2000,2000,1.0,1.0,1.0
-6963,6964,tt0247419' None 'tt0456347,58421,Ignition,,Ignition,2002,,2002,,1.0,1.0
+6963,6964,tt0247419,58421,Ignition,Ignition,Ignition,2002,2001,2002,0.83333333,1.0,1.0
 6964,6965,tt0117496,11210,Robinson Crusoe,Robinson Crusoe,Robinson Crusoe,1996,1997,1997,0.8333333333333334,0.83333333,0.8333333333333334
 6965,6966,tt0283897,16425,Assassination Tango,Assassination Tango,Assassination Tango,2002,2002,2003,1.0,0.8333333333333334,1.0
 6966,6967,,,Pixies,,,2004,,,,,
@@ -7076,7 +7076,7 @@
 7074,7075,tt0052702,92261,The Cosmic Man,The Cosmic Man,The Cosmic Man,1959,1959,1959,1.0,1.0,1.0
 7075,7076,tt0284929,34081,Ted Bundy,Ted Bundy,Ted Bundy,2002,2002,2002,1.0,1.0,1.0
 7076,7077,tt0111440,205715,To Die For,,To Die For,1994,,1994,,1.0,1.0
-7077,7078,None,312003,Yellowstone: The World's First National Park,,Yellowstone: The World's First National Park,2001,,2001,,1.0,1.0
+7077,7078,,312003,Yellowstone: The World's First National Park,,Yellowstone: The World's First National Park,2001,,2001,,1.0,1.0
 7078,7079,tt0362001,46317,A Painted House,A Painted House,A Painted House,2003,2003,2003,1.0,1.0,1.0
 7079,7080,tt0095583,14240,Maniac Cop,Maniac Cop,Maniac Cop,1988,1988,1988,1.0,1.0,1.0
 7080,7081,tt0101529,41785,Cabeza De Vaca,Cabeza de Vaca,Cabeza de Vaca,1991,1991,1991,1.0,1.0,1.0
@@ -7106,7 +7106,7 @@
 7104,7105,,,Truffaut Shorts: Antoine & Collette/Les Mistons,,,1957,,,,,
 7105,7106,tt0284045,43086,Dead Above Ground,Dead Above Ground,Dead Above Ground,2002,2002,2002,1.0,1.0,1.0
 7106,7107,,,Catnapped! The Movie,,,2000,,,,,
-7107,7108,tt0446839' None None,368683,Candide,,Candide,2005,,2005,,1.0,1.0
+7107,7108,tt0446839,368683,Candide,,Candide,2005,,2005,,1.0,1.0
 7108,7109,tt0112675,73522,Cilantro y Perejil,Cilantro y perejil,Recipes to Stay Together,1997,1996,1998,0.8333333333333334,0.35714285714285715,0.8333333333333334
 7109,7110,,,The Shield: Season 3,,,2004,,,,,
 7110,7111,tt0377210,,Kiddy Grade,Kiddy Grade,,2002,2002,,1.0,,1.0
@@ -7249,7 +7249,7 @@
 7247,7248,tt0207988,112991,The Sleepy Time Gal,The Sleepy Time Gal,The Sleepy Time Gal,2002,2001,2001,0.8333333333333334,0.8333333333333334,0.8333333333333334
 7248,7249,tt0375173,8849,Alfie,Alfie,Alfie,2004,2004,2004,1.0,1.0,1.0
 7249,7250,tt0387776,,Banner of the Stars,Banner of the Stars II,,2000,2000,,0.92682927,,0.92682927
-7250,7251,None,311854,The Best of Sessions at West 54th: Vol. 1,,The Best of Sessions at West 54th: Vol. 1,1997,,1997,,1.0,1.0
+7250,7251,,311854,The Best of Sessions at West 54th: Vol. 1,,The Best of Sessions at West 54th: Vol. 1,1997,,1997,,1.0,1.0
 7251,7252,,,As Time Goes By: Series 7,,,1998,,,,,
 7252,7253,tt0323642,13691,Piglet's Big Movie,Piglet's Big Movie,Piglet's Big Movie,2003,2003,2003,1.0,1.0,1.0
 7253,7254,tt0136732,366549,Black Sheep Boy,Black Sheep Boy,Black Sheep Boy,1995,1995,1995,1.0,1.0,1.0
@@ -7347,7 +7347,7 @@
 7345,7346,tt0103360,,The Ben Stiller Show,The Ben Stiller Show,,1992,1992,,1.0,,1.0
 7346,7347,tt0102494,468,My Own Private Idaho,My Own Private Idaho,My Own Private Idaho,1991,1991,1991,1.0,1.0,1.0
 7347,7348,,,The Greatest: Muhammad Ali,,,1977,,,,,
-7348,7349,None,742406,The Berenstain Bears: Bears Mind Their Manners,,The Berenstain Bears': The Bears Mind Their Manners,2005,,2005,,0.9484536082474226,0.9484536082474226
+7348,7349,,742406,The Berenstain Bears: Bears Mind Their Manners,,The Berenstain Bears': The Bears Mind Their Manners,2005,,2005,,0.9484536082474226,0.9484536082474226
 7349,7350,,,Ticker,,,2001,,,,,
 7350,7351,tt0255477,10599,Pinocchio,Pinocchio,Pinocchio,2002,2002,2002,1.0,1.0,1.0
 7351,7352,tt0357654,154391,Jennifer Lopez: Feelin' So Good,Jennifer Lopez: Feelin' So Good,Jennifer Lopez: Feelin' So Good,2000,2000,2000,1.0,1.0,1.0
@@ -7502,7 +7502,7 @@
 7500,7501,tt0108211,,Stalingrad,Stalingrad,,1993,1993,,1.0,,1.0
 7501,7502,tt0270059,95526,Waiting,,Waiting,2000,,2001,,0.83333333,0.83333333
 7502,7503,tt0152174,279762,Requiem for Murder,Requiem for Murder,Requiem for Murder,1999,1999,1999,1.0,1.0,1.0
-7503,7504,None,320406,Rachmaninov / Tchaikovsky: Arkadi Zenziper,,Rachmaninov / Tchaikovsky: Arkadi Zenziper,1990,,1990,,1.0,1.0
+7503,7504,,320406,Rachmaninov / Tchaikovsky: Arkadi Zenziper,,Rachmaninov / Tchaikovsky: Arkadi Zenziper,1990,,1990,,1.0,1.0
 7504,7505,tt0111973,,Fushigi Yugi: The Mysterious Play,Fushigi Yûgi - The Mysterious Play,,1995,1995,,0.92537313,,0.92537313
 7505,7506,tt0213775,411832,Kohram,Kohram,Kohram,1999,1999,1999,1.0,1.0,1.0
 7506,7507,tt0412366,25786,Samantha: An American Girl Holiday,Samantha: An American Girl Holiday,Samantha: An American Girl Holiday,2004,2004,2004,1.0,1.0,1.0
@@ -7549,7 +7549,7 @@
 7547,7548,tt0303917,287990,Divan,Divan,Divan,2004,2003,2003,0.8333333333333334,0.8333333333333334,0.8333333333333334
 7548,7549,tt0415908,20132,Kaal,Kaal,Kaal,2005,2005,2005,1.0,1.0,1.0
 7549,7550,,,Big Wars,,,1996,,,,,
-7550,7551,None,296180,Primus: Animals Should Not Try to Act Like People,,Primus: Animals Should Not Try to Act Like People,2003,,2003,,1.0,1.0
+7550,7551,,296180,Primus: Animals Should Not Try to Act Like People,,Primus: Animals Should Not Try to Act Like People,2003,,2003,,1.0,1.0
 7551,7552,tt0094138,13339,Three O'Clock High,Three O'Clock High,Three O'Clock High,1987,1987,1987,1.0,1.0,1.0
 7552,7553,,,Metallica: Some Kind of Monster: Bonus Material,,,2004,,,,,
 7553,7554,,,The Simple Life: Season 2,,,2004,,,,,
@@ -7572,7 +7572,7 @@
 7570,7571,tt0120449,9840,The Dreamlife of Angels,The Dreamlife of Angels,The Dreamlife of Angels,1998,1998,1998,1.0,1.0,1.0
 7571,7572,tt0111477,23719,Trapped in Paradise,Trapped in Paradise,Trapped in Paradise,1994,1994,1994,1.0,1.0,1.0
 7572,7573,,,Kindred: The Embraced: The Complete Vampire Collection,,,2000,,,,,
-7573,7574,None,318490,Ronald Reagan: A Legacy Remembered,,Ronald Reagan: A Legacy Remembered,2002,,2003,,0.8333333333333334,0.8333333333333334
+7573,7574,,318490,Ronald Reagan: A Legacy Remembered,,Ronald Reagan: A Legacy Remembered,2002,,2003,,0.8333333333333334,0.8333333333333334
 7574,7575,tt0188766,53168,King of Comedy,King of Comedy,King of Comedy,1999,1999,1999,1.0,1.0,1.0
 7575,7576,tt0045963,,Kiss Me Kate,Kiss Me Kate,,1953,1953,,1.0,,1.0
 7576,7577,,,Horatio Hornblower: The New Adventures,,,2003,,,,,
@@ -7773,7 +7773,7 @@
 7771,7772,tt0072913,49636,Master of the Flying Guillotine,Master of the Flying Guillotine,Master of the Flying Guillotine,1975,1976,1976,0.83333333,0.8333333333333334,0.8333333333333334
 7772,7773,tt0097499,10705,Henry V,Henry V,Henry V,1989,1989,1989,1.0,1.0,1.0
 7773,7774,tt0071487,,The Phantom of Liberty,The Phantom of Liberty,,1974,1974,,1.0,,1.0
-7774,7775,tt0087188' None,5622,And the Ship Sails On,,And the Ship Sails On,1984,,1983,,0.83333333,0.83333333
+7774,7775,tt0087188,5622,And the Ship Sails On,The Ship Sails On,And the Ship Sails On,1984,1983,1983,0.74561404,0.83333333,0.83333333
 7775,7776,tt0144801,113096,The Brandon Teena Story,The Brandon Teena Story,The Brandon Teena Story,1998,1998,1998,1.0,1.0,1.0
 7776,7777,tt0165445,3588,River Made to Drown In,River Made to Drown In,River Made to Drown In,1997,1997,1997,1.0,1.0,1.0
 7777,7778,,,Speaking in Strings: Nadja Salerno-Sonnenberg,,,1999,,,,,
@@ -7836,7 +7836,7 @@
 7834,7835,tt0086308,38155,Zu: Warriors from the Magic Mountain,Zu: Warriors from the Magic Mountain,Zu: Warriors from the Magic Mountain,1982,1983,1983,0.8333333333333334,0.8333333333333334,0.8333333333333334
 7835,7836,tt0059358,29586,King Rat,King Rat,King Rat,1965,1965,1965,1.0,1.0,1.0
 7836,7837,tt0151327,72389,Lenny Bruce Without Tears,Lenny Bruce: Without Tears,Lenny Bruce: Without Tears,1972,1972,1972,0.9803921568627451,0.9803921568627451,0.9803921568627451
-7837,7838,None,275937,In the Country where Nothing Happens,,IN THE COUNTRY WHERE NOTHING HAPPENS,1999,,1999,,1.0,1.0
+7837,7838,,275937,In the Country where Nothing Happens,,IN THE COUNTRY WHERE NOTHING HAPPENS,1999,,1999,,1.0,1.0
 7838,7839,,,Kiss of Fire,,,1998,,,,,
 7839,7840,,,Dali,,,1986,,,,,
 7840,7841,tt0100436,8428,Pump Up the Volume,Pump Up the Volume,Pump Up the Volume,1990,1990,1990,1.0,1.0,1.0
@@ -7901,7 +7901,7 @@
 7899,7900,tt0256856,150834,Kept,Kept,Kept,2001,2001,2001,1.0,1.0,1.0
 7900,7901,,,Sudden Manhattan,,,2000,,,,,
 7901,7902,,,Cadfael: St. Peter's Fair,,,1997,,,,,
-7902,7903,None,498464,Adventures of Batman & Robin: Poison Ivy/The Penguin,,Adventures of Batman & Robin: Poison Ivy/The Penguin,1992,,1992,,1.0,1.0
+7902,7903,,498464,Adventures of Batman & Robin: Poison Ivy/The Penguin,,Adventures of Batman & Robin: Poison Ivy/The Penguin,1992,,1992,,1.0,1.0
 7903,7904,tt0272338,8051,Punch-Drunk Love,Punch-Drunk Love,Punch-Drunk Love,2002,2002,2002,1.0,1.0,1.0
 7904,7905,,,The Twilight Zone: Vol. 1,,,1962,,,,,
 7905,7906,,,NFL Films Super Bowl Collection: Super Bowl I-X,,,2003,,,,,
@@ -8122,7 +8122,7 @@
 8120,8121,,,Search for the Great Sharks: IMAX,,,1999,,,,,
 8121,8122,tt0126220,13923,A Bright Shining Lie,A Bright Shining Lie,A Bright Shining Lie,1998,1998,1998,1.0,1.0,1.0
 8122,8123,,,Ballistic: Ecks vs. Sever,,,2002,,,,,
-8123,8124,tt0303361' None,10894,May,,May,2003,,2003,,1.0,1.0
+8123,8124,tt0303361,10894,May,May,May,2003,2002,2003,0.8333333333333334,1.0,1.0
 8124,8125,tt0112221,,Wedding Peach,Wedding Peach,,1995,1995,,1.0,,1.0
 8125,8126,tt0077714,55457,I Wanna Hold Your Hand,I Wanna Hold Your Hand,I Wanna Hold Your Hand,1978,1978,1978,1.0,1.0,1.0
 8126,8127,tt0475009,282872,The Work of Director Stephane Sednaoui,The Work of Director Stéphane Sednaoui,The Work of Director Stéphane Sednaoui,2005,2005,2005,0.97368421,0.9736842105263158,0.9736842105263158
@@ -8137,7 +8137,7 @@
 8135,8136,,,BoyFriends,,,2000,,,,,
 8136,8137,,,Lost in Space: Season 3: Vol. 2,,,1968,,,,,
 8137,8138,tt0844233,,Fleetwood Mac: Live in Boston,Fleetwood Mac: Live in Boston,,2004,2004,,1.0,,1.0
-8138,8139,None,277332,The Best of the Bachelor,,The Best of the Bachelor,2002,,2002,,1.0,1.0
+8138,8139,,277332,The Best of the Bachelor,,The Best of the Bachelor,2002,,2002,,1.0,1.0
 8139,8140,,,Hercules: The Legendary Journeys: Season 4,,,1997,,,,,
 8140,8141,,,Stephen King's Cat's Eye,,,1985,,,,,
 8141,8142,tt0410428,106576,Pat Metheny: Speaking of Now: Live,Pat Metheny Group: Speaking of Now Live,Pat Metheny Group - Speaking Of Now Live,2003,2003,2003,0.90410959,0.8648648648648649,0.90410959
@@ -8210,7 +8210,7 @@
 8208,8209,tt0820986,23377,Pablo Francisco: Bits and Pieces,Pablo Francisco: Bits and Pieces - Live from Orange County,Pablo Francisco: Bits and Pieces,2004,2004,2004,0.71111111,1.0,1.0
 8209,8210,,,Constantine: Bonus Material,,,2005,,,,,
 8210,8211,,,Penn & Teller: Bullsh*t!: Season 2,,,2004,,,,,
-8211,8212,tt0163818' None,10616,Contract Killer,,Contract Killer,1999,,1998,,0.83333333,0.83333333
+8211,8212,tt0163818,10616,Contract Killer,,Contract Killer,1999,,1998,,0.83333333,0.83333333
 8212,8213,,,Gundam Wing,,,2000,,,,,
 8213,8214,,,Wing Chun: Fighting Art,,,2004,,,,,
 8214,8215,tt0117723,10535,Spy Hard,Spy Hard,Spy Hard,1996,1996,1996,1.0,1.0,1.0
@@ -8249,7 +8249,7 @@
 8247,8248,,,Dark Shadows: Vol. 16,,,1969,,,,,
 8248,8249,tt0156215,,Genesis Climber Mospeada,Genesis Climber Mospeada,,1984,1983,,0.83333333,,0.83333333
 8249,8250,tt0193364,37632,The Order,The Order,The Order,2001,2001,2001,1.0,1.0,1.0
-8250,8251,None,853642,Nazca: Eternal Power,,Nazca: Eternal Power,1998,,1998,,1.0,1.0
+8250,8251,,853642,Nazca: Eternal Power,,Nazca: Eternal Power,1998,,1998,,1.0,1.0
 8251,8252,,,Nature: Birds,,,1982,,,,,
 8252,8253,tt0166621,118453,Brain Drain,Brain Drain,Brain Drain,1998,1998,1998,1.0,1.0,1.0
 8253,8254,tt0087265,25010,The Flamingo Kid,The Flamingo Kid,The Flamingo Kid,1984,1984,1984,1.0,1.0,1.0
@@ -8278,7 +8278,7 @@
 8276,8277,tt0138749,10501,The Road to El Dorado,The Road to El Dorado,The Road to El Dorado,2000,2000,2000,1.0,1.0,1.0
 8277,8278,tt0129157,,In the Flesh,In the Flesh,,1997,1998,,0.83333333,,0.83333333
 8278,8279,,,Carpenters: Gold: Greatest Hits,,,1985,,,,,
-8279,8280,None,318517,South Park: The Chef Experience,,South Park: The Chef Experience,2000,,2000,,1.0,1.0
+8279,8280,,318517,South Park: The Chef Experience,,South Park: The Chef Experience,2000,,2000,,1.0,1.0
 8280,8281,tt1063032,,World Class Trains,World Class Trains,,1999,1999,,1.0,,1.0
 8281,8282,,,Babylon 5: Season 2,,,1994,,,,,
 8282,8283,,,Let It Rock: Vol. 1,,,2003,,,,,
@@ -8392,7 +8392,7 @@
 8390,8391,tt0460737,415384,Carol Channing and Pearl Bailey: On Broadway,Carol Channing and Pearl Bailey: On Broadway,Carol Channing and Pearl Bailey: On Broadway,1969,1969,1969,1.0,1.0,1.0
 8391,8392,tt0271895,,The American President,The American President,,2001,2000,,0.83333333,,0.83333333
 8392,8393,tt0349710,11128,Ladder 49,Ladder 49,Ladder 49,2004,2004,2004,1.0,1.0,1.0
-8393,8394,None,309176,Marilyn Manson: Birth of the Anti-Christ,,Marilyn Manson: Birth of the Anti-Christ,2001,,2001,,1.0,1.0
+8393,8394,,309176,Marilyn Manson: Birth of the Anti-Christ,,Marilyn Manson: Birth of the Anti-Christ,2001,,2001,,1.0,1.0
 8394,8395,tt1398266,,Faster Than Sound: Nova,Faster Than Sound,,1997,1997,,0.85,,0.85
 8395,8396,tt0103010,94666,Surviving Desire,Surviving Desire,Surviving Desire,1991,1992,1992,0.8333333333333334,0.8333333333333334,0.8333333333333334
 8396,8397,tt0061489,26299,Clambake,Clambake,Clambake,1967,1967,1967,1.0,1.0,1.0
@@ -8434,7 +8434,7 @@
 8432,8433,tt0259182,70779,The American Nightmare,The American Nightmare,The American Nightmare,2000,2000,2000,1.0,1.0,1.0
 8433,8434,tt0216930,38132,My 5 Wives,My 5 Wives,My 5 Wives,2000,2000,2000,1.0,1.0,1.0
 8434,8435,tt0120423,54800,Urban Ghost Story,Urban Ghost Story,Urban Ghost Story,1998,1998,1998,1.0,1.0,1.0
-8435,8436,None,304179,Classic Cartoon Favorites: Starring Mickey,,"Classic Cartoon Favorites, Vol. 1 - Starring Mickey",2005,,2005,,0.8817204301075269,0.8817204301075269
+8435,8436,,304179,Classic Cartoon Favorites: Starring Mickey,,"Classic Cartoon Favorites, Vol. 1 - Starring Mickey",2005,,2005,,0.8817204301075269,0.8817204301075269
 8436,8437,,,Soldier,,,1998,,,,,
 8437,8438,,,Friends: Season 5,,,1998,,,,,
 8438,8439,tt0222355,42187,Shark Attack 2,Shark Attack 2,Shark Attack 2,2000,2000,2001,1.0,0.8333333333333334,1.0
@@ -8504,10 +8504,10 @@
 8502,8503,tt0053115,34528,Human Condition II: The Road to Eternity,The Human Condition II: Road to Eternity,The Human Condition II: Road to Eternity,1959,1959,1959,0.9,0.9,0.9
 8503,8504,tt0074564,21882,Gator,Gator,Gator,1976,1976,1976,1.0,1.0,1.0
 8504,8505,tt0064110,15873,The Bridge at Remagen,The Bridge at Remagen,The Bridge at Remagen,1969,1969,1969,1.0,1.0,1.0
-8505,8506,None ,326027,New York City Ballet Workout,,New York City Ballet Workout Vol. 1,2001,,2001,,0.88888889,0.88888889
+8505,8506,,326027,New York City Ballet Workout,,New York City Ballet Workout Vol. 1,2001,,2001,,0.88888889,0.88888889
 8506,8507,tt0086383,10650,Sudden Impact,Sudden Impact,Sudden Impact,1983,1983,1983,1.0,1.0,1.0
 8507,8508,,,The Battle of Algiers: Bonus Material 2,,,1965,,,,,
-8508,8509,None 'tt0226238,271658,What Your Eyes Don't See,,What Your Eyes Don't See,1999,,1999,,1.0,1.0
+8508,8509,,271658,What Your Eyes Don't See,,What Your Eyes Don't See,1999,,1999,,1.0,1.0
 8509,8510,tt0365135,19416,Double Dare,Double Dare,Double Dare,2005,2004,2004,0.83333333,0.8333333333333334,0.8333333333333334
 8510,8511,tt0051878,40085,"The Long, Hot Summer","The Long, Hot Summer","The Long, Hot Summer",1958,1958,1958,1.0,1.0,1.0
 8511,8512,tt0143145,36643,The World Is Not Enough,The World Is Not Enough,The World Is Not Enough,1999,1999,1999,1.0,1.0,1.0
@@ -8614,7 +8614,7 @@
 8612,8613,tt0053221,301,Rio Bravo,Rio Bravo,Rio Bravo,1959,1959,1959,1.0,1.0,1.0
 8613,8614,tt0260695,41890,Hometown Legend,Hometown Legend,Hometown Legend,2002,2002,2002,1.0,1.0,1.0
 8614,8615,tt0094854,,City War,City War,,1989,1988,,0.83333333,,0.83333333
-8615,8616,tt0117306' None 'tt0148583,100956,Passion,,Passion,1996,,1996,,1.0,1.0
+8615,8616,tt0117306,100956,Passion,,Passion,1996,,1996,,1.0,1.0
 8616,8617,tt0098180,12663,Red Scorpion,Red Scorpion,Red Scorpion,1989,1988,1988,0.83333333,0.83333333,0.83333333
 8617,8618,,,Jay and Silent Bob Strike Back: Bonus Material,,,2001,,,,,
 8618,8619,tt0089791,5683,Pee-Wee's Big Adventure,Pee-wee's Big Adventure,Pee-wee's Big Adventure,1985,1985,1985,1.0,1.0,1.0
@@ -8927,7 +8927,7 @@
 8925,8926,tt9905020,,Alice Cooper: Welcome to My Nightmare,Alice Cooper: Welcome to My Nightmare (Music Video),,1975,1975,,0.84090909,,0.84090909
 8926,8927,tt0282159,45488,Twelve Nights,Twelve Nights,Twelve Nights,2000,2000,2000,1.0,1.0,1.0
 8927,8928,tt0281373,11888,Snow Dogs,Snow Dogs,Snow Dogs,2002,2002,2002,1.0,1.0,1.0
-8928,8929,None,631234,Winsor McCay: The Master Edition,,Winsor McCay: The Master Edition,2003,,2004,,0.8333333333333334,0.8333333333333334
+8928,8929,,631234,Winsor McCay: The Master Edition,,Winsor McCay: The Master Edition,2003,,2004,,0.8333333333333334,0.8333333333333334
 8929,8930,tt0109370,1775,Canadian Bacon,Canadian Bacon,Canadian Bacon,1995,1995,1995,1.0,1.0,1.0
 8930,8931,,,Nautilus,,,1998,,,,,
 8931,8932,tt0041967,70113,Tokyo Joe,Tokyo Joe,Tokyo Joe,1949,1949,1949,1.0,1.0,1.0
@@ -9014,7 +9014,7 @@
 9012,9013,,,Roughnecks: The Starship Troopers Chronicles: The Tophet Campaign,,,2000,,,,,
 9013,9014,tt0031971,,Stagecoach,Stagecoach,,1939,1939,,1.0,,1.0
 9014,9015,tt0391891,5460,Cruel Intentions 3,Cruel Intentions 3,Cruel Intentions 3,2004,2004,2004,1.0,1.0,1.0
-9015,9016,tt0173906' None 'tt14714590,19654,The Man I Love,,The Man I Love,1997,,1997,,1.0,1.0
+9015,9016,tt0173906,19654,The Man I Love,,The Man I Love,1997,,1997,,1.0,1.0
 9016,9017,tt0037547,75888,Blood on the Sun,Blood on the Sun,Blood on the Sun,1945,1945,1945,1.0,1.0,1.0
 9017,9018,tt0070212,41461,The Iceman Cometh,The Iceman Cometh,The Iceman Cometh,1973,1973,1973,1.0,1.0,1.0
 9018,9019,tt0106350,71940,The Ballad of Little Jo,The Ballad of Little Jo,The Ballad of Little Jo,1993,1993,1993,1.0,1.0,1.0
@@ -9102,7 +9102,7 @@
 9100,9101,,,Northern Exposure: Season 3,,,1991,,,,,
 9101,9102,,,Kiki's Delivery Service: Bonus Material,,,1989,,,,,
 9102,9103,tt0004707,22943,Tillie's Punctured Romance,Tillie's Punctured Romance,Tillie's Punctured Romance,1914,1914,1914,1.0,1.0,1.0
-9103,9104,None,320244,Echo and the Bunnymen: Live in Liverpool,,Echo And The Bunnymen: Live in Liverpool,2001,,2002,,0.8333333333333334,0.8333333333333334
+9103,9104,,320244,Echo and the Bunnymen: Live in Liverpool,,Echo And The Bunnymen: Live in Liverpool,2001,,2002,,0.8333333333333334,0.8333333333333334
 9104,9105,tt0439814,233833,A Slice of Terror,A Slice of Terror,A Slice of Terror,2005,2004,2004,0.8333333333333334,0.8333333333333334,0.8333333333333334
 9105,9106,tt0037101,1834,"Murder, My Sweet","Murder, My Sweet","Murder, My Sweet",1944,1944,1944,1.0,1.0,1.0
 9106,9107,,,Handel: The Messiah: Choir of King's College,,,1993,,,,,
@@ -9374,7 +9374,7 @@
 9372,9373,tt0022268,26884,Platinum Blonde,Platinum Blonde,Platinum Blonde,1931,1931,1931,1.0,1.0,1.0
 9373,9374,,,La Guerre Est Finie,,,1966,,,,,
 9374,9375,tt0338556,153104,Wicked Minds,Wicked Minds,Wicked Minds,2002,2003,2003,0.8333333333333334,0.8333333333333334,0.8333333333333334
-9375,9376,None,373525,This Land Is Your Land: The Folk Years,,This Land Is Your Land - Folk Years,2002,,2002,,0.9315068493150684,0.9315068493150684
+9375,9376,,373525,This Land Is Your Land: The Folk Years,,This Land Is Your Land - Folk Years,2002,,2002,,0.9315068493150684,0.9315068493150684
 9376,9377,tt0029440,37025,The Prince and the Pauper,The Prince and the Pauper,The Prince and the Pauper,1937,1937,1937,1.0,1.0,1.0
 9377,9378,tt0087781,11393,The Natural,The Natural,The Natural,1984,1984,1984,1.0,1.0,1.0
 9378,9379,tt0275779,,WWII: The Lost Color Archives,WWII: The Lost Color Archives,,2000,2000,,1.0,,1.0
@@ -9397,7 +9397,7 @@
 9395,9396,tt0115986,10546,The Crow: City of Angels,The Crow: City of Angels,The Crow: City of Angels,1996,1996,1996,1.0,1.0,1.0
 9396,9397,,,Columbo: Season 3,,,1973,,,,,
 9397,9398,tt0375104,24747,"Bobby Jones, Stroke of Genius",Bobby Jones: Stroke of Genius,Bobby Jones: Stroke of Genius,2004,2004,2004,0.96551724,0.9655172413793104,0.9655172413793104
-9398,9399,None,275751,Legend of the Dragon Kings: White Dragon,,Legend of the Dragon Kings: White Dragon,1991,,1991,,1.0,1.0
+9398,9399,,275751,Legend of the Dragon Kings: White Dragon,,Legend of the Dragon Kings: White Dragon,1991,,1991,,1.0,1.0
 9399,9400,tt0092534,9710,Allan Quatermain and the Lost City of Gold,Allan Quatermain and the Lost City of Gold,Allan Quatermain and the Lost City of Gold,1987,1986,1986,0.8333333333333334,0.8333333333333334,0.8333333333333334
 9400,9401,tt0378814,227856,Strange Things Happen at Sundown,Strange Things Happen at Sundown,Strange Things Happen at Sundown,2003,2003,2003,1.0,1.0,1.0
 9401,9402,tt0156807,37716,Mr. Accident,Mr. Accident,Mr. Accident,2000,2000,2000,1.0,1.0,1.0
@@ -9458,7 +9458,7 @@
 9456,9457,,,Wacky Races: The Complete Series,,,2004,,,,,
 9457,9458,tt0320661,1495,Kingdom of Heaven,Kingdom of Heaven,Kingdom of Heaven,2005,2005,2005,1.0,1.0,1.0
 9458,9459,tt0095348,17006,I'm Gonna Git You Sucka,I'm Gonna Git You Sucka,I'm Gonna Git You Sucka,1988,1988,1988,1.0,1.0,1.0
-9459,9460,None,418196,"Lucinda Williams: Live from Austin, TX",,Lucinda Williams - Live from Austin TX,2005,,2005,,0.9473684210526315,0.9473684210526315
+9459,9460,,418196,"Lucinda Williams: Live from Austin, TX",,Lucinda Williams - Live from Austin TX,2005,,2005,,0.9473684210526315,0.9473684210526315
 9460,9461,tt0110907,3586,Ready to Wear,Ready to Wear,Ready to Wear,1994,1994,1994,1.0,1.0,1.0
 9461,9462,,,Half a Loaf of Kung Fu,,,1980,,,,,
 9462,9463,,,Castle in the Sky: Bonus Material,,,1986,,,,,
@@ -9558,7 +9558,7 @@
 9556,9557,tt0275434,47980,Jesus Christ Superstar: 2000,Jesus Christ Superstar,Jesus Christ Superstar,2000,2000,2000,0.88,0.88,0.88
 9557,9558,,,Elvis Presley: Great Performances: Vol. 3: From the Waist Up,,,1997,,,,,
 9558,9559,tt0388835,,Chisholm '72: Unbought and Unbossed,Chisholm '72: Unbought & Unbossed,,2004,2004,,0.94117647,,0.94117647
-9559,9560, 'tt0174982,14079,New World Disorder,,New World Disorder 1,2000,,2000,,0.94736842,0.94736842
+9559,9560,,14079,New World Disorder,,New World Disorder 1,2000,,2000,,0.94736842,0.94736842
 9560,9561,,,Stories From My Childhood,,,1996,,,,,
 9561,9562,tt0264429,49516,Black Mask 2: City of Masks,Black Mask 2: City of Masks,Black Mask 2: City of Masks,2002,2002,2002,1.0,1.0,1.0
 9562,9563,tt0056671,60792,Walk on the Wild Side,Walk on the Wild Side,Walk on the Wild Side,1962,1962,1962,1.0,1.0,1.0
@@ -9625,7 +9625,7 @@
 9623,9624,,,21 Jump Street: Season 3,,,1988,,,,,
 9624,9625,tt0032551,596,The Grapes of Wrath,The Grapes of Wrath,The Grapes of Wrath,1940,1940,1940,1.0,1.0,1.0
 9625,9626,,,Saved by the Bell: Season 2,,,1989,,,,,
-9626,9627,None,321882,Fighter Jets and Attack Aircraft,,Fighter Jets and Attack Aircraft,1998,,1998,,1.0,1.0
+9626,9627,,321882,Fighter Jets and Attack Aircraft,,Fighter Jets and Attack Aircraft,1998,,1998,,1.0,1.0
 9627,9628,,,Star Wars: Episode VI: Return of the Jedi,,,1983,,,,,
 9628,9629,,,Stranded,,,2002,,,,,
 9629,9630,tt0181850,122364,Teach Me Tonight,Teach Me Tonight,Teach Me Tonight,1997,1997,1997,1.0,1.0,1.0
@@ -9676,7 +9676,7 @@
 9674,9675,,,Submitted for Your Approval: Rod Serling,,,1998,,,,,
 9675,9676,,,Red Green's: We Can't Help It -- We're Men,,,1991,,,,,
 9676,9677,tt0078869,9570,The Black Hole,The Black Hole,The Black Hole,1979,1979,1979,1.0,1.0,1.0
-9677,9678,None,276983,Luther Vandross: Live at Wembley,,Luther Vandross: Live at Wembley,1988,,1988,,1.0,1.0
+9677,9678,,276983,Luther Vandross: Live at Wembley,,Luther Vandross: Live at Wembley,1988,,1988,,1.0,1.0
 9678,9679,tt0116493,38223,Harriet the Spy,Harriet the Spy,Harriet the Spy,1996,1996,1996,1.0,1.0,1.0
 9679,9680,,,Hercules & Xena: Animated Movie,,,1998,,,,,
 9680,9681,tt0110005,1024,Heavenly Creatures,Heavenly Creatures,Heavenly Creatures,1994,1994,1994,1.0,1.0,1.0
@@ -9819,7 +9819,7 @@
 9817,9818,tt0119488,2118,L.A. Confidential,L.A. Confidential,L.A. Confidential,1997,1997,1997,1.0,1.0,1.0
 9818,9819,tt0110426,,Macross Plus,Macross Plus,,1994,1994,,1.0,,1.0
 9819,9820,tt0099121,37447,Berkeley in the Sixties,Berkeley in the Sixties,Berkeley in the Sixties,1990,1990,1990,1.0,1.0,1.0
-9820,9821,None 'tt0286751,308856,Pulse,,Pulse,2003,,2002,,0.83333333,0.83333333
+9820,9821,,308856,Pulse,,Pulse,2003,,2002,,0.83333333,0.83333333
 9821,9822,tt0156976,214690,Chasing Destiny,Chasing Destiny,Chasing Destiny,2000,2001,2001,0.8333333333333334,0.8333333333333334,0.8333333333333334
 9822,9823,,,Cadfael: The Raven in the Foregate,,,1997,,,,,
 9823,9824,tt0114563,12613,Street Fighter II: Animated Movie,Street Fighter II: The Animated Movie,Street Fighter II: The Animated Movie,1994,1994,1994,0.94285714,0.9428571428571428,0.9428571428571428
@@ -9843,7 +9843,7 @@
 9841,9842,tt0111939,,Degree of Guilt,Degree of Guilt,,1995,1995,,1.0,,1.0
 9842,9843,,,Dallas: Season 3,,,1979,,,,,
 9843,9844,tt0113936,27993,National Lampoon's Senior Trip,National Lampoon's Senior Trip,Senior Trip,1995,1995,1995,1.0,0.5365853658536586,1.0
-9844,9845,None,435287,SpongeBob SquarePants: Tales From the Deep,,Spongebob Squarepants Tales from the Deep,2002,,2003,,0.8232931726907631,0.8232931726907631
+9844,9845,,435287,SpongeBob SquarePants: Tales From the Deep,,Spongebob Squarepants Tales from the Deep,2002,,2003,,0.8232931726907631,0.8232931726907631
 9845,9846,,,Duran Duran: Arena,,,2004,,,,,
 9846,9847,tt0365270,10367,Wild Things 2,Wild Things 2,Wild Things 2,2004,2004,2004,1.0,1.0,1.0
 9847,9848,tt0413615,32063,Unforgivable Blackness: The Rise and Fall of Jack Johnson,Unforgivable Blackness: The Rise and Fall of Jack Johnson,Unforgivable Blackness: The Rise and Fall of Jack Johnson,2004,2004,2004,1.0,1.0,1.0
@@ -9870,7 +9870,7 @@
 9868,9869,,,Occult History of the 3rd Reich #2: The SS Blood & Soil,,,1998,,,,,
 9869,9870,tt0411291,65579,Dirty Filthy Love,Dirty Filthy Love,Dirty Filthy Love,2004,2004,2005,1.0,0.8333333333333334,1.0
 9870,9871,,,Curse of the Komodo,,,2003,,,,,
-9871,9872,None,274637,MTV Unplugged: Ballads,,MTV Unplugged: Ballads,1998,,1998,,1.0,1.0
+9871,9872,,274637,MTV Unplugged: Ballads,,MTV Unplugged: Ballads,1998,,1998,,1.0,1.0
 9872,9873,tt0137079,162234,Lola & Billy the Kid,Lola and Billy the Kid,Lola and Billy the Kid,1999,1999,1999,0.9047619047619048,0.9047619047619048,0.9047619047619048
 9873,9874,,,Discovering France,,,2001,,,,,
 9874,9875,tt0251141,125707,Innocence,Innocence,Innocence,2000,2000,2000,1.0,1.0,1.0
@@ -9888,7 +9888,7 @@
 9886,9887,tt0097910,2927,Moon 44,Moon 44,Moon 44,1990,1990,1990,1.0,1.0,1.0
 9887,9888,tt0097336,27461,Fat Man and Little Boy,Fat Man and Little Boy,Fat Man and Little Boy,1989,1989,1989,1.0,1.0,1.0
 9888,9889,tt0093164,42023,Heat,Heat,Heat,1987,1986,1986,0.83333333,0.83333333,0.83333333
-9889,9890,None,311506,National Geographic: Egypt Eternal: The Quest for Lost Tombs,,National Geographic: Egypt Eternal: The Quest for Lost Tombs,2002,,2002,,1.0,1.0
+9889,9890,,311506,National Geographic: Egypt Eternal: The Quest for Lost Tombs,,National Geographic: Egypt Eternal: The Quest for Lost Tombs,2002,,2002,,1.0,1.0
 9890,9891,,,Three Musketeers (Animated),,,1996,,,,,
 9891,9892,tt0427479,,Lynyrd Skynyrd Lyve: The Vicious Cycle Tour,Lynyrd Skynyrd Lyve: The Vicious Cycle Tour,,2003,2003,,1.0,,1.0
 9892,9893,,,Silent Mobius: Vol. 1,,,1998,,,,,
@@ -9959,7 +9959,7 @@
 9957,9958,tt0039631,30588,Monsieur Verdoux,Monsieur Verdoux,Monsieur Verdoux,1947,1947,1947,1.0,1.0,1.0
 9958,9959,tt0120483,9414,The Man Who Knew Too Little,The Man Who Knew Too Little,The Man Who Knew Too Little,1997,1997,1997,1.0,1.0,1.0
 9959,9960,tt0095016,,Die Hard,Die Hard,,1988,1988,,1.0,,1.0
-9960,9961, 'tt0287570,50050,Monty Python Live!,,Monty Python Live!,2001,,2001,,1.0,1.0
+9960,9961,,50050,Monty Python Live!,,Monty Python Live!,2001,,2001,,1.0,1.0
 9961,9962,tt0036443,11021,Titanic,Titanic,Titanic,1943,1943,1943,1.0,1.0,1.0
 9962,9963,tt0106676,47945,Daybreak,Daybreak,Daybreak,1993,1993,1993,1.0,1.0,1.0
 9963,9964,tt0058576,23518,Seven Days in May,Seven Days in May,Seven Days in May,1964,1964,1964,1.0,1.0,1.0
@@ -9967,7 +9967,7 @@
 9965,9966,tt0168987,18212,Better Than Chocolate,Better Than Chocolate,Better Than Chocolate,1999,1999,1999,1.0,1.0,1.0
 9966,9967,tt0067535,92272,The Organization,The Organization,The Organization,1971,1971,1971,1.0,1.0,1.0
 9967,9968,,,Ice Age: Bonus Material,,,2002,,,,,
-9968,9969,None,311351,Smokey Robinson: The Greatest Hits Live,,Smokey Robinson: The Greatest Hits Live,1998,,1998,,1.0,1.0
+9968,9969,,311351,Smokey Robinson: The Greatest Hits Live,,Smokey Robinson: The Greatest Hits Live,1998,,1998,,1.0,1.0
 9969,9970,tt0433771,24615,Aloha Scooby-Doo!,"Aloha, Scooby-Doo!",Aloha Scooby-Doo!,2005,2005,2005,0.97142857,1.0,1.0
 9970,9971,tt0220726,46831,Human Resources,Human Resources,Human Resources,1999,1999,1999,1.0,1.0,1.0
 9971,9972,tt0118949,32648,Into Thin Air: Death on Everest,Into Thin Air: Death on Everest,Into Thin Air,1997,1997,1997,1.0,0.5909090909090909,1.0
@@ -9994,9 +9994,9 @@
 9992,9993,,,The Big O II,,,2003,,,,,
 9993,9994,,,Faerie Tale Theatre: The Tale of the Frog Prince,,,1982,,,,,
 9994,9995,tt0443518,28201,The Girl in the Cafe,The Girl in the Café,The Girl in the Café,2005,2005,2005,0.95,0.95,0.95
-9995,9996,tt0113820' None,9070,Mighty Morphin Power Rangers: The Movie,,Mighty Morphin Power Rangers: The Movie,1995,,1995,,1.0,1.0
+9995,9996,tt0113820,9070,Mighty Morphin Power Rangers: The Movie,Mighty Morphin Power Rangers,Mighty Morphin Power Rangers: The Movie,1995,1995,1995,0.8358209,1.0,1.0
 9996,9997,tt0087835,38148,Oh God! You Devil!,"Oh, God! You Devil","Oh, God! You Devil",1984,1984,1984,0.94444444,0.9444444444444444,0.9444444444444444
-9997,9998,tt0114435' None 'tt0120382,56088,The Show,,The Show,1995,,1995,,1.0,1.0
+9997,9998,tt0114435,56088,The Show,,The Show,1995,,1995,,1.0,1.0
 9998,9999,tt0090771,40078,Breeders,Breeders,Breeders,1986,1986,1986,1.0,1.0,1.0
 9999,10000,tt0112895,37019,Dr. Jekyll and Ms. Hyde,Dr. Jekyll and Ms. Hyde,Dr. Jekyll and Ms. Hyde,1995,1995,1995,1.0,1.0,1.0
 10000,10001,,,Chef!: Series 2,,,1994,,,,,
@@ -10248,7 +10248,7 @@
 10246,10247,tt0257510,39862,Crocodile 2: Death Swamp,Crocodile 2: Death Swamp,Crocodile 2: Death Swamp,2001,2002,2002,0.8333333333333334,0.8333333333333334,0.8333333333333334
 10247,10248,tt0138862,224569,Taxman,Taxman,Taxman,1999,1998,1999,0.8333333333333334,1.0,1.0
 10248,10249,tt0096180,25497,Stormy Monday,Stormy Monday,Stormy Monday,1988,1988,1988,1.0,1.0,1.0
-10249,10250,None,897803,National Geographic: Inside Shock and Awe,,National Geographic: Inside Shock and Awe,2005,,2005,,1.0,1.0
+10249,10250,,897803,National Geographic: Inside Shock and Awe,,National Geographic: Inside Shock and Awe,2005,,2005,,1.0,1.0
 10250,10251,tt0482424,,Samurai 7,Samurai 7,,2005,2004,,0.83333333,,0.83333333
 10251,10252,,,Fat Albert and the Cosby Kids: The Original Animated Series: Vol. 2,,,1973,,,,,
 10252,10253,tt0120687,96196,The Governess,The Governess,The Governess,1998,1998,1998,1.0,1.0,1.0
@@ -10389,7 +10389,7 @@
 10387,10388,tt0119225,12489,Gridlock'd,Gridlock'd,Gridlock'd,1997,1997,1997,1.0,1.0,1.0
 10388,10389,tt0303321,178494,The Cockettes,The Cockettes,The Cockettes,2002,2002,2002,1.0,1.0,1.0
 10389,10390,,,Midsomer Murders: Painted in Blood,,,2003,,,,,
-10390,10391,None,722684,The Bridge,,The Bridge,1999,,1998,,0.8333333333333334,0.8333333333333334
+10390,10391,,722684,The Bridge,,The Bridge,1999,,1998,,0.8333333333333334,0.8333333333333334
 10391,10392,,,The Thin Red Line,,,1998,,,,,
 10392,10393,tt0168912,49267,Just One Time,Just One Time,Just One Time,2000,1998,1999,0.69444444,0.83333333,0.83333333
 10393,10394,tt0070928,,The World's Greatest Athlete,The World's Greatest Athlete,,1973,1973,,1.0,,1.0
@@ -10415,7 +10415,7 @@
 10413,10414,tt0076636,,Rollercoaster,Rollercoaster,,1977,1977,,1.0,,1.0
 10414,10415,tt0313844,46369,16 December,16 December,16 December,2002,2002,2002,1.0,1.0,1.0
 10415,10416,tt0036094,50001,Lady of Burlesque,Lady of Burlesque,Lady of Burlesque,1943,1943,1943,1.0,1.0,1.0
-10416,10417,None 'tt0199232,737838,Jesus,,Jesus,2000,,2000,,1.0,1.0
+10416,10417,,737838,Jesus,,Jesus,2000,,2000,,1.0,1.0
 10417,10418,,,South Park: Season 1,,,1997,,,,,
 10418,10419,,,Gossip,,,2000,,,,,
 10419,10420,tt0087755,11899,The Muppets Take Manhattan,The Muppets Take Manhattan,The Muppets Take Manhattan,1984,1984,1984,1.0,1.0,1.0
@@ -10519,7 +10519,7 @@
 10517,10518,tt0203672,44554,A Man Called Hero,A Man Called Hero,A Man Called Hero,1999,1999,1999,1.0,1.0,1.0
 10518,10519,tt0465500,34330,The Howlin' Wolf Story,The Howlin' Wolf Story,The Howlin' Wolf Story: The Secret History of Rock & Roll,2003,2003,2003,1.0,0.5569620253164557,1.0
 10519,10520,,,Wind in the Willows,,,1999,,,,,
-10520,10521,None,274773,Cops: Bad Girls,,Cops: Bad Girls,2004,,2004,,1.0,1.0
+10520,10521,,274773,Cops: Bad Girls,,Cops: Bad Girls,2004,,2004,,1.0,1.0
 10521,10522,tt0092580,25832,Aria,Aria,Aria,1987,1987,1987,1.0,1.0,1.0
 10522,10523,,,Bulldog Drummond Escapes/ Bulldog Drummond's Secret Police,,,1937,,,,,
 10523,10524,,,NFL Films Super Bowl Collection: Super Bowl XXI-XXX,,,2004,,,,,
@@ -10878,7 +10878,7 @@
 10876,10877,tt29538502,,Star Wars: Episode I: The Phantom Menace: Bonus Material,Star Wars Episode I: The Phantom Menace,,1999,1999,,0.82105263,,0.82105263
 10877,10878,,,Buddy Rich: The Lost West Side Story Tapes,,,1985,,,,,
 10878,10879,tt0102849,47762,Scenes from a Mall,Scenes from a Mall,Scenes from a Mall,1991,1991,1991,1.0,1.0,1.0
-10879,10880, 'tt0181175,119414,Pocahontas,,Pocahontas,1999,,1999,,1.0,1.0
+10879,10880,,119414,Pocahontas,,Pocahontas,1999,,1999,,1.0,1.0
 10880,10881,tt0091178,24103,Haunted Honeymoon,Haunted Honeymoon,Haunted Honeymoon,1986,1986,1986,1.0,1.0,1.0
 10881,10882,tt0171259,97964,Earthly Possessions,Earthly Possessions,Earthly Possessions,1999,1999,1999,1.0,1.0,1.0
 10882,10883,tt0211668,293631,The Titanic,The Titanic,The Titanic,1996,1996,1996,1.0,1.0,1.0
@@ -10978,7 +10978,7 @@
 10976,10977,,,Loveblind,,,1998,,,,,
 10977,10978,tt17079436,,Cartoon Crazys Goes to War,Cartoon Crazys: Goes to War,,1998,1998,,0.98113208,,0.98113208
 10978,10979,tt0041498,23567,I Was a Male War Bride,I Was a Male War Bride,I Was a Male War Bride,1949,1949,1949,1.0,1.0,1.0
-10979,10980,None,319897,Shakespeare Comedies: The Tempest,,Shakespeare Comedies: The Tempest,1980,,1980,,1.0,1.0
+10979,10980,,319897,Shakespeare Comedies: The Tempest,,Shakespeare Comedies: The Tempest,1980,,1980,,1.0,1.0
 10980,10981,tt0251114,10592,Hart's War,Hart's War,Hart's War,2002,2002,2002,1.0,1.0,1.0
 10981,10982,,,Twin Peaks: Season 1,,,1990,,,,,
 10982,10983,,,Teletubbies: Look! Playful Patterns and Simple Shapes,,,1996,,,,,
@@ -11034,7 +11034,7 @@
 11032,11033,tt0103840,82360,Bloodfist 4: Die Trying,Bloodfist IV: Die Trying,Bloodfist IV: Die Trying,1992,1992,1992,0.9361702127659575,0.9361702127659575,0.9361702127659575
 11033,11034,tt0106877,65137,Father Hood,Father Hood,Father Hood,1993,1993,1993,1.0,1.0,1.0
 11034,11035,tt0094562,,Tanner '88,Tanner '88,,1988,1988,,1.0,,1.0
-11035,11036,None,496598,Billy Blanks: Tae Bo: Total Body Fat Blaster,,Billy Blanks' Tae Bo: Total Body Fat Blaster,2005,,2005,,0.9772727272727273,0.9772727272727273
+11035,11036,,496598,Billy Blanks: Tae Bo: Total Body Fat Blaster,,Billy Blanks' Tae Bo: Total Body Fat Blaster,2005,,2005,,0.9772727272727273,0.9772727272727273
 11036,11037,tt1315713,309160,Laffapalooza! #2,Laffapalooza Volume 2,Laffapalooza! #2,2004,2003,2004,0.63063063,1.0,1.0
 11037,11038,tt0087921,13681,Places in the Heart,Places in the Heart,Places in the Heart,1984,1984,1984,1.0,1.0,1.0
 11038,11039,,,Company: Original Cast Album,,,1970,,,,,
@@ -11270,7 +11270,7 @@
 11268,11269,,,Stricken,,,2002,,,,,
 11269,11270,tt0094375,43637,Magnificent Warriors,Dynamite Fighters,Magnificent Warriors,1987,1987,1987,0.3783783783783784,1.0,1.0
 11270,11271,,,Friends: Season 1,,,1994,,,,,
-11271,11272,None,321410,Arthur Saves the Day,,Arthur Saves the Day,2003,,2004,,0.8333333333333334,0.8333333333333334
+11271,11272,,321410,Arthur Saves the Day,,Arthur Saves the Day,2003,,2004,,0.8333333333333334,0.8333333333333334
 11272,11273,tt0067229,27313,I Drink Your Blood,I Drink Your Blood,I Drink Your Blood,1970,1971,1970,0.8333333333333334,1.0,1.0
 11273,11274,tt0055832,26866,Cartouche,Cartouche,Cartouche,1962,1962,1962,1.0,1.0,1.0
 11274,11275,,,Suze Orman: The Road to Wealth,,,2001,,,,,
@@ -11283,7 +11283,7 @@
 11281,11282,tt0095532,12505,Little Nikita,Little Nikita,Little Nikita,1988,1988,1988,1.0,1.0,1.0
 11282,11283,tt0109830,,Forrest Gump,Forrest Gump,,1994,1994,,1.0,,1.0
 11283,11284,,,Casino,,,2002,,,,,
-11284,11285,None,515972,Triumph the Insult Comic Dog: Come Poop with Me,,Triumph the Insult Comic Dog: Come Poop With Me,2003,,2003,,1.0,1.0
+11284,11285,,515972,Triumph the Insult Comic Dog: Come Poop with Me,,Triumph the Insult Comic Dog: Come Poop With Me,2003,,2003,,1.0,1.0
 11285,11286,tt0111701,43643,White Fang 2: Myth of the White Wolf,White Fang 2: Myth of the White Wolf,White Fang 2: Myth of the White Wolf,1994,1994,1994,1.0,1.0,1.0
 11286,11287,,,The Golden Girls: Season 2,,,1986,,,,,
 11287,11288,tt0107165,47707,Golden Balls,Golden Balls,Golden Balls,1993,1993,1993,1.0,1.0,1.0
@@ -11377,7 +11377,7 @@
 11375,11376,,,Head of State,,,2003,,,,,
 11376,11377,tt0251174,31910,Chilly Dogs,Chilly Dogs,Chilly Dogs,2001,2001,2001,1.0,1.0,1.0
 11377,11378,tt0025316,3078,It Happened One Night,It Happened One Night,It Happened One Night,1934,1934,1934,1.0,1.0,1.0
-11378,11379,None,520394,The Fabulous Story of the Cuban Cigar,,The Fabulous Story of the Cuban Cigar,1999,,1999,,1.0,1.0
+11378,11379,,520394,The Fabulous Story of the Cuban Cigar,,The Fabulous Story of the Cuban Cigar,1999,,1999,,1.0,1.0
 11379,11380,,,Edie and Pen,,,1997,,,,,
 11380,11381,tt0213094,122888,Moving Target,Moving Target,Moving Target,2000,2000,2000,1.0,1.0,1.0
 11381,11382,tt0201694,65257,Longshot,Longshot,Longshot,2000,2001,2001,0.8333333333333334,0.83333333,0.8333333333333334
@@ -11504,7 +11504,7 @@
 11502,11503,,,Penn & Teller: Bullsh*t!: Season 1,,,2003,,,,,
 11503,11504,tt0363721,97027,Joggers' Park,Joggers' Park,Joggers Park,2003,2003,2003,1.0,0.96,1.0
 11504,11505,tt0358500,13558,H.H. Holmes: America's First Serial Killer,H.H. Holmes: America's First Serial Killer,H.H. Holmes: America's First Serial Killer,2003,2004,2004,0.8333333333333334,0.8333333333333334,0.8333333333333334
-11505,11506,None,466412,Computer Animation Extravaganza,,Computer Animation Extravaganza,2000,,2000,,1.0,1.0
+11505,11506,,466412,Computer Animation Extravaganza,,Computer Animation Extravaganza,2000,,2000,,1.0,1.0
 11506,11507,tt0273366,,Lizzie McGuire,Lizzie McGuire,,2001,2001,,1.0,,1.0
 11507,11508,tt0381527,45723,Dennis Miller: The Raw Feed,Dennis Miller: The Raw Feed,Dennis Miller: The Raw Feed,2003,2003,2003,1.0,1.0,1.0
 11508,11509,,,Die Hard 2: Die Harder: Bonus Material,,,1990,,,,,
@@ -11554,7 +11554,7 @@
 11552,11553,,,World War II in Color,,,1999,,,,,
 11553,11554,tt1403848,183428,Drive: My Life in Skateboarding,Drive: My Life in Skateboarding,Drive: My Life in Skateboarding,2003,2003,2003,1.0,1.0,1.0
 11554,11555,tt0291502,12779,Swept Away,Swept Away,Swept Away,2002,2002,2002,1.0,1.0,1.0
-11555,11556,None,1048370,Biggest Wednesday,,Biggest Wednesday,2000,,2000,,1.0,1.0
+11555,11556,,1048370,Biggest Wednesday,,Biggest Wednesday,2000,,2000,,1.0,1.0
 11556,11557,,,Wind Named Amnesia,,,1993,,,,,
 11557,11558,tt0430750,215488,WWE: New Year's Revolution,WWE New Year's Revolution,WWE New Year's Revolution 2005,2005,2005,2005,0.98039216,0.89285714,0.98039216
 11558,11559,tt0310778,14652,Bon Voyage,Bon Voyage,Bon Voyage,2003,2003,2003,1.0,1.0,1.0
@@ -11690,7 +11690,7 @@
 11688,11689,,,Ffolkes,,,1980,,,,,
 11689,11690,tt0218619,14033,Soul Survivors,Soul Survivors,Soul Survivors,2001,2001,2001,1.0,1.0,1.0
 11690,11691,,,Guerrilla: The Taking of Patty Hearst,,,2004,,,,,
-11691,11692,None,564008,MTV: Pilates Mix,,MTV Pilates Mix,2004,,2004,,0.967741935483871,0.967741935483871
+11691,11692,,564008,MTV: Pilates Mix,,MTV Pilates Mix,2004,,2004,,0.967741935483871,0.967741935483871
 11692,11693,tt0091794,42025,Project A-ko,Project A-Ko,Project A-Ko,1986,1986,1986,1.0,1.0,1.0
 11693,11694,,,The Lost World: Season 2,,,2000,,,,,
 11694,11695,tt0101444,46972,Big Girls Don't Cry ... They Get Even,Big Girls Don't Cry... They Get Even,Big Girls Don't Cry... They Get Even,1992,1991,1992,0.82191781,0.9863013698630136,0.9863013698630136
@@ -11798,7 +11798,7 @@
 11796,11797,,,The Wiggles: Toot Toot!,,,2003,,,,,
 11797,11798,tt0165494,37536,Ringmaster,Ringmaster,Ringmaster,1998,1998,1998,1.0,1.0,1.0
 11798,11799,tt0099391,102275,Decoration Day,Decoration Day,Decoration Day,1990,1990,1990,1.0,1.0,1.0
-11799,11800,None 'tt0119250' None 'tt2974704,377255,Fireworks,,Fireworks,1998,,1998,,1.0,1.0
+11799,11800,,377255,Fireworks,,Fireworks,1998,,1998,,1.0,1.0
 11800,11801,,,Comic Book: The Movie: Bonus Material,,,2004,,,,,
 11801,11802,tt0037913,3309,Mildred Pierce,Mildred Pierce,Mildred Pierce,1945,1945,1945,1.0,1.0,1.0
 11802,11803,tt0451983,69346,Zeher,Zeher,Zeher,2005,2005,2005,1.0,1.0,1.0
@@ -11874,7 +11874,7 @@
 11872,11873,tt0281938,111744,Joe and Max,Joe and Max,Joe and Max,2002,2002,2002,1.0,1.0,1.0
 11873,11874,,,Twelfth Night,,,2003,,,,,
 11874,11875,tt0181984,14181,Boiler Room,Boiler Room,Boiler Room,2000,2000,2000,1.0,1.0,1.0
-11875,11876,None,500042,Breakdance Step by Step,,Breakdance Step-by-Step,2004,,2004,,0.9130434782608695,0.9130434782608695
+11875,11876,,500042,Breakdance Step by Step,,Breakdance Step-by-Step,2004,,2004,,0.9130434782608695,0.9130434782608695
 11876,11877,tt0083629,40219,The Beast Within,The Beast Within,The Beast Within,1982,1982,1982,1.0,1.0,1.0
 11877,11878,,,K Street: The Complete Series,,,2003,,,,,
 11878,11879,,53461,Seth the Hard Way,,Seth The Hard Way,2000,,2000,,1.0,1.0
@@ -11954,7 +11954,7 @@
 11952,11953,tt0297080,64859,The Duplicate,Deuces,The Duplicate,2001,2001,2001,0.42105263,1.0,1.0
 11953,11954,,,Titus: Bonus Material,,,1999,,,,,
 11954,11955,,,The Inspector Lynley Mysteries: Well-Schooled in Murder,,,2002,,,,,
-11955,11956,None,319925,Tony Hawk's Gigantic Skatepark Tour 2000,,Tony Hawk's Gigantic Skatepark Tour 2000,2000,,2000,,1.0,1.0
+11955,11956,,319925,Tony Hawk's Gigantic Skatepark Tour 2000,,Tony Hawk's Gigantic Skatepark Tour 2000,2000,,2000,,1.0,1.0
 11956,11957,tt0181322,,The Breaks,The Breaks,,1999,1999,,1.0,,1.0
 11957,11958,,,The Twilight Zone: Vol. 24,,,1964,,,,,
 11958,11959,tt0173840,,Final Fantasy: The Spirits Within: Bonus Material,Final Fantasy: The Spirits Within,,2001,2001,,0.80487805,,0.80487805
@@ -11965,7 +11965,7 @@
 11963,11964,,,Dark Shadows: Vol. 19,,,1969,,,,,
 11964,11965,,,Madea's Family Reunion (Stage Play),,,2002,,,,,
 11965,11966,,,Cafe au Lait,,,1994,,,,,
-11966,11967,None,498471,Batman: The Animated Series: The Legend Begins,,Batman: The Animated Series - The Legend Begins,1992,,1992,,0.967741935483871,0.967741935483871
+11966,11967,,498471,Batman: The Animated Series: The Legend Begins,,Batman: The Animated Series - The Legend Begins,1992,,1992,,0.967741935483871,0.967741935483871
 11967,11968,,,My Kinda' Muzik: Vol. 1,,,2001,,,,,
 11968,11969,tt0080749,790,The Fog,The Fog,The Fog,1980,1980,1980,1.0,1.0,1.0
 11969,11970,tt0071222,,Black Christmas,Black Christmas,,1974,1974,,1.0,,1.0
@@ -12115,7 +12115,7 @@
 12113,12114,,,The Outer Limits: The New Series: Mutation & Transformation,,,1995,,,,,
 12114,12115,tt0105629,11597,Toys,Toys,Toys,1992,1992,1992,1.0,1.0,1.0
 12115,12116,,,Hammerhead,,,2005,,,,,
-12116,12117,None,275724,Cruise Hawaii & Tahiti,,Cruise Hawaii & Tahiti,2003,,2003,,1.0,1.0
+12116,12117,,275724,Cruise Hawaii & Tahiti,,Cruise Hawaii & Tahiti,2003,,2003,,1.0,1.0
 12117,12118,tt0220827,,Sleepless,Sleepless,,2001,2001,,1.0,,1.0
 12118,12119,tt0072409,46018,Willie Dynamite,Willie Dynamite,Willie Dynamite,1974,1974,1974,1.0,1.0,1.0
 12119,12120,tt0258850,45490,Okinawa Rendez-vous,,Okinawa Rendez-vous,2000,,2000,,1.0,1.0
@@ -12317,7 +12317,7 @@
 12315,12316,,,The Twilight Zone: Vol. 2,,,1963,,,,,
 12316,12317,tt0117500,9802,The Rock,The Rock,The Rock,1996,1996,1996,1.0,1.0,1.0
 12317,12318,,,PRIDE Fighting Championships: Championship Chaos 2,,,2005,,,,,
-12318,12319,None,806371,Great Lodges of the Canadian Rockies,,Great Lodges of the Canadian Rockies,2004,,2004,,1.0,1.0
+12318,12319,,806371,Great Lodges of the Canadian Rockies,,Great Lodges of the Canadian Rockies,2004,,2004,,1.0,1.0
 12319,12320,,,The Doors: Live in Europe,,,1968,,,,,
 12320,12321,,,Burn Up!,,,2004,,,,,
 12321,12322,tt0172396,20024,The End of the Affair,The End of the Affair,The End of the Affair,1999,1999,1999,1.0,1.0,1.0
@@ -12351,7 +12351,7 @@
 12349,12350,,,Nicholas' Gift,,,1994,,,,,
 12350,12351,tt1245101,305731,Murder in Portland,Murder in Portland,Murder in Portland,2002,2002,2002,1.0,1.0,1.0
 12351,12352,tt0097567,59585,Immediate Family,Immediate Family,Immediate Family,1989,1989,1989,1.0,1.0,1.0
-12352,12353,None,472862,"DeJohnette, Hancock, Holland, Metheny: In Concert",,"Dejohnette, Hancock, Holland and Metheny in Concert",1990,,1990,,0.94,0.94
+12352,12353,,472862,"DeJohnette, Hancock, Holland, Metheny: In Concert",,"Dejohnette, Hancock, Holland and Metheny in Concert",1990,,1990,,0.94,0.94
 12353,12354,,,Genesis: IMAX,,,1999,,,,,
 12354,12355,tt0212720,644,A.I. Artificial Intelligence,A.I. Artificial Intelligence,A.I. Artificial Intelligence,2001,2001,2001,1.0,1.0,1.0
 12355,12356,tt0120496,,Whales: An Unforgettable Journey: IMAX,Whales: An Unforgettable Journey,,1997,1997,,0.9142857142857143,,0.9142857142857143
@@ -12419,7 +12419,7 @@
 12417,12418,tt0452573,,The Triangle,The Triangle,,2005,2005,,1.0,,1.0
 12418,12419,,,An Amazing Couple: Trilogy 2,,,2002,,,,,
 12419,12420,tt0107311,32295,Khalnayak,Khalnayak,Khal Nayak,1993,1993,1993,1.0,0.94736842,1.0
-12420,12421,tt0284717' None,44151,The Crusades,,The Crusaders,2001,,2001,,0.96,0.96
+12420,12421,tt0284717,44151,The Crusades,,The Crusaders,2001,,2001,,0.96,0.96
 12421,12422,tt0432327,17679,The Murder Room,The Murder Room,The Murder Room,2004,2004,2004,1.0,1.0,1.0
 12422,12423,,,"Dr. Quinn, Medicine Woman: Season 1",,,1993,,,,,
 12423,12424,tt0110121,47176,In Search of Dr. Seuss,In Search of Dr. Seuss,In Search of Dr. Seuss,1994,1994,1994,1.0,1.0,1.0
@@ -12549,7 +12549,7 @@
 12547,12548,,,Waisa Bhi Hota Hai,,,2003,,,,,
 12548,12549,tt0157503,10490,Drop Dead Gorgeous,Drop Dead Gorgeous,Drop Dead Gorgeous,1999,1999,1999,1.0,1.0,1.0
 12549,12550,tt0118751,33125,Border,Border,Border,1997,1997,1997,1.0,1.0,1.0
-12550,12551,tt0197646' None,140938,Lush,,Lush,1999,,1999,,1.0,1.0
+12550,12551,tt0197646,140938,Lush,Lush,Lush,1999,2000,1999,0.83333333,1.0,1.0
 12551,12552,tt0105378,19200,Shadows and Fog,Shadows and Fog,Shadows and Fog,1992,1991,1991,0.83333333,0.8333333333333334,0.8333333333333334
 12552,12553,,,Legend of Loch Lomond: IMAX,,,2000,,,,,
 12553,12554,tt0425996,22859,G.I. Joe: Valor vs. Venom,G.I. Joe: Valor vs. Venom,G.I. Joe: Valor vs. Venom,2004,2004,2004,1.0,1.0,1.0
@@ -12706,7 +12706,7 @@
 12704,12705,tt0137290,,Vanished,Vanished,,1998,1998,,1.0,,1.0
 12705,12706,,,THX 1138: Special Edition: Bonus Material,,,1971,,,,,
 12706,12707,tt0152720,402040,Swami,Swami,Swami,1977,1977,1977,1.0,1.0,1.0
-12707,12708,None,284879,Yoga Conditioning for Weight Loss,,Yoga Conditioning For Weight Loss,2000,,2000,,1.0,1.0
+12707,12708,,284879,Yoga Conditioning for Weight Loss,,Yoga Conditioning For Weight Loss,2000,,2000,,1.0,1.0
 12708,12709,tt0066471,31935,Too Late the Hero,Too Late the Hero,Too Late the Hero,1970,1970,1970,1.0,1.0,1.0
 12709,12710,tt0433498,,Kino's Journey,Kino's Journey,,2004,2003,,0.83333333,,0.83333333
 12710,12711,tt0044837,28971,Limelight,Limelight,Limelight,1952,1952,1952,1.0,1.0,1.0
@@ -12759,7 +12759,7 @@
 12757,12758,,,Schoolhouse Rock!: Special 30th Anniversary Edition,,,1973,,,,,
 12758,12759,,,7th Heaven: Season 2,,,1997,,,,,
 12759,12760,tt0090886,48259,Crimes of the Heart,Crimes of the Heart,Crimes of the Heart,1986,1986,1986,1.0,1.0,1.0
-12760,12761,None,311494,Jackie Chan Adventures: The Search for the Talismans,,Jackie Chan Adventures: The Search for the Talismans,2001,,2001,,1.0,1.0
+12760,12761,,311494,Jackie Chan Adventures: The Search for the Talismans,,Jackie Chan Adventures: The Search for the Talismans,2001,,2001,,1.0,1.0
 12761,12762,tt0242681,191123,Michael Crawford in Concert,Michael Crawford in Concert,Michael Crawford in Concert,1998,1998,1998,1.0,1.0,1.0
 12762,12763,tt0089092,11864,Enemy Mine,Enemy Mine,Enemy Mine,1985,1985,1985,1.0,1.0,1.0
 12763,12764,tt1794960,48036,Social Distortion: Live in Orange County,Social Distortion: Live in Orange County,Social Distortion: Live in Orange County,2004,2004,2003,1.0,0.8333333333333334,1.0
@@ -12853,7 +12853,7 @@
 12851,12852,tt0318202,5168,To Be and To Have,To Be and to Have,To Be and to Have,2002,2002,2002,1.0,1.0,1.0
 12852,12853,tt0061595,45335,Double Trouble,Double Trouble,Double Trouble,1967,1967,1967,1.0,1.0,1.0
 12853,12854,,,Infamous Times: The Original 50 Cent,,,2004,,,,,
-12854,12855,None,1183065,Tom and Jerry: Hijinks and Shrieks,,Tom and Jerry: Hijinks and Shrieks,2003,,2003,,1.0,1.0
+12854,12855,,1183065,Tom and Jerry: Hijinks and Shrieks,,Tom and Jerry: Hijinks and Shrieks,2003,,2003,,1.0,1.0
 12855,12856,tt0361805,,Knots,Knots,,2004,2004,,1.0,,1.0
 12856,12857,,,Cold Feet: Season 1,,,1997,,,,,
 12857,12858,,,Groucho Marx: You Bet Your Life: The Best Episodes,,,1955,,,,,
@@ -12967,7 +12967,7 @@
 12965,12966,tt0338751,2567,The Aviator,The Aviator,The Aviator,2004,2004,2004,1.0,1.0,1.0
 12966,12967,tt0416712,140231,Elaan,Elaan,Elaan,2005,2005,2005,1.0,1.0,1.0
 12967,12968,,,Nature: Horses,,,1982,,,,,
-12968,12969,None,311849,Great Trains of America: Western Railroading,,Great Trains of America: Western Railroading,2000,,2000,,1.0,1.0
+12968,12969,,311849,Great Trains of America: Western Railroading,,Great Trains of America: Western Railroading,2000,,2000,,1.0,1.0
 12969,12970,tt0083943,10724,Firefox,Firefox,Firefox,1982,1982,1982,1.0,1.0,1.0
 12970,12971,tt0293113,55616,Dracula: Pages from a Virgin's Diary,Dracula: Pages from a Virgin's Diary,Dracula: Pages from a Virgin's Diary,2003,2002,2002,0.8333333333333334,0.8333333333333334,0.8333333333333334
 12971,12972,,,A Regular Frankie Fan: Rocky Horror Lives On,,,2000,,,,,
@@ -12980,7 +12980,7 @@
 12978,12979,tt0368564,59716,The Adventures of Ociee Nash,The Adventures of Ociee Nash,The Adventures of Ociee Nash,2002,2002,2004,1.0,0.6944444444444444,1.0
 12979,12980,,,Life as We Know It: The Complete Series,,,2004,,,,,
 12980,12981,,,La Sentinelle,,,1992,,,,,
-12981,12982,None,320583,Craig Shoemaker: Live: That's a True Story!,,Craig Shoemaker: Live: That's a True Story!,2004,,2005,,0.8333333333333334,0.8333333333333334
+12981,12982,,320583,Craig Shoemaker: Live: That's a True Story!,,Craig Shoemaker: Live: That's a True Story!,2004,,2005,,0.8333333333333334,0.8333333333333334
 12982,12983,,,Trainspotting: Collector's Edition: Bonus Material,,,1995,,,,,
 12983,12984,tt0045064,44608,Radar Men from the Moon,Radar Men from the Moon,Radar Men from the Moon,1951,1952,1952,0.8333333333333334,0.8333333333333334,0.8333333333333334
 12984,12985,,379777,Tom and Jerry: Spotlight Collection: Vol. 2,,Tom and Jerry: Spotlight Collection Vol. 2,2005,,2005,,0.9882352941176471,0.9882352941176471
@@ -13042,7 +13042,7 @@
 13040,13041,tt0092632,32076,The Believers,The Believers,The Believers,1987,1987,1987,1.0,1.0,1.0
 13041,13042,,,Will & Grace: Season 4,,,2001,,,,,
 13042,13043,,,Hard Lessons,,,1986,,,,,
-13043,13044,None,603224,Crunch: Fat-Burning Pilates,,Crunch: Fat Burning Pilates,2003,,2003,,0.9629629629629629,0.9629629629629629
+13043,13044,,603224,Crunch: Fat-Burning Pilates,,Crunch: Fat Burning Pilates,2003,,2003,,0.9629629629629629,0.9629629629629629
 13044,13045,tt0168899,51981,Don't Let Me Die on a Sunday,Don't Let Me Die on a Sunday,Don't Let Me Die on a Sunday,1998,1998,1998,1.0,1.0,1.0
 13045,13046,tt0370986,11171,Mysterious Skin,Mysterious Skin,Mysterious Skin,2005,2004,2005,0.83333333,1.0,1.0
 13046,13047,tt0306274,,What's New Scooby-Doo?,"What's New, Scooby-Doo?",,2002,2002,,0.97777778,,0.97777778
@@ -13052,7 +13052,7 @@
 13050,13051,,,Ghost in the Shell: Stand Alone Complex,,,2004,,,,,
 13051,13052,tt0108550,1587,What's Eating Gilbert Grape,What's Eating Gilbert Grape,What's Eating Gilbert Grape,1993,1993,1993,1.0,1.0,1.0
 13052,13053,,,The Beast that Killed Women/ The Monster of Camp Sunshine,,,1965,,,,,
-13053,13054,None,275340,Pingu: Chillin' with Pingu,,Pingu: Chillin' With Pingu,2004,,2004,,1.0,1.0
+13053,13054,,275340,Pingu: Chillin' with Pingu,,Pingu: Chillin' With Pingu,2004,,2004,,1.0,1.0
 13054,13055,,,Rocky (Hindi),,,1981,,,,,
 13055,13056,tt0182789,2277,Bicentennial Man,Bicentennial Man,Bicentennial Man,1999,1999,1999,1.0,1.0,1.0
 13056,13057,,,Val Lewton: Cat People / The Curse of the Cat People,,,1942,,,,,
@@ -13183,7 +13183,7 @@
 13181,13182,tt0078158,14822,Return from Witch Mountain,Return from Witch Mountain,Return from Witch Mountain,1978,1978,1978,1.0,1.0,1.0
 13182,13183,tt0072211,135073,Story of Jacob and Joseph,The Story of Jacob and Joseph,The Story of Jacob and Joseph,1974,1974,1974,0.92592593,0.9259259259259259,0.92592593
 13183,13184,tt0095304,21362,High Spirits,High Spirits,High Spirits,1988,1988,1988,1.0,1.0,1.0
-13184,13185,None,419244,Basic Yoga Workout for Dummies,,Basic Yoga Workout for Dummies,2001,,2001,,1.0,1.0
+13184,13185,,419244,Basic Yoga Workout for Dummies,,Basic Yoga Workout for Dummies,2001,,2001,,1.0,1.0
 13185,13186,,,Neon Genesis Evangelion: Death and Rebirth,,,1995,,,,,
 13186,13187,tt0041944,,Take Me Out to the Ball Game,Take Me Out to the Ball Game,,1949,1949,,1.0,,1.0
 13187,13188,,,Are You Being Served?: The Movie,,,1977,,,,,
@@ -13254,7 +13254,7 @@
 13252,13253,,,Sherlock Holmes: Dressed to Kill,,,1946,,,,,
 13253,13254,tt0161216,18153,Steal This Movie!,Steal This Movie,Steal This Movie,2000,2000,2000,0.96969697,0.9696969696969697,0.96969697
 13254,13255,tt0375679,1640,Crash,Crash,Crash,2005,2004,2005,0.83333333,1.0,1.0
-13255,13256,None,319391,J.K. Rowling and the Birth of Harry Potter,,J.K. Rowling and the Birth of Harry Potter,2004,,2004,,1.0,1.0
+13255,13256,,319391,J.K. Rowling and the Birth of Harry Potter,,J.K. Rowling and the Birth of Harry Potter,2004,,2004,,1.0,1.0
 13256,13257,tt0106203,43971,Aaina,Aaina,Aaina,1993,1993,1993,1.0,1.0,1.0
 13257,13258,tt0361668,12487,Gozu,Gozu,Gozu,2003,2003,2003,1.0,1.0,1.0
 13258,13259,tt0032281,,Brigham Young,Brigham Young,,1940,1940,,1.0,,1.0
@@ -13453,7 +13453,7 @@
 13451,13452,tt0110179,170691,Jailbreakers,Jailbreakers / Rebelles,Jailbreakers,1994,1994,1994,0.6857142857142857,1.0,1.0
 13452,13453,tt0110963,10452,Queen Margot,Queen Margot,Queen Margot,1994,1994,1994,1.0,1.0,1.0
 13453,13454,tt0044420,43368,The Big Trees,The Big Trees,The Big Trees,1952,1952,1952,1.0,1.0,1.0
-13454,13455,None,743028,Bryan Kest's Power Yoga,,Bryan Kest's Power Yoga,2004,,2004,,1.0,1.0
+13454,13455,,743028,Bryan Kest's Power Yoga,,Bryan Kest's Power Yoga,2004,,2004,,1.0,1.0
 13455,13456,tt0027459,93313,Come and Get It,Come and Get It,Come and Get It,1936,1936,1936,1.0,1.0,1.0
 13456,13457,tt0063950,315508,Scooby-Doo's Creepiest Capers,,Scooby-Doo's Creepiest Capers,2000,,2000,,1.0,1.0
 13457,13458,tt0114857,9271,Virtuosity,Virtuosity,Virtuosity,1995,1995,1995,1.0,1.0,1.0
@@ -13648,7 +13648,7 @@
 13646,13647,,,Humphrey Bogart: Beat the Devil / Humphrey Bogart on Film,,,1957,,,,,
 13647,13648,tt0090098,19357,Summer Rental,Summer Rental,Summer Rental,1985,1985,1985,1.0,1.0,1.0
 13648,13649,tt0138739,,Reckless,Reckless,,1997,1997,,1.0,,1.0
-13649,13650,None,498469,Batman the Animated Series: Secrets of the Caped Crusader,,Batman: The Animated Series - Secrets of the Caped Crusader,1992,,1992,,0.9655172413793104,0.9655172413793104
+13649,13650,,498469,Batman the Animated Series: Secrets of the Caped Crusader,,Batman: The Animated Series - Secrets of the Caped Crusader,1992,,1992,,0.9655172413793104,0.9655172413793104
 13650,13651,tt0118571,9772,Air Force One,Air Force One,Air Force One,1997,1997,1997,1.0,1.0,1.0
 13651,13652,tt0117395,57953,Project Grizzly,Project Grizzly,Project Grizzly,1997,1996,1997,0.8333333333333334,1.0,1.0
 13652,13653,tt0092240,10017,The Wraith,The Wraith,The Wraith,1986,1986,1986,1.0,1.0,1.0
@@ -14016,7 +14016,7 @@
 14014,14015,tt0293304,,Kairee,Kairee,,2000,1999,,0.83333333,,0.83333333
 14015,14016,tt0104452,10407,Housesitter,HouseSitter,Housesitter,1992,1992,1992,1.0,1.0,1.0
 14016,14017,,,Batman Beyond: School Dayz / Spellbound,,,1999,,,,,
-14017,14018,None,339420,Billy Blanks: Tae Bo Strength & Power,,Billy Blanks - Tae Bo: Strength Power,2004,,2004,,0.918918918918919,0.918918918918919
+14017,14018,,339420,Billy Blanks: Tae Bo Strength & Power,,Billy Blanks - Tae Bo: Strength Power,2004,,2004,,0.918918918918919,0.918918918918919
 14018,14019,,,The Forbidden Dance Is Lambada,,,1990,,,,,
 14019,14020,,,Barney Miller: Season 1,,,1975,,,,,
 14020,14021,,,El Bola,,,2000,,,,,
@@ -14095,7 +14095,7 @@
 14093,14094,tt0359056,149046,Cathouse,Cathouse,Cathouse,2002,2002,2002,1.0,1.0,1.0
 14094,14095,,,Elvis Presley: Elvis: '68 Comeback Special,,,1968,,,,,
 14095,14096,tt0308508,15292,Step Into Liquid,Step Into Liquid,Step Into Liquid,2003,2003,2003,1.0,1.0,1.0
-14096,14097,None,316650,MTV: The Real World: Hook-Ups,,MTV: The Real World: Hook-Ups,2003,,2003,,1.0,1.0
+14096,14097,,316650,MTV: The Real World: Hook-Ups,,MTV: The Real World: Hook-Ups,2003,,2003,,1.0,1.0
 14097,14098,tt0079489,18966,Love at First Bite,Love at First Bite,Love at First Bite,1979,1979,1979,1.0,1.0,1.0
 14098,14099,tt0230234,148453,A Galaxy Far Far Away,"A Galaxy Far, Far Away","A Galaxy Far, Far Away",2001,2001,2001,0.9767441860465116,0.9767441860465116,0.9767441860465116
 14099,14100,tt0436579,608536,Maxim: The Real Swimsuit DVD: Vol. 1,"Maxim the Real Swimsuit DVD, Vol 1","Maxim the Real Swimsuit DVD, Vol 1",2004,2004,2004,0.94285714,0.9428571428571428,0.9428571428571428
@@ -14199,10 +14199,10 @@
 14197,14198,,,Trainspotting: Collector's Edition,,,1996,,,,,
 14198,14199,tt0242898,52287,South Pacific,South Pacific,South Pacific,2001,2001,2001,1.0,1.0,1.0
 14199,14200,tt0284067,59733,Down from the Mountain,Down from the Mountain,Down from the Mountain,2000,2000,2001,1.0,0.8333333333333334,1.0
-14200,14201,None,552369,The Berenstain Bears: Fun Lessons to Learn,,The Berenstain Bears: Fun Lessons To Learn,2003,,2003,,1.0,1.0
+14200,14201,,552369,The Berenstain Bears: Fun Lessons to Learn,,The Berenstain Bears: Fun Lessons To Learn,2003,,2003,,1.0,1.0
 14201,14202,tt0297763,101159,Barefoot Adventure,Barefoot Adventure,Barefoot Adventure,1960,1960,1960,1.0,1.0,1.0
 14202,14203,,,Batman Forever,,,1995,,,,,
-14203,14204,None,1011583,NBA Street Series: Ankle Breakers: Vol. 1,,NBA Street Series: Ankle Breakers Vol. 1,2003,,2004,,0.823045267489712,0.823045267489712
+14203,14204,,1011583,NBA Street Series: Ankle Breakers: Vol. 1,,NBA Street Series: Ankle Breakers Vol. 1,2003,,2004,,0.823045267489712,0.823045267489712
 14204,14205,,,Would I Lie to You?,,,2004,,,,,
 14205,14206,tt0182352,,Poirot: One Two Buckle My Shoe,"One, Two, Buckle My Shoe",,1992,1992,,0.81481481,,0.81481481
 14206,14207,,,Jill the Ripper,,,2000,,,,,
@@ -14388,7 +14388,7 @@
 14386,14387,tt0220580,10856,Intacto,Intacto,Intacto,2001,2001,2001,1.0,1.0,1.0
 14387,14388,,,Lucia Lucia,,,2003,,,,,
 14388,14389,tt0278723,,The Skulls 2,The Skulls II,,2002,2002,,0.88,,0.88
-14389,14390,None,650077,The Firm Body Sculpting System: Total Muscle Shaping,,The Firm Body Sculpting System: Total Muscle Shaping!,2004,,2004,,0.9904761904761905,0.9904761904761905
+14389,14390,,650077,The Firm Body Sculpting System: Total Muscle Shaping,,The Firm Body Sculpting System: Total Muscle Shaping!,2004,,2004,,0.9904761904761905,0.9904761904761905
 14390,14391,tt0113117,397,French Kiss,French Kiss,French Kiss,1995,1995,1995,1.0,1.0,1.0
 14391,14392,tt0081751,33076,Wholly Moses,Wholly Moses!,Wholly Moses,1980,1980,1980,0.96,1.0,1.0
 14392,14393,tt0077838,13963,The Last Waltz,The Last Waltz,The Last Waltz,1978,1978,1978,1.0,1.0,1.0
@@ -14561,7 +14561,7 @@
 14559,14560,tt0042650,20088,Kon-Tiki,Kon-Tiki,Kon-Tiki,1950,1950,1950,1.0,1.0,1.0
 14560,14561,,20484,Superman: The Lost Episodes,,Superman: The Lost Episodes,1999,,1999,,1.0,1.0
 14561,14562,,,Green Acres: Season 2,,,1966,,,,,
-14562,14563,None,264677,Chrysanthemum and More Kevin Henkes Stories,,Chrysanthemum and More Kevin Henkes Stories,2002,,2002,,1.0,1.0
+14562,14563,,264677,Chrysanthemum and More Kevin Henkes Stories,,Chrysanthemum and More Kevin Henkes Stories,2002,,2002,,1.0,1.0
 14563,14564,tt0112453,21032,Balto,Balto,Balto,1995,1995,1995,1.0,1.0,1.0
 14564,14565,tt0066989,42513,Two English Girls,Two English Girls,Two English Girls,1971,1971,1971,1.0,1.0,1.0
 14565,14566,tt13154232,,Spider-Man: The Venom Saga,Spider-Man: The Venom Saga,,2005,2005,,1.0,,1.0
@@ -14623,7 +14623,7 @@
 14621,14622,tt0109868,,The Gambler V: Playing for Keeps,Gambler V: Playing for Keeps,,1994,1994,,0.9333333333333333,,0.9333333333333333
 14622,14623,tt0067148,39464,Godzilla vs. Hedorah,Godzilla vs. Hedorah,Godzilla vs. Hedorah,1971,1971,1971,1.0,1.0,1.0
 14623,14624,tt0082089,14412,Body Heat,Body Heat,Body Heat,1981,1981,1981,1.0,1.0,1.0
-14624,14625,None,747340,Good Charlotte: Video Collection,,Good Charlotte Video Collection,2003,,2003,,0.9841269841269841,0.9841269841269841
+14624,14625,,747340,Good Charlotte: Video Collection,,Good Charlotte Video Collection,2003,,2003,,0.9841269841269841,0.9841269841269841
 14625,14626,tt0375562,65379,Vampires: Out for Blood,Out for Blood,Vampires: Out For Blood,2004,2004,2004,0.7222222222222222,1.0,1.0
 14626,14627,tt0056756,,Fractured Flickers,Fractured Flickers,,1963,1963,,1.0,,1.0
 14627,14628,tt0074279,21241,Cannonball,Cannonball!,Cannonball,1976,1976,1976,0.9523809523809523,1.0,1.0
@@ -14737,7 +14737,7 @@
 14735,14736,tt0090627,,Amazons,Amazons,,1986,1986,,1.0,,1.0
 14736,14737,,,The Sweetest Thing,,,2002,,,,,
 14737,14738,tt0594841,,Formula 51,Formula 51,,2002,2002,,1.0,,1.0
-14738,14739,None,531699,Martha Stewart Holidays: Classic Thanksgiving,,Martha Stewart Holidays: Classic Thanksgiving,2005,,2005,,1.0,1.0
+14738,14739,,531699,Martha Stewart Holidays: Classic Thanksgiving,,Martha Stewart Holidays: Classic Thanksgiving,2005,,2005,,1.0,1.0
 14739,14740,tt0138787,213553,Seamless,Seamless,Seamless,1998,1999,1999,0.83333333,0.8333333333333334,0.8333333333333334
 14740,14741,tt0050371,21849,A Face in the Crowd,A Face in the Crowd,A Face in the Crowd,1957,1957,1957,1.0,1.0,1.0
 14741,14742,,,The X-Files: Season 2,,,2000,,,,,
@@ -14775,7 +14775,7 @@
 14773,14774,tt0069745,28802,Female Vampire,Female Vampire,Female Vampire,1973,1973,1973,1.0,1.0,1.0
 14774,14775,tt0309039,27474,Vicious,Vicious,Vicious,2003,2003,2003,1.0,1.0,1.0
 14775,14776,tt0049833,6844,The Ten Commandments,The Ten Commandments,The Ten Commandments,1956,1956,1956,1.0,1.0,1.0
-14776,14777,tt0167139' ,40404,Eric Clapton Unplugged,,Eric Clapton - MTV Unplugged,1992,,1992,,0.88,0.88
+14776,14777,tt0167139,40404,Eric Clapton Unplugged,,Eric Clapton - MTV Unplugged,1992,,1992,,0.88,0.88
 14777,14778,tt0034175,42678,The Shanghai Gesture,The Shanghai Gesture,The Shanghai Gesture,1941,1941,1941,1.0,1.0,1.0
 14778,14779,,,The Mission: Special Edition,,,1986,,,,,
 14779,14780,tt0094721,4011,Beetlejuice,Beetlejuice,Beetlejuice,1988,1988,1988,1.0,1.0,1.0
@@ -14978,7 +14978,7 @@
 14976,14977,tt0088194,14746,Streets of Fire,Streets of Fire,Streets of Fire,1984,1984,1984,1.0,1.0,1.0
 14977,14978,tt0061578,,The Dirty Dozen,The Dirty Dozen,,1967,1967,,1.0,,1.0
 14978,14979,tt15053976,,Rolling Stones: Sympathy for the Devil,The Rolling Stones: Sympathy for the Devil,,1968,1968,,0.95,,0.95
-14979,14980,None,908311,Angelina Ballerina: The Lucky Penny,,Angelina Ballerina: The Lucky Penny,2002,,2003,,0.8333333333333334,0.8333333333333334
+14979,14980,,908311,Angelina Ballerina: The Lucky Penny,,Angelina Ballerina: The Lucky Penny,2002,,2003,,0.8333333333333334,0.8333333333333334
 14980,14981,tt0112749,34615,"Cry, the Beloved Country","Cry, the Beloved Country","Cry, the Beloved Country",1995,1995,1995,1.0,1.0,1.0
 14981,14982,tt0256103,11845,Intimacy,Intimacy,Intimacy,2001,2001,2001,1.0,1.0,1.0
 14982,14983,tt0061439,18978,Camelot,Camelot,Camelot,1967,1967,1967,1.0,1.0,1.0
@@ -15011,7 +15011,7 @@
 15009,15010,tt0323332,36730,My House in Umbria,My House in Umbria,My House in Umbria,2003,2003,2003,1.0,1.0,1.0
 15010,15011,tt0403118,34099,Brave New Girl,Brave New Girl,Brave New Girl,2004,2004,2004,1.0,1.0,1.0
 15011,15012,,,Dog Days,,,2001,,,,,
-15012,15013,None,394730,Dora the Explorer: Rhymes and Riddles,,Dora the Explorer: Rhymes and Riddles,2003,,2003,,1.0,1.0
+15012,15013,,394730,Dora the Explorer: Rhymes and Riddles,,Dora the Explorer: Rhymes and Riddles,2003,,2003,,1.0,1.0
 15013,15014,tt0456110,,Angel: Season 5,'Angel': Season One,,2003,2003,,0.82352941,,0.82352941
 15014,15015,tt0097889,24739,Miracle Mile,Miracle Mile,Miracle Mile,1989,1988,1988,0.83333333,0.8333333333333334,0.8333333333333334
 15015,15016,tt0019254,780,The Passion of Joan of Arc,The Passion of Joan of Arc,The Passion of Joan of Arc,1928,1928,1928,1.0,1.0,1.0
@@ -15063,7 +15063,7 @@
 15061,15062,tt0077631,621,Grease,Grease,Grease,1978,1978,1978,1.0,1.0,1.0
 15062,15063,tt0381707,12153,White Chicks,White Chicks,White Chicks,2004,2004,2004,1.0,1.0,1.0
 15063,15064,tt0094947,859,Dangerous Liaisons,Dangerous Liaisons,Dangerous Liaisons,1988,1988,1988,1.0,1.0,1.0
-15064,15065,tt0331894' None None None,316631,Black Flag: Live,,Black Flag: Live,1984,,1984,,1.0,1.0
+15064,15065,tt0331894,316631,Black Flag: Live,Black Flag Live,Black Flag: Live,1984,1984,1984,0.967741935483871,1.0,1.0
 15065,15066,tt0083851,10831,The Draughtsman's Contract,The Draughtsman's Contract,The Draughtsman's Contract,1982,1982,1982,1.0,1.0,1.0
 15066,15067,,,The Wayans Bros.: Season 1,,,1995,,,,,
 15067,15068,tt0119891,9827,Phantoms,Phantoms,Phantoms,1998,1998,1998,1.0,1.0,1.0
@@ -15088,7 +15088,7 @@
 15086,15087,tt0093578,41903,Mr. India,Mr. India,Mr. India,1987,1987,1987,1.0,1.0,1.0
 15087,15088,,,Yamamoto Yohko: Starship Girl,,,1996,,,,,
 15088,15089,,,800 Leagues Down the Amazon,,,2000,,,,,
-15089,15090,None,683999,Pilates Conditioning for Weight Loss,,Gaiam: Pilates Conditioning for Weight Loss,2002,,2002,,0.9113924050632911,0.9113924050632911
+15089,15090,,683999,Pilates Conditioning for Weight Loss,,Gaiam: Pilates Conditioning for Weight Loss,2002,,2002,,0.9113924050632911,0.9113924050632911
 15090,15091,tt0093073,28368,Gardens of Stone,Gardens of Stone,Gardens of Stone,1987,1987,1987,1.0,1.0,1.0
 15091,15092,tt2095624,410163,Annie Lennox: Totally Diva,Diva Annie Lennox,Annie Lennox - Totally Diva,1992,1992,1992,0.55813953,0.9433962264150944,0.9433962264150944
 15092,15093,tt1305526,,Poolhall Junkies,Pool Hall Flunkies,,2003,2003,,0.88235294,,0.88235294
@@ -15508,7 +15508,7 @@
 15506,15507,tt0038116,27686,State Fair,State Fair,State Fair,1945,1945,1945,1.0,1.0,1.0
 15507,15508,,,Dead Tired,,,1994,,,,,
 15508,15509,,,Entourage: Season 1,,,2004,,,,,
-15509,15510,tt0159060' None,30413,Bad Trip,,Bad Trip,1999,,1999,,1.0,1.0
+15509,15510,tt0159060,30413,Bad Trip,,Bad Trip,1999,,1999,,1.0,1.0
 15510,15511,tt0253200,14778,Last Orders,Last Orders,Last Orders,2002,2001,2001,0.83333333,0.8333333333333334,0.8333333333333334
 15511,15512,,,Mindstorm,,,2001,,,,,
 15512,15513,tt0352343,29987,Facing Windows,Facing Windows,Facing Windows,2004,2003,2003,0.8333333333333334,0.8333333333333334,0.8333333333333334
@@ -15548,7 +15548,7 @@
 15546,15547,tt0179183,11119,Fortress 2,Fortress 2: Re-Entry,Fortress 2,1999,2000,2000,0.5555555555555556,0.8333333333333334,0.8333333333333334
 15547,15548,tt0063907,,H.R. Pufnstuf,H.R. Pufnstuf,,1969,1969,,1.0,,1.0
 15548,15549,tt0192614,11478,The Skulls,The Skulls,The Skulls,2000,2000,2000,1.0,1.0,1.0
-15549,15550,None,342936,Hello Kitty Becomes a Princess,,Hello Kitty Becomes A Princess,1987,,1987,,1.0,1.0
+15549,15550,,342936,Hello Kitty Becomes a Princess,,Hello Kitty Becomes A Princess,1987,,1987,,1.0,1.0
 15550,15551,tt0045551,22734,Beneath the 12-Mile Reef,Beneath the 12-Mile Reef,Beneath the 12-Mile Reef,1953,1953,1953,1.0,1.0,1.0
 15551,15552,,,The Three Stooges: Greatest Hits & Rarities,,,1932,,,,,
 15552,15553,tt0282864,38880,Promises,Promises,Promises,2001,2001,2001,1.0,1.0,1.0
@@ -15603,7 +15603,7 @@
 15601,15602,,,U.S. Seals: Dead or Alive,,,2002,,,,,
 15602,15603,tt0081499,,Young Master,The Young Master,,1980,1980,,0.85714286,,0.85714286
 15603,15604,,,Robert Townsend: Partners in Crime: Vol. 3,,,1991,,,,,
-15604,15605,None,318529,The Life and Times of Steve Marriott,,The Life and Times of Steve Marriott,2000,,2000,,1.0,1.0
+15604,15605,,318529,The Life and Times of Steve Marriott,,The Life and Times of Steve Marriott,2000,,2000,,1.0,1.0
 15605,15606,tt0092532,31397,Alien from L.A.,Alien from L.A.,Alien from L.A.,1988,1988,1988,1.0,1.0,1.0
 15606,15607,,,Earth / The End of St. Petersburg / Chess Fever: Triple Feature,,,1925,,,,,
 15607,15608,tt0068278,10310,The Bitter Tears of Petra Von Kant,The Bitter Tears of Petra von Kant,The Bitter Tears of Petra von Kant,1972,1972,1972,1.0,1.0,1.0
@@ -15902,13 +15902,13 @@
 15900,15901,tt0092666,918,Blind Date,Blind Date,Blind Date,1987,1987,1987,1.0,1.0,1.0
 15901,15902,tt0330069,23626,Blue Collar Comedy Tour: The Movie,Blue Collar Comedy Tour: The Movie,Blue Collar Comedy Tour: The Movie,2003,2003,2003,1.0,1.0,1.0
 15902,15903,tt0364079,24703,Trekkies 2,Trekkies 2,Trekkies 2,2004,2004,2004,1.0,1.0,1.0
-15903,15904,None,342941,Hello Kitty Saves the Day,,Hello Kitty Saves the Day,1987,,1987,,1.0,1.0
+15903,15904,,342941,Hello Kitty Saves the Day,,Hello Kitty Saves the Day,1987,,1987,,1.0,1.0
 15904,15905,tt0098503,28165,"The Toxic Avenger, Part 2",The Toxic Avenger Part II,The Toxic Avenger Part II,1989,1989,1989,0.92,0.92,0.92
 15905,15906,tt0116762,118991,Keys to Tulsa,Keys to Tulsa,Keys to Tulsa,1997,1997,1997,1.0,1.0,1.0
 15906,15907,tt0087796,,Mutant,Mutant,,1984,1984,,1.0,,1.0
 15907,15908,tt0058529,17696,Robin and the 7 Hoods,Robin and the 7 Hoods,Robin and the 7 Hoods,1964,1964,1964,1.0,1.0,1.0
 15908,15909,,,Snow White,,,2000,,,,,
-15909,15910,None,1125583,New Kids on the Block: Greatest Hits: The Videos,,New Kids on the Block - Greatest Hits: The Videos,1999,,1999,,0.9690721649484536,0.9690721649484536
+15909,15910,,1125583,New Kids on the Block: Greatest Hits: The Videos,,New Kids on the Block - Greatest Hits: The Videos,1999,,1999,,0.9690721649484536,0.9690721649484536
 15910,15911,tt0096725,,War and Remembrance: Vol. 1,War and Remembrance,,1988,1988,,0.8260869565217391,,0.8260869565217391
 15911,15912,tt0086636,38074,Zeder,,Zeder,1983,,1983,,1.0,1.0
 15912,15913,tt0323572,24621,Chasing Papi,Chasing Papi,Chasing Papi,2003,2003,2003,1.0,1.0,1.0
@@ -15971,7 +15971,7 @@
 15969,15970,tt0293357,80306,Local Boys,Local Boys,Local Boys,2002,2002,2002,1.0,1.0,1.0
 15970,15971,tt0195231,21502,Satya,Satya,Satya,1998,1998,1998,1.0,1.0,1.0
 15971,15972,tt0382652,62986,Lust for Dracula,Lust for Dracula,Lust for Dracula,2004,2004,2004,1.0,1.0,1.0
-15972,15973, 'tt4991366,238770,Hercules,,Hercules,1999,,1999,,1.0,1.0
+15972,15973,,238770,Hercules,,Hercules,1999,,1999,,1.0,1.0
 15973,15974,tt0035575,,Yankee Doodle Dandy,Yankee Doodle Dandy,,1942,1942,,1.0,,1.0
 15974,15975,tt0068315,18047,Brian's Song,Brian's Song,Brian's Song,1971,1971,1971,1.0,1.0,1.0
 15975,15976,tt0368745,51707,Girlhood,Girlhood,Girlhood,2003,2003,2003,1.0,1.0,1.0
@@ -16070,7 +16070,7 @@
 16068,16069,tt0285681,46307,Looking Through Lillian,Looking Through Lillian,Looking Through Lillian,2002,2001,2002,0.8333333333333334,1.0,1.0
 16069,16070,tt0157044,46761,Sitcom,Sitcom,Sitcom,1998,1998,1998,1.0,1.0,1.0
 16070,16071,,,"Always Outnumbered, Always Outgunned",,,1998,,,,,
-16071,16072,None,503787,Basic Ab Workout for Dummies,,Basic Ab Workout for Dummies,2002,,2002,,1.0,1.0
+16071,16072,,503787,Basic Ab Workout for Dummies,,Basic Ab Workout for Dummies,2002,,2002,,1.0,1.0
 16072,16073,tt0298316,79710,"Emerson, Lake & Palmer: Welcome Back","Emerson, Lake and Palmer: Welcome Back","Emerson, Lake & Palmer: Welcome Back",1992,1992,1992,0.9459459459459459,1.0,1.0
 16073,16074,,,Dark Shadows Reunion,,,2001,,,,,
 16074,16075,tt0106673,11566,Dave,Dave,Dave,1993,1993,1993,1.0,1.0,1.0
@@ -16351,7 +16351,7 @@
 16349,16350,tt0161083,14034,What's the Worst That Could Happen?,What's the Worst That Could Happen?,What's the Worst That Could Happen?,2001,2001,2001,1.0,1.0,1.0
 16350,16351,tt0105636,22004,Trespass,Trespass,Trespass,1992,1992,1992,1.0,1.0,1.0
 16351,16352,tt0092897,24826,Disorderlies,Disorderlies,Disorderlies,1987,1987,1987,1.0,1.0,1.0
-16352,16353,None,876401,National Geographic: Ambassador: Inside the Embassy,,National Geographic - Ambassador: Inside the Embassy,2002,,2002,,0.970873786407767,0.970873786407767
+16352,16353,,876401,National Geographic: Ambassador: Inside the Embassy,,National Geographic - Ambassador: Inside the Embassy,2002,,2002,,0.970873786407767,0.970873786407767
 16353,16354,,,Godannar,,,2005,,,,,
 16354,16355,tt0112767,36266,Cyclo,Cyclo,Cyclo,1995,1995,1996,1.0,0.83333333,1.0
 16355,16356,,384715,SpongeBob SquarePants: Spongeguard on Duty,,Spongebob Squarepants: SpongeGuard on Duty,2004,,2004,,1.0,1.0
@@ -16367,7 +16367,7 @@
 16365,16366,tt0094025,10859,Stakeout,Stakeout,Stakeout,1987,1987,1987,1.0,1.0,1.0
 16366,16367,tt0115016,187401,The Phantom Lover,The Phantom Lover,The Phantom Lover,1995,1995,1995,1.0,1.0,1.0
 16367,16368,tt0109015,18885,3 Ninjas: Kick Back,3 Ninjas Kick Back,3 Ninjas Kick Back,1994,1994,1994,0.97297297,0.972972972972973,0.972972972972973
-16368,16369,None,312601,Little Feat: Rockpalast Live,,Little Feat: Rockpalast Live,1978,,1978,,1.0,1.0
+16368,16369,,312601,Little Feat: Rockpalast Live,,Little Feat: Rockpalast Live,1978,,1978,,1.0,1.0
 16369,16370,tt0067921,21242,Valdez Is Coming,Valdez Is Coming,Valdez Is Coming,1970,1971,1971,0.83333333,0.8333333333333334,0.8333333333333334
 16370,16371,tt0366444,47534,Fighting Tommy Riley,Fighting Tommy Riley,Fighting Tommy Riley,2005,2004,2005,0.8333333333333334,1.0,1.0
 16371,16372,,,The Challenge of the Superfriends: Season 2,,,1979,,,,,
@@ -16389,7 +16389,7 @@
 16387,16388,tt0117331,,The Phantom,The Phantom,,1996,1996,,1.0,,1.0
 16388,16389,tt0115676,36929,Big Bully,Big Bully,Big Bully,1996,1996,1996,1.0,1.0,1.0
 16389,16390,tt0258000,4547,Panic Room,Panic Room,Panic Room,2002,2002,2002,1.0,1.0,1.0
-16390,16391,tt0307466' None,37946,Sin,,Sin,2003,,2003,,1.0,1.0
+16390,16391,tt0307466,37946,Sin,,Sin,2003,,2003,,1.0,1.0
 16391,16392,tt0075040,37550,Seven Beauties,Seven Beauties,Seven Beauties,1976,1975,1975,0.8333333333333334,0.8333333333333334,0.8333333333333334
 16392,16393,,,Pokemon: The Movie 2000,,,2000,,,,,
 16393,16394,,,Prime Suspect 4,,,1995,,,,,
@@ -16797,7 +16797,7 @@
 16795,16796,tt0289873,18048,Brian's Song,Brian's Song,Brian's Song,2001,2001,2001,1.0,1.0,1.0
 16796,16797,,,Dragon Ball: The Saga of Goku,,,2000,,,,,
 16797,16798,tt0075513,,The Hardy Boys Nancy Drew Mysteries: Season 1,The Hardy Boys/Nancy Drew Mysteries,,1977,1977,,0.85,,0.85
-16798,16799,None,276302,Vans Warped Tour 2002,,Vans Warped Tour 2002,2002,,2002,,1.0,1.0
+16798,16799,,276302,Vans Warped Tour 2002,,Vans Warped Tour 2002,2002,,2002,,1.0,1.0
 16799,16800,,,Master of Disaster,,,1982,,,,,
 16800,16801,,,Dragon Ball Z: Broly's Second Coming,,,1996,,,,,
 16801,16802,tt0113211,46732,The Grass Harp,The Grass Harp,The Grass Harp,1996,1995,1995,0.83333333,0.8333333333333334,0.8333333333333334
@@ -16840,7 +16840,7 @@
 16838,16839,,,Secrets of War: The Gulf War,,,1998,,,,,
 16839,16840,tt0029843,10907,The Adventures of Robin Hood,The Adventures of Robin Hood,The Adventures of Robin Hood,1938,1938,1938,1.0,1.0,1.0
 16840,16841,tt0096257,14285,The Thin Blue Line,The Thin Blue Line,The Thin Blue Line,1988,1988,1988,1.0,1.0,1.0
-16841,16842,None,313408,MTV: The Real World You Never Saw: Paris,,MTV: The Real World You Never Saw: Paris,2003,,2003,,1.0,1.0
+16841,16842,,313408,MTV: The Real World You Never Saw: Paris,,MTV: The Real World You Never Saw: Paris,2003,,2003,,1.0,1.0
 16842,16843,tt0032383,40639,Dark Command,Dark Command,Dark Command,1940,1940,1940,1.0,1.0,1.0
 16843,16844,tt0290795,,One Way Out,One Way Out,,2002,2002,,1.0,,1.0
 16844,16845,,,The Best of the Improv: Vol. 2,,,2001,,,,,
@@ -16886,7 +16886,7 @@
 16884,16885,tt0140796,21661,Air Bud: Golden Receiver,Air Bud: Golden Receiver,Air Bud: Golden Receiver,1998,1998,1998,1.0,1.0,1.0
 16885,16886,,,Little House on the Prairie: Season 5,,,1978,,,,,
 16886,16887,tt0259484,13098,Paid in Full,Paid in Full,Paid in Full,2002,2002,2002,1.0,1.0,1.0
-16887,16888,None,1148128,World Trade Center: In Memoriam,,World Trade Center: In Memoriam,2002,,2002,,1.0,1.0
+16887,16888,,1148128,World Trade Center: In Memoriam,,World Trade Center: In Memoriam,2002,,2002,,1.0,1.0
 16888,16889,tt0065063,11485,Take the Money and Run,Take the Money and Run,Take the Money and Run,1969,1969,1969,1.0,1.0,1.0
 16889,16890,tt0244479,15813,Dark Blue World,Dark Blue World,Dark Blue World,2001,2001,2001,1.0,1.0,1.0
 16890,16891,tt0111693,10449,When a Man Loves a Woman,When a Man Loves a Woman,When a Man Loves a Woman,1994,1994,1994,1.0,1.0,1.0
@@ -17027,7 +17027,7 @@
 17025,17026,,,My Favorite Martian: The Movie,,,1999,,,,,
 17026,17027,tt0210567,34299,Beautiful,Beautiful,Beautiful,2000,2000,2000,1.0,1.0,1.0
 17027,17028,,,Dragon Ball Z: Vol. 17: Super Saiyan,,,1998,,,,,
-17028,17029,None,319922,The Unknown Jimmy Durante,,The Unknown Jimmy Durante,2000,,2000,,1.0,1.0
+17028,17029,,319922,The Unknown Jimmy Durante,,The Unknown Jimmy Durante,2000,,2000,,1.0,1.0
 17029,17030,tt0408034,1030059,The Nick & Jessica Variety Hour,The Nick & Jessica Variety Hour,The Nick and Jessica Variety Hour,2004,2004,2004,1.0,0.9375,1.0
 17030,17031,tt0270288,4912,Confessions of a Dangerous Mind,Confessions of a Dangerous Mind,Confessions of a Dangerous Mind,2002,2002,2002,1.0,1.0,1.0
 17031,17032,tt0297163,489333,Just Do It,Just Do It!,Just Do It!,2000,2000,2000,0.95238095,0.95238095,0.95238095
@@ -17242,7 +17242,7 @@
 17240,17241,tt0106471,18215,Boxing Helena,Boxing Helena,Boxing Helena,1993,1993,1993,1.0,1.0,1.0
 17241,17242,,,Unlocking Da Vinci's Code: Mystery or Conspiracy?,,,2004,,,,,
 17242,17243,,,Warlock,,,1991,,,,,
-17243,17244,None 'tt4120298' None None,926094,Mirror,,Mirror,1974,,1974,,1.0,1.0
+17243,17244,,926094,Mirror,,Mirror,1974,,1974,,1.0,1.0
 17244,17245,tt0119590,27103,Ma Vie En Rose,Ma vie en rose,My Life in Pink,1997,1997,1997,1.0,0.4827586206896552,1.0
 17245,17246,tt0360611,412889,Gotham Fish Tales,Gotham Fish Tales,Gotham Fish Tales,2003,2003,2005,1.0,0.6944444444444444,1.0
 17246,17247,tt0071746,27094,Lenny,Lenny,Lenny,1974,1974,1974,1.0,1.0,1.0
@@ -17282,7 +17282,7 @@
 17280,17281,tt0331952,10742,The Clearing,The Clearing,The Clearing,2004,2004,2004,1.0,1.0,1.0
 17281,17282,,,The Leopard (English Dubbed Version),,,1963,,,,,
 17282,17283,,,Hail Columbia!: IMAX,,,1995,,,,,
-17283,17284,None,319944,Yes: Yesspeak: 35th Anniversary Tour,,Yes: Yesspeak: 35th Anniversary Tour,2003,,2003,,1.0,1.0
+17283,17284,,319944,Yes: Yesspeak: 35th Anniversary Tour,,Yes: Yesspeak: 35th Anniversary Tour,2003,,2003,,1.0,1.0
 17284,17285,tt0168062,309738,Mary Chapin Carpenter: Jubilee: Live at Wolf Trap,In the Spotlight: Mary Chapin Carpenter,Mary Chapin Carpenter: Jubilee: Live at Wolf Trap,1995,1995,1995,0.4772727272727273,1.0,1.0
 17285,17286,tt0202055,207649,Vanaprastham,Vanaprastham,Vanaprastham,1999,1999,1999,1.0,1.0,1.0
 17286,17287,tt0097883,4296,Millennium,Millennium,Millennium,1989,1989,1989,1.0,1.0,1.0
@@ -17404,7 +17404,7 @@
 17402,17403,tt0418141,12902,Scooby-Doo and the Loch Ness Monster,Scooby-Doo and the Loch Ness Monster,Scooby-Doo! and the Loch Ness Monster,2004,2004,2004,1.0,0.9863013698630136,1.0
 17403,17404,,,Watching You,,,2003,,,,,
 17404,17405,tt0318649,7364,Sahara,Sahara,Sahara,2005,2005,2005,1.0,1.0,1.0
-17405,17406,None 'tt0303668,474362,Apocalypse,,Apocalypse,1998,,1998,,1.0,1.0
+17405,17406,,474362,Apocalypse,,Apocalypse,1998,,1998,,1.0,1.0
 17406,17407,tt0047542,18398,Suddenly,Suddenly,Suddenly,1954,1954,1954,1.0,1.0,1.0
 17407,17408,tt0049967,26865,X the Unknown,X the Unknown,X the Unknown,1956,1956,1956,1.0,1.0,1.0
 17408,17409,,,Blast!,,,2005,,,,,
@@ -17516,8 +17516,8 @@
 17514,17515,tt0495228,20610,LeapFrog: Letter Factory,LeapFrog: The Letter Factory,LeapFrog: Letter Factory,2003,2003,2003,0.9230769230769231,1.0,1.0
 17515,17516,tt0056579,41279,The Three Stooges Meet Hercules,The Three Stooges Meet Hercules,The Three Stooges Meet Hercules,1962,1962,1962,1.0,1.0,1.0
 17516,17517,tt0360032,32141,Strange Bedfellows,Strange Bedfellows,Strange Bedfellows,2004,2004,2004,1.0,1.0,1.0
-17517,17518,None 'tt0297755,641897,Fallen Angel,,Fallen Angels II,1999,,1999,,0.85714286,0.85714286
-17518,17519,None,1162926,Bellydance Fitness for Beginners: Slim Down,,Bellydance Fitness for Beginners: Slim Down,2001,,2001,,1.0,1.0
+17517,17518,,641897,Fallen Angel,,Fallen Angels II,1999,,1999,,0.85714286,0.85714286
+17518,17519,,1162926,Bellydance Fitness for Beginners: Slim Down,,Bellydance Fitness for Beginners: Slim Down,2001,,2001,,1.0,1.0
 17519,17520,tt2173762,310847,Bruce Lee: A Dragon Story,The Dragon Story,Bruce Lee: A Dragon Story,1974,1974,1974,0.68292683,1.0,1.0
 17520,17521,,,Neale Donald Walsch: On Abundance and Holistic Living,,,2000,,,,,
 17521,17522,tt0085380,115332,Cross Creek,Cross Creek,Cross Creek,1983,1983,1983,1.0,1.0,1.0
@@ -17562,7 +17562,7 @@
 17560,17561,tt0282593,20718,I'm With Lucy,I'm with Lucy,I'm with Lucy,2002,2002,2002,1.0,1.0,1.0
 17561,17562,tt0379593,3396,The Yes Men,The Yes Men,The Yes Men,2004,2003,2003,0.83333333,0.8333333333333334,0.8333333333333334
 17562,17563,tt0056193,802,Lolita,Lolita,Lolita,1962,1962,1962,1.0,1.0,1.0
-17563,17564,None,312347,Battle Athletes Victory: Vol. 2: Doubt and Conflict,,Battle Athletes Victory: Vol. 2: Doubt and Conflict,1999,,1999,,1.0,1.0
+17563,17564,,312347,Battle Athletes Victory: Vol. 2: Doubt and Conflict,,Battle Athletes Victory: Vol. 2: Doubt and Conflict,1999,,1999,,1.0,1.0
 17564,17565,tt0106598,9612,Coneheads,Coneheads,Coneheads,1993,1993,1993,1.0,1.0,1.0
 17565,17566,tt0436682,76161,Pretenders: Loose in L.A.,Pretenders Loose in L.A.,Pretenders - Loose in L.A.,2003,2003,2003,0.9795918367346939,0.9411764705882353,0.9795918367346939
 17566,17567,tt0053072,43120,Missile to the Moon,Missile to the Moon,Missile to the Moon,1959,1958,1958,0.83333333,0.8333333333333334,0.8333333333333334
@@ -17581,7 +17581,7 @@
 17579,17580,tt0327247,2122,The Whole Ten Yards,The Whole Ten Yards,The Whole Ten Yards,2004,2004,2004,1.0,1.0,1.0
 17580,17581,tt0274652,613886,Me and Mrs. Jones,Me & Mrs. Jones,,2001,2001,,0.875,,0.875
 17581,17582,,,Line of Control,,,2003,,,,,
-17582,17583,None,495172,Cops: Shots Fired,,Cops: Shots Fired,2004,,2004,,1.0,1.0
+17582,17583,,495172,Cops: Shots Fired,,Cops: Shots Fired,2004,,2004,,1.0,1.0
 17583,17584,tt0429746,53450,Cat Stevens: Majikat,Cat Stevens: Majikat,Cat Stevens: Majikat,2004,2004,2004,1.0,1.0,1.0
 17584,17585,tt8245444,,Bill Engvall's New All-Stars of Country Comedy: Vol. 1,Bill Engvall's New All Stars of Country Comedy Vol. 1,,2000,2000,,0.97196262,,0.97196262
 17585,17586,,,Cool World,,,1992,,,,,

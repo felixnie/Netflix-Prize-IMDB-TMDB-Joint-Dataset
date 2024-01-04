@@ -6,17 +6,13 @@ Your (all-in-one) Netflix Prize dataset, augmented and calibrated with IMDB and 
 
 # Why joint dataset?
 
-- The prestigious Netflix Prize dataset only hosts ratings, titles and release years, while larger datasets have rich information on the genres and credits.
+The prestigious Netflix Prize dataset only hosts ratings, titles and release years, while larger datasets have rich information on the genres and credits.
 
-- While aligning movies and TV shows in the Netflix Prize dataset, it's impractical to simply find the matching year and title because:
+While aligning movies and TV shows in the Netflix Prize dataset, it's impractical to simply find the matching year and title since:
 
-    - the years may correspond to the release of DVD rather than the theatre release.
+- the years may correspond to the release of DVD rather than the theatre release.
 
-    - the titles are slightly different between datasets.
-
-- More and more open datasets are becoming private, making the old scraping methods deprecated.
-
-- The scraping scripts for augmentation can be applied to other datasets. See my [other datasets](#other-datasets).
+- the titles are slightly different between datasets.
 
 # What's included?
 
@@ -81,13 +77,9 @@ Merged and calibrated by IMDB and TMDB datasets. The calibration rules are:
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-07.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-08.png) |
 
-## 4. Netflix Prize - IMDB genres
+## 4. Netflix Prize - IMDB genres and cast
 
-## 5. Netflix Prize - TMDB genres
-
-## 5. Netflix Prize - IMDB credits
-
-## 7. Netflix Prize - TMDB credits
+## 5. Netflix Prize - TMDB genres and cast
 
 # Other datasets
 
