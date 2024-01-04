@@ -16,7 +16,7 @@ While aligning movies and TV shows in the Netflix Prize dataset, it's impractica
 
 # What's included?
 
-## 1. Netflix Prize - IMDB joint dataset
+## 1. Netflix Prize - IMDB dataset
 
 ### Contents
 
@@ -49,7 +49,7 @@ Movies with scores `< 0.3` are dropped.
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-02.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-03.png) |
 
-## 2. Netflix Prize - TMDB joint dataset
+## 2. Netflix Prize - TMDB dataset
 
 ### Contents
 
@@ -61,11 +61,11 @@ Similar to the [above](#1-netflix-prize---imdb-joint-dataset).
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-04.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-05.png) |
 
-## 3. Netflix Prize - IMDB - TMDB calibrated dataset
+## 3. Netflix Prize - IMDB - TMDB joint dataset
 
 ### Contents
 
-Merged and calibrated by IMDB and TMDB datasets. The calibration rules are:
+Merged with IMDB and TMDB datasets. The merging rules are:
 
 1. only movies with scores `> 0.8` are accepted.
 
@@ -77,11 +77,16 @@ Merged and calibrated by IMDB and TMDB datasets. The calibration rules are:
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-07.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-08.png) |
 
-## 4. Netflix Prize - IMDB genres and cast
+## 4. Netflix Prize - IMDB - TMDB joint dataset with genres and cast
 
-## 5. Netflix Prize - TMDB genres and cast
+### Contents
 
-# Other datasets
+Merged with IMDB and TMDB datasets and augmented with genres and cast information from both sources.
 
-MovieLens IMDB TMDB Joint Dataset
+![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-09.png)
 
+### Completeness
+
+| distribution | completeness |
+| :------------------: | :------------------: |
+| ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-10.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-11.png) |
