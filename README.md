@@ -1,7 +1,5 @@
 # Netflix Prize IMDB TMDB Joint Dataset
 
-Your (all-in-one) Netflix Prize dataset, augmented and calibrated with IMDB and TMDB. Refining and updating from time to time.
-
 ![sources](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-01.png)
 
 # Why joint dataset?
