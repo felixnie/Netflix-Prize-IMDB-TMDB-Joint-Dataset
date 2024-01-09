@@ -7,12 +7,14 @@ Your (all-in-one) Netflix Prize dataset, augmented and calibrated with IMDB and 
 # Why joint dataset?
 
 The prestigious Netflix Prize dataset only hosts ratings, titles and release years, while larger datasets have rich information on the genres and credits.
+However, while aligning movies and TV shows in the Netflix Prize dataset, simply matching by year and title is impractical:
 
-While aligning movies and TV shows in the Netflix Prize dataset, it's impractical to simply find the matching year and title since:
+1. the years may correspond to the release of DVD rather than the theatre release.
+2. the titles are slightly different between datasets.
 
-- the years may correspond to the release of DVD rather than the theatre release.
+Thus a dataset with matching confidence scores is preferred. Users can set the confidence threshold to obtain a dataset with different completeness levels.
 
-- the titles are slightly different between datasets.
+TMDB dataset is included with IMDB as an augmentation. IMDB data is fetched using `cinemaagoer`, as TMDB data is requested through TMDB API.
 
 # What's included?
 
@@ -26,14 +28,16 @@ Netflix Prize dataset with IMDB ids, titles and release years. Each movie or TV 
 
 | columns | descriptions |
 | :-----: | :----------: |
-| netflix_id | id in Netflix dataset |
-| imdb_ids | list of possible IMDB ids, sorted by `imdb_scores` |
-| netflix_title | title in Netflix dataset |
-| imdb_titles | list of titles arrording to IMDB ids |
-| netflix_year | relase year in Netflix dataset |
-| imdb_years | list of release years arrording to IMDB ids |
-| imdb_scores | similarity between results from IMDB and the item from Netflix | 
-| tmdb_ids | corresponding TMDB ids of the IMDB ids, if they have |
+| `netflix_id` | id in Netflix dataset |
+| `imdb_ids` | list of possible IMDB ids, sorted by `imdb_scores` |
+| `netflix_title` | title in Netflix dataset |
+| `imdb_titles` | list of titles arrording to IMDB ids |
+| `netflix_year` | relase year in Netflix dataset |
+| `imdb_years` | list of release years arrording to IMDB ids |
+| `imdb_scores` | similarity between results from IMDB and the item from Netflix | 
+| `tmdb_ids` | corresponding TMDB ids of the IMDB ids, if they have |
+
+Note that `.csv` saves list as strings for display, and `.pickle` reserves the original list type out-of-the-box.
 
 ### Confidence scores
 
@@ -53,7 +57,7 @@ Movies with scores `< 0.3` are dropped.
 
 ### Contents
 
-Similar to the [above](#1-netflix-prize---imdb-joint-dataset).
+Similar to [`netflix_imdb`](#1-netflix_imdb-netflix-prize-imdb-dataset).
 
 ### Completeness
 
@@ -65,11 +69,12 @@ Similar to the [above](#1-netflix-prize---imdb-joint-dataset).
 
 ### Contents
 
-Merged with IMDB and TMDB datasets. The merging rules are:
+Merged [`netflix_imdb`](#1-netflix_imdb-netflix-prize-imdb-dataset) and [`netflix_tmdb`](#2-netflix_tmdb-netflix-prize-tmdb-dataset) dataset. The merging rules are:
 
-1. only movies with scores `> 0.8` are accepted.
-
+1. only movies with scores `> 0.8` are accepted, to be conservative.
 2. it's skipped if there exist multiple movies with the same highest score, `1.0`.
+
+Manual validation for hard cases will be added in the future.
 
 ### Completeness
 
@@ -81,7 +86,7 @@ Merged with IMDB and TMDB datasets. The merging rules are:
 
 ### Contents
 
-Merged with IMDB and TMDB datasets and augmented with genres and cast information from both sources.
+Merged dataset [`netflix_imdb_tmdb`](#3-netflix_imdb_tmdb-netflix-prize-imdb-tmdb-joint-dataset), but augmented with genres and cast information from both sources.
 
 ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-09.png)
 
@@ -90,3 +95,7 @@ Merged with IMDB and TMDB datasets and augmented with genres and cast informatio
 | distribution | completeness |
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-10.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-11.png) |
+
+# Other datasets
+
+[MovieLens-IMDB-Dataset](https://github.com/felixnie/MovieLens-IMDB-Dataset)
