@@ -12,7 +12,7 @@ However, while aligning movies and TV shows in the Netflix Prize dataset, simply
 
 Thus a dataset with matching confidence scores is preferred. Users can set the confidence threshold to obtain a dataset with different completeness levels.
 
-TMDB dataset is included with IMDB as an augmentation. IMDB data is fetched using `cinemaagoer`, as TMDB data is requested through TMDB API.
+TMDB dataset is included with IMDB as an augmentation. IMDB data is fetched using `cinemagoer`, as TMDB data is requested through TMDB API.
 
 # What's included?
 
