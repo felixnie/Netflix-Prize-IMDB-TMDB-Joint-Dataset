@@ -93,3 +93,7 @@ Merged dataset [`netflix_imdb_tmdb`](#3-netflix_imdb_tmdb-netflix-prize-imdb-tmd
 | distribution | completeness |
 | :------------------: | :------------------: |
 | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-10.png) | ![](https://raw.githubusercontent.com/felixnie/img/main/netflix-prize-11.png) |
+
+# Other datasets
+
+[MovieLens IMDB Dataset](https://github.com/felixnie/MovieLens-IMDB-Dataset)
