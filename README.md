@@ -7,8 +7,8 @@
 The prestigious Netflix Prize dataset only hosts ratings, titles and release years, while larger datasets have rich information on the genres and credits.
 However, while aligning movies and TV shows in the Netflix Prize dataset, simply matching by year and title is impractical:
 
-1. the years may correspond to the release of DVD rather than the theatre release.
-2. the titles are slightly different between datasets.
+1. The years may correspond to the release of DVD rather than the theatre release.
+2. The titles are slightly different between datasets.
 
 Thus a dataset with matching confidence scores is preferred. Users can set the confidence threshold to obtain a dataset with different completeness levels.
 
